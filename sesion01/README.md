@@ -38,11 +38,11 @@ Luego de la ejecución de la prueba de carga con 100 usuarios simultáneos revis
 
 - Ejecución con 30 hilos con intervalos de 1 segundo.
 
-![TG2](https://user-images.githubusercontent.com/77414220/169911745-b4eaeec2-2d51-49b3-b281-fa73af7c97ce.PNG)
+![TG1](https://user-images.githubusercontent.com/77414220/169911771-5210f3cf-e1a1-419b-8457-6e5608a7ef57.PNG)
 
 - Ejecución con 100 hilos con intervalos de 2 segundos.
 
-![TG1](https://user-images.githubusercontent.com/77414220/169911771-5210f3cf-e1a1-419b-8457-6e5608a7ef57.PNG)
+![TG2](https://user-images.githubusercontent.com/77414220/169911745-b4eaeec2-2d51-49b3-b281-fa73af7c97ce.PNG)
 
 -Resultados finales
 
