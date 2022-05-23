@@ -47,3 +47,5 @@ Luego de la ejecución de la prueba de carga con 100 usuarios simultáneos revis
 -Resultados finales
 
 ![Results](https://user-images.githubusercontent.com/77414220/169911807-a9ed8a6a-75fb-4697-95c0-de725a95e3bd.PNG)
+
+Se adjunta un archivo jmx con los resultados obtenidos del test.
