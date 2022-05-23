@@ -1,21 +1,32 @@
-## Sesión 1: Introducción a Performance Testing & JMeter 🤖
+# Sesión 1: Introducción a Performance Testing & JMeter 
 
-<img src="../images/android-kotlin.png" align="right" height="120" hspace="10">
-<div style="text-align: justify;">
+## :dart: Objetivos
 
-### 1. Objetivos :dart: 
-
-- Revisar el concepto de las pruebas de rendimiento, su utilidad y el desarrollo de pruebas acorde a requerimientos no funcionales.
-- Distinguir los roles y funciones que intervienen en la creación y ejecución de pruebas de rendimiento.
-- Modelar las pruebas de rendimiento por medio del análisis del paso a paso que tiene un proceso de pruebas.
-- Emplear las herramientas JDK y JRE que son prerrequisito de JMeter.
-- Establecer la instalación y configuración de JMeter, así como la aplicación de su certificado junto con el plugin que permite su ejecución.
-- Utilizar la aplicación de JMeter a través del bat.
-- Desarrollar una transacción sencilla Ej: Login.
+- Ejecutar escenario de prueba con otros datos.
+- Emplear una transacción sencilla de una página web.
 
 
-### 2. Contenido :blue_book:
+## Desarrollo
 
-JMeter te ayudará a certificar que el producto de software para las transacciones que tengas de prueba cumpla con los requerimientos no funcionales para su paso a producción, aquí conocerás su definición, importancia y roles que intervienen en los proyectos a nivel de pruebas, además de conocer como elaborar un documento de seguimiento del proceso de pruebas junto con su procedimiento de instalación y ejecución.
+En esta sesión se harán variaciones a los datos que se envían en las peticiones con respecto a cantidad de usuarios vs tiempo de petición, tanto en la misma transacción como en una nueva.
 
----
+**Asegúrate de comprender:**
+
+- Cómo se estructura un test plan.
+- Dónde se indican las variables de prueba (hilos y tiempos).
+
+**Indicaciones Generales**
+
+Con lo trabajado en el work, ya hemos hecho la grabación y ejecución de un escenario de prueba, en este paso vamos a interactuar con los datos enviados para las peticiones de prueba con las siguientes indicaciones:
+
+* Ejecutar con **20 hilos** (usuarios) la transacción con intervalos de 2 segundos la petición.
+
+Luego de la ejecución de la prueba de carga con 20 usuarios simultáneos revisamos el árbol de resultados donde vemos la cantidad de pasos exitosos vs. fallidos que resultaron, si no hay fallidos el sistema está soportando satisfactoriamente la cantidad de usuarios.
+
+* Ejecutar con **30 hilos** (usuarios) la transacción con intervalos de 1 segundos la petición.
+
+Luego de la ejecución de la prueba de carga con 30 usuarios simultáneos revisamos el árbol de resultados donde vemos la cantidad de pasos exitosos vs. fallidos que resultaron, si no hay fallidos el sistema está soportando satisfactoriamente la cantidad de usuarios, de lo contrario vamos revisando cuantos pasos fallidos resultaron y vamos comparando qué cantidad soporta el sistema.
+
+* Ejecutar con **100 hilos** (usuarios) la transacción con intervalos de 2 segundos la petición.
+
+Luego de la ejecución de la prueba de carga con 100 usuarios simultáneos revisamos el árbol de resultados donde vemos la cantidad de pasos exitosos vs fallidos que resultaron, si no hay fallidos el sistema está soportando satisfactoriamente la cantidad de usuarios, de lo contrario vamos revisando cuantos pasos fallidos resultaron y vamos comparando qué cantidad soporta el sistema. Ahora, si en alguno de los 2 pasos anteriores hubo muchos pasos fallidos este va a ser muy probable que ocurra con mayor cantidad.
