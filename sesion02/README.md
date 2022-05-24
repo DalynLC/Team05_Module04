@@ -58,4 +58,10 @@ https://user-images.githubusercontent.com/77414220/170132505-6dc5f1b0-240f-4305-
 
 - Ejecución de la prueba con 100 usuarios con intervalo de 2 segundos.
 
+![thread100](https://user-images.githubusercontent.com/77414220/170136379-88b4311b-689e-4dfd-970e-e7d5ef69e21a.PNG)
+
+![runningTest100](https://user-images.githubusercontent.com/77414220/170136393-4ed515e9-25ae-401f-9320-a86e6cc6dfeb.PNG)
+
+![graph100](https://user-images.githubusercontent.com/77414220/170136409-54c2d91f-2600-4c74-ae4e-44a2ee3e7947.PNG)
+
  
