@@ -41,6 +41,9 @@ En esta sesión hemos visto que existen herramientas de grabación externas a JM
     Página de reservación de vuelos.
     
 - Flujo de la prueba: 
+
+https://user-images.githubusercontent.com/77414220/170132505-6dc5f1b0-240f-4305-b9c2-e18493a1b367.mp4
+
 - Ejecución de la prueba con 20 usuarios con intervalo de 2 segundos.
 
 ![thread20](https://user-images.githubusercontent.com/77414220/170131683-2c751a88-53d5-40ce-9b3b-faf6ab7613ef.PNG)
