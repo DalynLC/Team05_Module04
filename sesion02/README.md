@@ -6,7 +6,7 @@
 * Crear las solicitudes (acciones) del navegador a la aplicación web.
 * Ejecutar las pruebas de rendimiento a partir de los script grabados.
 
-## Desarrollo
+## Instrucciones
 
 En esta sesión hemos visto que existen herramientas de grabación externas a JMeter pero que se integran con esta para la ejecución de pruebas de rendimiento, 2 de estas son BlazeMeter y BadBoy.
 
