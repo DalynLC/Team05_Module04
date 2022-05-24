@@ -48,11 +48,15 @@ https://user-images.githubusercontent.com/77414220/170132505-6dc5f1b0-240f-4305-
 
 ![thread20](https://user-images.githubusercontent.com/77414220/170131683-2c751a88-53d5-40ce-9b3b-faf6ab7613ef.PNG)
 
+![r20](https://user-images.githubusercontent.com/77414220/170137793-226232b1-b1db-4ff6-9f54-969ecba2a6df.PNG)
+
 ![graph20](https://user-images.githubusercontent.com/77414220/170131716-b556ceeb-f9d8-4a6e-8641-fe32bb2dcab4.PNG)
 
 - Ejecución de la prueba con 30 usuarios con intervalo de 1 segundo.
 
 ![thread30](https://user-images.githubusercontent.com/77414220/170132019-133f8c77-7b03-4bb4-8f48-217a79745c93.PNG)
+
+![r30](https://user-images.githubusercontent.com/77414220/170137802-250c0bf8-418d-4f1b-a169-126305c413f7.PNG)
 
 ![graph30](https://user-images.githubusercontent.com/77414220/170132038-47f8101a-65c9-4c1e-abe6-8e370a5be89a.PNG)
 
