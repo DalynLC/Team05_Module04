@@ -23,6 +23,8 @@ Limpiar los listeners antes de cada ejecución.
 
 Crear un TestPlan con sus elementos de prueba, grabación y resultados.
 
+https://user-images.githubusercontent.com/77414220/170371806-0a5f6b69-e076-4389-b57e-3f1b1ec2c8fd.mp4
+
 *Grabar primer escenario de prueba*
 - Configurar el Thread Group con usuarios para pruebas de carga.
 - ![carga1_1](https://user-images.githubusercontent.com/23124413/170367190-15461229-b75a-4ae0-b09a-ae3529dcebd9.PNG)
