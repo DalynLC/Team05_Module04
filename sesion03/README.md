@@ -54,18 +54,38 @@ Crear un TestPlan con sus elementos de prueba, grabación y resultados.
 - Revisar elementos de resultados.
 
 *Grabar segundo escenario de prueba*
+![prueba2](https://user-images.githubusercontent.com/23124413/170371126-5f77cc55-6c22-4d74-950c-e87a9e455639.PNG)
 - Configurar el Thread Group con usuarios para pruebas de carga.
+- ![carga2_1](https://user-images.githubusercontent.com/23124413/170371161-098ec8ec-a0ce-498e-becb-f74cb58c6949.PNG)
 - Ejecutar prueba.
+- ![carga2_2](https://user-images.githubusercontent.com/23124413/170371206-4b0d0b99-f70a-4d18-be19-4ebca50e28b0.PNG)
 - Revisar elementos de resultados.
+- ![carga2_3](https://user-images.githubusercontent.com/23124413/170371223-53da53e3-87d2-4903-8450-4e1799d1549b.PNG)
+  ![carga2_4](https://user-images.githubusercontent.com/23124413/170371228-94406a62-9b4f-402d-b368-cbbb1daba06e.PNG)
+
 
 - Configurar el Thread Group con usuarios para pruebas de estrés.
+- ![estres2_1](https://user-images.githubusercontent.com/23124413/170371250-97c0724d-47cc-4c3e-9311-ab380a255c47.PNG)
 - Ejecutar prueba.
+- ![estres2_2](https://user-images.githubusercontent.com/23124413/170371275-efa6a894-9ce0-4946-b101-010cc9d3c58e.PNG)
 - Revisar elementos de resultados.
+- ![estres2_3](https://user-images.githubusercontent.com/23124413/170371291-534b799c-7bff-41db-9d17-a4b750265d3b.PNG)
+  ![estres2_4](https://user-images.githubusercontent.com/23124413/170371292-bd6a02a8-dbea-4ffd-a583-37a3885074d6.PNG)
+
 
 - Configurar el Thread Group con usuarios para pruebas de estabilidad.
+- ![estabilidad1_1](https://user-images.githubusercontent.com/23124413/170371311-d9e85fa8-9bbd-4748-a370-1b62f79e62f8.PNG)
 - Ejecutar prueba.
+- ![estabilidad1_2](https://user-images.githubusercontent.com/23124413/170371332-f21a687b-1a48-409b-8d52-e52b8c570010.PNG)
 - Revisar elementos de resultados.
+- ![estabilidad1_4](https://user-images.githubusercontent.com/23124413/170371358-db1ac0ed-ebcd-4ffb-bca9-0eb022a97601.PNG)
+![estabilidad1_3](https://user-images.githubusercontent.com/23124413/170371339-eb292a1a-56f7-4ac3-8a00-4a9a91bba462.PNG)
 
 - Configurar el Thread Group con usuarios para pruebas de recuperación.
+- ![recuperacion2_1](https://user-images.githubusercontent.com/23124413/170371400-c90b3596-df6f-4371-9230-a1fef31ced96.PNG)
 - Ejecutar prueba.
+- ![recuperacion2_2](https://user-images.githubusercontent.com/23124413/170371419-992beae0-5ff5-44fe-88ae-826876230e4b.PNG)
 - Revisar elementos de resultados.
+- ![recuperacion2_3](https://user-images.githubusercontent.com/23124413/170371441-b023ca07-acd4-4c8f-b1a9-8b2c63920fb9.PNG)
+![recuperacion2_4](https://user-images.githubusercontent.com/23124413/170371449-dfa3f2dc-73bd-4114-994e-603eee7a50dd.PNG)
+
