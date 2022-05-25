@@ -25,13 +25,17 @@ Crear un TestPlan con sus elementos de prueba, grabación y resultados.
 
 *Grabar primer escenario de prueba*
 - Configurar el Thread Group con usuarios para pruebas de carga.
+- ![carga1_1](https://user-images.githubusercontent.com/23124413/170367190-15461229-b75a-4ae0-b09a-ae3529dcebd9.PNG)
 - Ejecutar prueba.
+- ![carga1_2](https://user-images.githubusercontent.com/23124413/170367248-34f036b6-b449-41db-ae1e-6669d2a27c3b.PNG)
 - Revisar elementos de resultados.
+- ![carga1_3](https://user-images.githubusercontent.com/23124413/170367290-9cd6f45e-c03b-44cd-b648-0a2c864ca6a7.PNG)
+- ![carga1_4](https://user-images.githubusercontent.com/23124413/170367307-ff8f3c40-9f01-42d8-ba34-656c04d228e4.PNG)
 
 - Configurar el Thread Group con usuarios para pruebas de estrés.
+- 
 - Ejecutar prueba.
 - Revisar elementos de resultados.
-
 - Configurar el Thread Group con usuarios para pruebas de estabilidad.
 - Ejecutar prueba.
 - Revisar elementos de resultados.
