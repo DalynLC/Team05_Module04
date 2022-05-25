@@ -31,7 +31,7 @@ Crear un TestPlan con sus elementos de prueba, grabación y resultados.
 - Revisar elementos de resultados.
 - ![carga1_3](https://user-images.githubusercontent.com/23124413/170367290-9cd6f45e-c03b-44cd-b648-0a2c864ca6a7.PNG)
 - ![carga1_4](https://user-images.githubusercontent.com/23124413/170367307-ff8f3c40-9f01-42d8-ba34-656c04d228e4.PNG)
-<hr>
+
 - Configurar el Thread Group con usuarios para pruebas de estrés.
 - ![estres1_1](https://user-images.githubusercontent.com/23124413/170367613-24057f4a-222b-4f1c-8449-76cf3bdc2612.PNG)
 - Ejecutar prueba.
@@ -39,7 +39,7 @@ Crear un TestPlan con sus elementos de prueba, grabación y resultados.
 - Revisar elementos de resultados.
 - ![estres1_3](https://user-images.githubusercontent.com/23124413/170367656-5017b3f0-4cf9-4bd8-982e-333aa83143b5.PNG)
 - ![estres1_4](https://user-images.githubusercontent.com/23124413/170367665-1a331a2c-0cc7-47b0-81e1-68871c0efd60.PNG)
-<hr>
+
 - Configurar el Thread Group con usuarios para pruebas de estabilidad.
 - ![estabilidad1_1](https://user-images.githubusercontent.com/23124413/170367873-0edc5736-c60f-47a1-8e8b-fc28c7202bd9.PNG)
 - Ejecutar prueba.
@@ -48,13 +48,10 @@ Crear un TestPlan con sus elementos de prueba, grabación y resultados.
 - ![estabilidad1_3](https://user-images.githubusercontent.com/23124413/170367924-fa69b565-1c10-4bad-a53c-cb9a54ced42c.PNG)
 - ![estabilidad1_4](https://user-images.githubusercontent.com/23124413/170367928-da8edb74-ac41-43a7-a44a-687dd6ca0d2e.PNG)
 
-<hr>
+
 - Configurar el Thread Group con usuarios para pruebas de recuperación.
 - Ejecutar prueba.
 - Revisar elementos de resultados.
-
-
-
 
 *Grabar segundo escenario de prueba*
 - Configurar el Thread Group con usuarios para pruebas de carga.
