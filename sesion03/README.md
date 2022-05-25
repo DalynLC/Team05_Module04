@@ -32,10 +32,14 @@ Crear un TestPlan con sus elementos de prueba, grabación y resultados.
 - ![carga1_3](https://user-images.githubusercontent.com/23124413/170367290-9cd6f45e-c03b-44cd-b648-0a2c864ca6a7.PNG)
 - ![carga1_4](https://user-images.githubusercontent.com/23124413/170367307-ff8f3c40-9f01-42d8-ba34-656c04d228e4.PNG)
 
-- Configurar el Thread Group con usuarios para pruebas de estrés.
-- 
+-      Configurar el Thread Group con usuarios para pruebas de estrés.
+- ![estres1_1](https://user-images.githubusercontent.com/23124413/170367613-24057f4a-222b-4f1c-8449-76cf3bdc2612.PNG)
 - Ejecutar prueba.
+- ![estres1_2](https://user-images.githubusercontent.com/23124413/170367633-51ed00d9-4d7d-47d6-8238-f41727f01af3.PNG)
 - Revisar elementos de resultados.
+  ![estres1_3](https://user-images.githubusercontent.com/23124413/170367656-5017b3f0-4cf9-4bd8-982e-333aa83143b5.PNG)
+  ![estres1_4](https://user-images.githubusercontent.com/23124413/170367665-1a331a2c-0cc7-47b0-81e1-68871c0efd60.PNG)
+<hr>
 - Configurar el Thread Group con usuarios para pruebas de estabilidad.
 - Ejecutar prueba.
 - Revisar elementos de resultados.
