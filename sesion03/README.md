@@ -55,6 +55,8 @@ https://user-images.githubusercontent.com/77414220/170371806-0a5f6b69-e076-4389-
 - Ejecutar prueba.
 - Revisar elementos de resultados.
 
+https://user-images.githubusercontent.com/77414220/170372371-56d37278-9f5c-414b-aa12-2f489bee2e2b.mp4
+
 *Grabar segundo escenario de prueba*
 ![prueba2](https://user-images.githubusercontent.com/23124413/170371126-5f77cc55-6c22-4d74-950c-e87a9e455639.PNG)
 - Configurar el Thread Group con usuarios para pruebas de carga.
