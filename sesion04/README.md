@@ -15,7 +15,13 @@ Vamos a construir un proyecto en JMeter con 3 escenarios de prueba cada uno con 
 
 Crear un TestPlan con sus elementos de prueba, grabación y resultados.
 
-*Primer escenario de prueba*
+*Flujo de la prueba*
+
+
+https://user-images.githubusercontent.com/59595382/170577296-2d5d0473-754e-414b-9911-794a6b73431f.mp4
+
+
+*Primer escenario de prueba con CSV*
  ![csv_1](https://user-images.githubusercontent.com/59595382/170576432-3c105e06-796c-478c-ad64-a77342506856.PNG)
  ![csv_2](https://user-images.githubusercontent.com/59595382/170576606-acb480a9-aedb-4087-863a-adb54ccbaab2.PNG)
  ![csv_3](https://user-images.githubusercontent.com/59595382/170576618-4b07cec9-684a-496f-bc6e-d62a81ac16e6.PNG)
@@ -26,13 +32,9 @@ Crear un TestPlan con sus elementos de prueba, grabación y resultados.
  ![csv_8](https://user-images.githubusercontent.com/59595382/170576746-a80097e8-5a28-4eb4-9b91-f0b54cefe063.PNG)
  ![csv_9](https://user-images.githubusercontent.com/59595382/170576757-b7a71c54-d2cf-45af-b446-b9dfb806dc45.PNG)
 
-- Generar archivo .csv con los datos necesarios para la prueba.
-- Añadir al proyecto el elemento de CSV.
-- Configurar la parametrización del archivo .csv en el elemento creado.
-- Ejecutar el escenario de prueba.
-- Revisión de los elementos de resultados.
 
-*Segundo escenario de prueba*
+
+*Segundo escenario de prueba con BD*
 ![db_1](https://user-images.githubusercontent.com/59595382/170576927-0815221b-2a41-4bc2-9672-6608cee77a07.PNG)
 ![db_2](https://user-images.githubusercontent.com/59595382/170576944-6ecacd35-0bae-42b8-af58-0a791fdf449b.PNG)
 ![db_3](https://user-images.githubusercontent.com/59595382/170576953-feddf1c6-a824-4950-9a36-203d75958253.PNG)
@@ -44,10 +46,7 @@ Crear un TestPlan con sus elementos de prueba, grabación y resultados.
 ![db_9](https://user-images.githubusercontent.com/59595382/170577008-fe37366f-4c5e-4fd3-ac48-ba5553e43a80.PNG)
 
 
-- Crear una base de datos sencilla con los datos necesarios para la prueba.
-- Configurar la parametrización de la base de datos en el proyecto.
-- Ejecutar el escenario de prueba.
-- Revisión de los elementos de resultados.
+.
 
 *Grabar tercer escenario de prueba*
 - Añadir al proyecto el elemento del controlador parametrizado.
