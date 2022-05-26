@@ -15,8 +15,10 @@ Vamos a construir un proyecto en JMeter con 3 escenarios de prueba cada uno con 
 
 Crear un TestPlan con sus elementos de prueba, grabación y resultados.
 
-*Grabar primer escenario de prueba*
+*Primer escenario de prueba*
 - Generar archivo .csv con los datos necesarios para la prueba.
+- ![csv_1](https://user-images.githubusercontent.com/59595382/170576432-3c105e06-796c-478c-ad64-a77342506856.PNG)
+
 - Añadir al proyecto el elemento de CSV.
 - Configurar la parametrización del archivo .csv en el elemento creado.
 - Ejecutar el escenario de prueba.
