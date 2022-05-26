@@ -48,8 +48,15 @@ https://user-images.githubusercontent.com/59595382/170577296-2d5d0473-754e-414b-
 
 .
 
-*Grabar tercer escenario de prueba*
-- Añadir al proyecto el elemento del controlador parametrizado.
-- Configurar la parametrización de los datos en el elemento creado.
-- Ejecutar el escenario de prueba.
-- Revisión de los elementos de resultados.
+*Tercer escenario de prueba PARAMETRIZADO*
+![controller_1](https://user-images.githubusercontent.com/59595382/170581470-91fee62c-e1a5-463b-ba42-110ae822f88e.PNG)
+![controller_2](https://user-images.githubusercontent.com/59595382/170581710-0fb515d6-bc9c-44a0-8b79-00946bd1e8c2.PNG)
+![controller_3](https://user-images.githubusercontent.com/59595382/170581723-efb4ed59-3cd5-4a7f-8854-7e1c2c6b1261.PNG)
+![controller_4](https://user-images.githubusercontent.com/59595382/170581737-7045432c-20b0-48c5-b87a-a5c2c7e1e5a8.PNG)
+![controller_5](https://user-images.githubusercontent.com/59595382/170581748-be1d4e45-f83c-4378-b1d1-249485fcdc6d.PNG)
+![controller_6](https://user-images.githubusercontent.com/59595382/170582062-a8dcec07-faa3-4f61-b8cb-82bfcf401b8b.PNG)
+![controller_7](https://user-images.githubusercontent.com/59595382/170582251-4a18dcc1-4f5e-4f8d-80e8-c800196e5e4c.PNG)
+![controller_8](https://user-images.githubusercontent.com/59595382/170582269-2f1c4de5-8852-48db-a6ce-5f5e0c81d9c2.PNG)
+![controller_9](https://user-images.githubusercontent.com/59595382/170582294-f0c0a4eb-691d-41c5-bac8-30ddbe57904e.PNG)
+
+
