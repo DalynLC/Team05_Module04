@@ -56,8 +56,6 @@ Validar el acceso del flujo "selección de destino y origen > selección de vuel
 
 ![carga - tree](https://user-images.githubusercontent.com/77414220/170794679-9e5e9797-806c-4f1c-b920-8bf176ac8db9.PNG)
 
-![carga - summary](https://user-images.githubusercontent.com/77414220/170794681-b5cceb98-9d73-4a24-9513-1d69681ba2e4.PNG)
-
 ![carga - graph](https://user-images.githubusercontent.com/77414220/170794680-262cc6d0-ab03-4deb-ab87-2600438ffc67.PNG)
 
 <img width="1110" alt="Aggregate Graph - carga" src="https://user-images.githubusercontent.com/77414220/170794720-c9fdf7c2-2178-4893-8f1e-f0f1f395b83d.png">
@@ -93,6 +91,13 @@ Validar el acceso del flujo "selección de destino y origen > selección de vuel
 
 Los parámetros utilizados como base para la realización del análisis de los resultados y métricas de rendimiento son el promedio, mínimo, máximo y porcentaje de error obtenidos de cada prueba, tal como se muestra en las siguientes imágenes.
 
+![carga - summary](https://user-images.githubusercontent.com/77414220/170796239-a900fb7c-7d9e-4039-ad5a-bb7f17777b6c.PNG)
+
+![estabilidad - summary](https://user-images.githubusercontent.com/77414220/170796248-9c894ca1-b33f-4133-ae2b-891903adaec6.PNG)
+
+![estres - summary](https://user-images.githubusercontent.com/77414220/170796257-176b26e7-a985-410f-a5af-dfdd113438a2.PNG)
+
+
 ### Actividades y entregables de pruebas de rendimiento
 
 
@@ -104,7 +109,9 @@ Como datos de prueba se utilizaron:
 
 Los datos empleados para el llenado de los campos se obtuvieron del archivo postworkData.csv con los siguientes valores:
 
-
+Mexico City,New York,12,765.32,Virgin America,Jane Doe,123 Main St,Anytown,State,12345,Jane Doe,1111111111111111,Visa,11,2017
+Mexico City,New York,12,765.32,Virgin America,John Doe,123 Main St,Anytown,State,12345,John Doe,1111111111111111,Visa,11,2017
+Mexico City,New York,12,765.32,Virgin America,Mary Sue,123 Main St,Anytown,State,12345,Mary Sue,1111111111111111,Visa,11,2017
 
 ## CRITERIOS DE ENTRADA Y SALIDA
 ### Criterios de entrada
