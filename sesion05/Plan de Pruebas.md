@@ -1,11 +1,7 @@
 # PLAN DE PRUEBAS
 
 ## INTRODUCCIÓN
-
-| Primer encabezado | Segundo encabezado |
-| ------------- | ------------- |
-| Contenido de la celda  | Contenido de la celda  | 
-| Contenido de la celda  | Contenido de la celda  |
+# Se tiene una applicación para la compra de vuelos, se analizará la capacidad de los usuarios en simultáneo que soporta la aplicación para la compra de los vuelos.
 
 ## OBJETIVOS
 
