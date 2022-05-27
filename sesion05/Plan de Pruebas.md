@@ -41,4 +41,15 @@
 
 ## ABREVIATURAS
 
+| Abreviatura | Descripción | 
+| ------------- | ------------- |
+| DB  | Base de datos |
+|  Http | Protocolo de transferencia de hipertexto |
+|  JDBC | Conectividad de base de datos java |
+| QA  | Control de calidad |
+| SLA  | Acuerdo de nivel de servicio |
+|  SME | Experto en la materia |
+| UAT  | Pruebas de aceptación del usuario |
+
+
 
