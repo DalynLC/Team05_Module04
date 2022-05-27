@@ -7,34 +7,148 @@
 - Documentar proyecto de pruebas de rendimiento
 
 
-## Desarrollo
+### 1. Introducción
 
-En esta sesión crearemos un proyecto en JMeter donde haremos 3 diferentes tipos de pruebas (carga, estrés y estabilidad) con el fin de analizar resultados de ejecuciones.
+Tenemos una aplicación web de e-comerce donde el cliente puede adquirir productos, realizamos la prueba en base al proceso de registro..
 
-**Indicaciones Generales**
+**1.1. Objetivos**
 
-- Crear un TestPlan con sus elementos de prueba, grabación y resultados.
+* Realizar pruebas de carga, de estres y de estabilidad a la aplicación web del e-comerce para la transaccion de registro.
+* Garantizar el rendimiento de la aplicación, la disponibilidad del servicio y la estabilidad de la aplicación.
+* Verificar que los tiempos de respuesta del sistema de registro.
 
-*Grabar escenario de prueba*
 
-- Configurar el Thread Group con usuarios para pruebas de carga
+**1.2. Arquitectura**
 
-Ejecutar prueba
+Se debe incorporar el diagrama de arquitectura de su proyecto
 
-Revisar elementos de resultados
 
-- Configurar el Thread Group con usuarios para pruebas de estrés
+### 2. Alcance
 
-Ejecutar prueba
+Este proyecto tiene como alcance lo siguiente:
 
-Revisar elementos de resultados
+* Comprender la funcionalidad de la transacción a probar (Negocio)
+* Grabación de escenario de consulta de productos del banco desde su aplicación web
+* Iteracion de datos para pruebas de carga
+* Pruebas de estres
+* Pruebas de estabilidad
+* Uso del token y accesibilidad como prerrequisito
+* Validación del entorno y ambiente de pruebas 
+* Publicar los resultados de las pruebas de rendimiento
 
-- Configurar el Thread Group con usuarios para pruebas de estabilidad
+*A nivel del proyecto en JMeter*
 
-Ejecutar prueba
+* Generación de datos de prueba
+* Recomentaciones de rendimiento
+* Soporte a infraestructura
+* Optimización del rendimiento
 
-Revisar elementos de resultados
+### 3. Enfoque
 
-- Presentar los resultados de las 3 pruebas de acuerdo al reporte resumen mostrando min, max, promedio y % de error para definición de métricas.
+**Escenarios de pruebas de rendimiento**
 
-- Presentar los respectivos gráficos por cada una de las pruebas y escribir el análisis de resultados que se puede ver.
+
+*Configuración de usuarios y tiempo*
+
+
+
+**Tipos de pruebas de rendimiento**
+
+- *Pruebas de Carga*
+
+
+*Arbol de resultados*
+
+*Gráfico de resultados*
+
+*Reporte resumen*
+
+
+- *Pruebas de Estres*
+
+Indicar cantidad de usuarios y tiempo de espera entre peticiones y presentar arbol de resultados, gráfico y reporte resumen
+
+*Arbol de resultados*
+
+*Gráfico de resultados*
+
+*Reporte resumen*
+
+
+- *Pruebas de Estabilidad*
+
+
+*Arbol de resultados*
+
+*Gráfico de resultados*
+
+*Reporte resumen*
+
+
+
+- *Pruebas de Recuperación*
+
+
+
+*Arbol de resultados*
+
+
+
+**Métricas de rendimiento**
+
+Nuestros parámetros base para el análisis de resultados y métricas de rendimiento son el mínimo, el máximo, el promedio y el % de error que se presentan en la siguiente imagen
+
+
+
+**Actividades y entregables de pruebas de rendimiento**
+
+
+
+### 4. Datos de prueba
+
+Como datos de prueba tenemos:
+
+
+### 5. Criterios de entrada y salida
+
+*Criterios de entrada*
+
+
+
+*Criterios de salida*
+
+
+
+### 6. Gestión de defectos
+
+
+### 7. Herramientas y técnicas de prueba
+
+Herramienta JMeter
+
+### 8. Criterios de suspensión y reanudación
+
+Se vuelve un tema bloqueante cuando:
+
+- No está el ambiente configurado
+- La aplicación está inestable
+- No hay datos de prueba disponibles
+
+### 9. Entregables de prueba
+
+- Estrategia de prueba de rendimiento
+- Documento de requisitos de desempeño
+- Documento de escenario de prueba de rendimiento
+- Guiones de prueba de rendimiento
+- Resultados de la prueba de rendimiento
+
+
+### 10. Funciones y responsabilidades
+
+
+
+### 11. Riesgos potenciales y plan de mitigación
+
+
+### 12. Abreviaturas
+
