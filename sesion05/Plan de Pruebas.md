@@ -36,8 +36,8 @@
 
 | # | Riesgo | Probabilidad | Impacto | Plan de mitigación | Responsable |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Contenido de la celda  | Contenido de la celda | | | | |
-| Contenido de la celda  | Contenido de la celda  | | | | |
+| 1  | Contenido de la celda | | | | |
+| 2  | Contenido de la celda  | | | | |
 
 ## ABREVIATURAS
 
