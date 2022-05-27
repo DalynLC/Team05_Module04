@@ -79,26 +79,38 @@ Validar el acceso del flujo "selección de destino y origen > selección de vuel
 
 ### Prueba de estrés
 
+- La prueba de estrés se realizó con un total de 100 threads (usuarios) con un intervalo de 1 segundo, unicamente una vez.
+
 ![estres1](https://user-images.githubusercontent.com/77414220/170794750-976d4947-05c2-4ad1-8294-66de022740da.PNG)
+
+- Como se aprecia en el árbol de resultados, se realizan las peticiones GET y POST de cada una de las páginas involucradas en el proceso de compra de tickets, sin embargo, esta vez se generaron diversos errores entre transacciones.
 
 ![estres - tree](https://user-images.githubusercontent.com/77414220/170794761-1b7f6a6e-0d9e-462c-908f-cef47653537e.PNG)
 
-![estres - summary](https://user-images.githubusercontent.com/77414220/170794765-fc455b82-d283-4f45-b824-ee1200e9a63f.PNG)
+- El siguiente gráfico muestra los tiempos mínimos, máximos, y promedio de las transacciones.
 
 ![estres - graph](https://user-images.githubusercontent.com/77414220/170794771-eb3e2e5a-bc94-427c-8ad3-7bb8ada3bf57.PNG)
+
+- En el siguiente gráfico se observa que el proceso de selección de ciudad destino-origen y la selección de vuelo fueron las transacciones que más tiempo llevaron, a comparación del llenado de datos personales y que por esto mismo, la ejecución completa de los test no se completó.
 
 <img width="991" alt="Aggregate Graph - estres" src="https://user-images.githubusercontent.com/77414220/170794785-71467d0a-fc78-4ecf-9fdd-8eeff4a8aeab.png">
 
 
 ### Prueba de estabilidad
 
+- La prueba de estrés se realizó con un total de 20 threads (usuarios) con un intervalo de 1 segundo, en un loop infinito. Durante esta prueba se realizó la ejecución del test durante seis minutos.
+
 ![estabilidad1](https://user-images.githubusercontent.com/77414220/170794825-58fb1ac5-58f0-42b3-9f73-a785406dd72e.PNG)
+
+- Como se aprecia en el árbol de resultados, se realizan las peticiones GET y POST de cada una de las páginas involucradas en el proceso de compra de tickets, no obteniendo ningún error durante el proceso.
 
 ![estabilidad - tree](https://user-images.githubusercontent.com/77414220/170794832-8b4df175-6cd8-43da-9b20-b36506399d82.PNG)
 
-![estabilidad - summary](https://user-images.githubusercontent.com/77414220/170794835-f887041e-e86b-46f7-8312-60fc222157e4.PNG)
+- El siguiente gráfico muestra los tiempos mínimos, máximos, y promedio de las transacciones.
 
 ![estabilidad - graph](https://user-images.githubusercontent.com/77414220/170794841-4e52e483-27d4-45b0-91de-01eba39d5333.PNG)
+
+- Para esta prueba se observa que la transacción que más tiempo tardo en realizarse fue la selección del vuelo, seguido por la selección de ciudad origen-destino.
 
 <img width="991" alt="Aggregate Graph - estabilidad" src="https://user-images.githubusercontent.com/77414220/170794844-e986a8f6-a4b6-41f7-b14e-851d94803d01.png">
 
@@ -107,9 +119,15 @@ Validar el acceso del flujo "selección de destino y origen > selección de vuel
 
 Los parámetros utilizados como base para la realización del análisis de los resultados y métricas de rendimiento son el promedio, mínimo, máximo y porcentaje de error obtenidos de cada prueba, tal como se muestra en las siguientes imágenes.
 
+- Reporte de la prueba de carga.
+
 ![carga - summary](https://user-images.githubusercontent.com/77414220/170796239-a900fb7c-7d9e-4039-ad5a-bb7f17777b6c.PNG)
 
+- Reporte de la prueba de estabilidad.
+ 
 ![estabilidad - summary](https://user-images.githubusercontent.com/77414220/170796248-9c894ca1-b33f-4133-ae2b-891903adaec6.PNG)
+
+- Reporte de la prueba de estrés.
 
 ![estres - summary](https://user-images.githubusercontent.com/77414220/170796257-176b26e7-a985-410f-a5af-dfdd113438a2.PNG)
 
