@@ -10,7 +10,10 @@
 
 ## ALCANCE
 
-## ENFOQUE 
+## ENFOQUE
+### Escenario 1:
+### Escenario 2:
+### Escenario 3:
 
 ## DATOS DE PRUEBA
 
