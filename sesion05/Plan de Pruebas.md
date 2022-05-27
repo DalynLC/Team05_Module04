@@ -1,14 +1,14 @@
-# PLAN DE PRUEBAS
+# 1.-PLAN DE PRUEBAS
 
-## INTRODUCCIÓN
+## 2.-INTRODUCCIÓN
 ### Se tiene una applicación para la compra de vuelos, se analizará la capacidad de los usuarios en simultáneo que soporta la aplicación para la compra de los vuelos.
 
-## OBJETIVOS
+## 3.-OBJETIVOS
 ### -Realizar pruebas de carga, de estres y de estabilidad a la aplicación web de la compra de vuelos.
 ### -Garantizar el rendimiento de la aplicación, la disponibilidad del servicio y la estabilidad de la aplicación.
 ### -Verificar que los tiempos de respuesta de las transacciones se mantienen dentro de la tolerancia aceptable sobre el perfil de carga creciente.
 
-## ALCANCE
+## 4.-ALCANCE
 ## Este proyecto tiene como alcance lo siguiente:
 
 ### -Comprender la funcionalidad de la compra de vuelos
@@ -26,38 +26,38 @@
 ### -Soporte a infraestructura
 ### -Optimización del rendimiento
 
-## ENFOQUE
+## 5.-ENFOQUE
 ### Escenario 1:
 ### Escenario 2:
 ### Escenario 3:
 
-## DATOS DE PRUEBA
+## 6.-DATOS DE PRUEBA
 
-## CRITERIOS DE ENTRADA Y SALIDA
+## 7.-CRITERIOS DE ENTRADA Y SALIDA
 
-## GESTIÓN DE DEFECTOS
+## 8.-GESTIÓN DE DEFECTOS
 
-## HERRAMIENTAS Y TÉCNICAS DE PRUEBA
+## 9.-HERRAMIENTAS Y TÉCNICAS DE PRUEBA
 
-## CRITERIOS DE SUSPENSIÓN Y REANUDACIÓN
+## 10.-CRITERIOS DE SUSPENSIÓN Y REANUDACIÓN
 
-## ENTREGABLES DE PRUEBA
+## 11.-ENTREGABLES DE PRUEBA
 
-## FUNCIONES Y RESPONSABILIDADES
+## 12.-FUNCIONES Y RESPONSABILIDADES
 
 | ROL | Responsabilidades |
 | ------------- | ------------- |
 | Contenido de la celda  | Contenido de la celda  |
 | Contenido de la celda  | Contenido de la celda  |
 
-## RIESGOS POTENCIALES Y PLAN DE MITIGACIÓN
+## 13.-RIESGOS POTENCIALES Y PLAN DE MITIGACIÓN
 
 | # | Riesgo | Probabilidad | Impacto | Plan de mitigación | Responsable |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 1  | Contenido de la celda | | | | |
 | 2  | Contenido de la celda  | | | | |
 
-## ABREVIATURAS
+## 14.-ABREVIATURAS
 
 | Abreviatura | Descripción | 
 | ------------- | ------------- |
