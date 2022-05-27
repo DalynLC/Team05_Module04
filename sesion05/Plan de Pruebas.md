@@ -42,21 +42,37 @@ Validar el acceso del flujo "selección de destino y origen > selección de vuel
 
 ### Configuración general de la prueba
 
+- Durante esta prueba, se visita la página que permite seleccionar la ciudad de origen y una ciudad de destino, misma que solicita dos valores.
+
 ![confGen1](https://user-images.githubusercontent.com/77414220/170794594-504f441e-aa75-4af6-b29c-958a011184f1.PNG)
+
+- La selección del vuelo se realiza en la página siguiente, enviando la información de ciudad origen, ciudad destino, aerolínea, precio del vuelo e id del vuelo.
 
 ![confGen2](https://user-images.githubusercontent.com/77414220/170794595-419c4f6b-376f-40c6-ad43-f574a18d4ad0.PNG)
 
+- Finalmente se realiza un llenado con los datos personales del usuario y de pago.
+
 ![confGen3](https://user-images.githubusercontent.com/77414220/170794596-2035dff1-5b90-426a-87f5-d5e3142a3323.PNG)
+
+- Los datos para el llenado y las selecciones se obtendrán del archivo postworkData.csv, mismo que se encuentra configurado de la siguiente forma.
 
 ![confGen4](https://user-images.githubusercontent.com/77414220/170794592-60501336-2da0-413e-8c33-2d4dfba90edf.PNG)
 
 ### Prueba de carga
 
+- La prueba de carga se realiza con 20 threads (usuarios) configurados con un periodo de 1 segundo.
+
 ![carga1](https://user-images.githubusercontent.com/77414220/170794627-f630f548-db5f-4f43-b788-d96958dc58d8.PNG)
+
+- Como se aprecia en el árbol de resultados, se realizan las peticiones GET y POST de cada una de las páginas involucradas en el proceso de compra de tickets, y en esta prueba no se obtiene ningún error.
 
 ![carga - tree](https://user-images.githubusercontent.com/77414220/170794679-9e5e9797-806c-4f1c-b920-8bf176ac8db9.PNG)
 
+- El siguiente gráfico muestra los tiempos mínimos, máximos, y promedio de las transacciones.
+
 ![carga - graph](https://user-images.githubusercontent.com/77414220/170794680-262cc6d0-ab03-4deb-ab87-2600438ffc67.PNG)
+
+- Finalmente, se puede observar que la sección de selección de ciudad de origen-destino es la transacción que más tiempo le llevó al test, presentando un tiempo mínimo, máximo y promedio superior al que se presenta en las páginas siguientes. 
 
 <img width="1110" alt="Aggregate Graph - carga" src="https://user-images.githubusercontent.com/77414220/170794720-c9fdf7c2-2178-4893-8f1e-f0f1f395b83d.png">
 
