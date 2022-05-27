@@ -4,7 +4,7 @@
 
 | Primer encabezado | Segundo encabezado |
 | ------------- | ------------- |
-| Contenido de la celda  | Contenido de la celda  |
+| Contenido de la celda  | Contenido de la celda  | 
 | Contenido de la celda  | Contenido de la celda  |
 
 ## OBJETIVOS
@@ -27,7 +27,17 @@
 
 ## FUNCIONES Y RESPONSABILIDADES
 
+| ROL | Responsabilidades |
+| ------------- | ------------- |
+| Contenido de la celda  | Contenido de la celda  |
+| Contenido de la celda  | Contenido de la celda  |
+
 ## RIESGOS POTENCIALES Y PLAN DE MITIGACIÓN
+
+| # | Riesgo | Probabilidad | Impacto | Plan de mitigación | Responsable |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Contenido de la celda  | Contenido de la celda | | | | |
+| Contenido de la celda  | Contenido de la celda  | | | | |
 
 ## ABREVIATURAS
 
