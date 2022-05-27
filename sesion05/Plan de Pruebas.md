@@ -91,7 +91,10 @@ Validar el acceso del flujo "selección de destino y origen > selección de vuel
 
 ### Métricas de rendimiento
 
+Los parámetros utilizados como base para la realización del análisis de los resultados y métricas de rendimiento son el promedio, mínimo, máximo y porcentaje de error obtenidos de cada prueba, tal como se muestra en las siguientes imágenes.
+
 ### Actividades y entregables de pruebas de rendimiento
+
 
 ## DATOS DE PRUEBA
 Como datos de prueba se utilizaron:
@@ -104,21 +107,37 @@ Los datos empleados para el llenado de los campos se obtuvieron del archivo post
 
 
 ## CRITERIOS DE ENTRADA Y SALIDA
+### Criterios de entrada
 
-## GESTIÓN DE DEFECTOS
+- Acceso a todas las aplicaciones del entorno.
+- Preparación del entorno completo.
+- Preparación de los datos de prueba.
+
+### Criterios de salida
+
+- Informe de resultados tomando en cuenta los resultados obtenidos en el summary.
+- Gráfico de resultados.
+- Arból de resultados con request y response.
+- Métricas de resultados. 
+
 
 ## HERRAMIENTAS Y TÉCNICAS DE PRUEBA
 
+### Herramientas
+
+- JMeter
+
 ## CRITERIOS DE SUSPENSIÓN Y REANUDACIÓN
+
+Se vuelve un tema que causa suspensión cuando:
+
+- El ambiente no esta configurado.
+- La aplicación esta inestable o no disponible.
+- No hay datos de prueba disponibles.
 
 ## ENTREGABLES DE PRUEBA
 
-## FUNCIONES Y RESPONSABILIDADES
-
-| ROL | Responsabilidades |
-| ------------- | ------------- |
-| Contenido de la celda  | Contenido de la celda  |
-| Contenido de la celda  | Contenido de la celda  |
+- Resultados de la prueba de carga, estrés y estabilidad.
 
 ## RIESGOS POTENCIALES Y PLAN DE MITIGACIÓN
 
