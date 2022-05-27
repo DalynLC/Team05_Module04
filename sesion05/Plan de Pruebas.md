@@ -9,6 +9,22 @@
 ### -Verificar que los tiempos de respuesta de las transacciones se mantienen dentro de la tolerancia aceptable sobre el perfil de carga creciente.
 
 ## ALCANCE
+## Este proyecto tiene como alcance lo siguiente:
+
+### -Comprender la funcionalidad de la compra de vuelos
+### -Grabación de escenario de compra de vuelos desde su aplicación web
+### -Iteracion de datos para pruebas de carga
+### -Pruebas de estres
+### -Pruebas de estabilidad
+### -Uso del token y accesibilidad como prerrequisito
+### -Validación del entorno y ambiente de pruebas
+### -Publicar los resultados de las pruebas de rendimiento
+
+## A nivel del proyecto en JMeter
+### -Generación de datos de prueba
+### -Recomentaciones de rendimiento
+### -Soporte a infraestructura
+### -Optimización del rendimiento
 
 ## ENFOQUE
 ### Escenario 1:
