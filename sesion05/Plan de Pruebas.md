@@ -1,7 +1,7 @@
 # PLAN DE PRUEBAS
 
 ## INTRODUCCIÓN
-# Se tiene una applicación para la compra de vuelos, se analizará la capacidad de los usuarios en simultáneo que soporta la aplicación para la compra de los vuelos.
+### Se tiene una applicación para la compra de vuelos, se analizará la capacidad de los usuarios en simultáneo que soporta la aplicación para la compra de los vuelos.
 
 ## OBJETIVOS
 
