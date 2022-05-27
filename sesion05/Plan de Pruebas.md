@@ -4,9 +4,9 @@
 ### Se tiene una applicación para la compra de vuelos, se analizará la capacidad de los usuarios en simultáneo que soporta la aplicación para la compra de los vuelos.
 
 ## OBJETIVOS
-### Realizar pruebas de carga, de estres y de estabilidad a la aplicación web de la compra de vuelos.
-### Garantizar el rendimiento de la aplicación, la disponibilidad del servicio y la estabilidad de la aplicación.
-### Verificar que los tiempos de respuesta de las transacciones se mantienen dentro de la tolerancia aceptable sobre el perfil de carga creciente.
+### -Realizar pruebas de carga, de estres y de estabilidad a la aplicación web de la compra de vuelos.
+### -Garantizar el rendimiento de la aplicación, la disponibilidad del servicio y la estabilidad de la aplicación.
+### -Verificar que los tiempos de respuesta de las transacciones se mantienen dentro de la tolerancia aceptable sobre el perfil de carga creciente.
 
 ## ALCANCE
 
