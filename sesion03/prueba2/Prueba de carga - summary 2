@@ -1,0 +1,301 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1653512759698,476,-1,200,OK,Thread Group 1-1,,true,,500,788,10,10,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,476,0,370
+1653512759747,427,-1,200,OK,Thread Group 1-2,,true,,500,788,10,10,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,427,0,321
+1653512759797,405,-1,200,OK,Thread Group 1-3,,true,,500,788,11,11,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,405,0,307
+1653512759850,424,-1,200,OK,Thread Group 1-4,,true,,500,788,12,12,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,424,0,325
+1653512760176,99,-2,200,OK,Thread Group 1-2,,true,,500,788,12,12,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,99,0,0
+1653512759746,526,A,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-2,,true,,1000,1576,12,12,null,526,3,321
+1653512760176,101,-2,200,OK,Thread Group 1-1,,true,,500,788,12,12,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,101,0,0
+1653512759696,577,A,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,1000,1576,12,12,null,577,5,370
+1653512760202,98,-2,200,OK,Thread Group 1-3,,true,,500,788,13,13,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,98,0,0
+1653512759796,503,A,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-3,,true,,1000,1576,13,13,null,503,2,307
+1653512759897,419,-1,200,OK,Thread Group 1-5,,true,,500,788,13,13,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,419,0,321
+1653512759946,384,-1,200,OK,Thread Group 1-6,,true,,500,788,13,13,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,384,0,296
+1653512759997,370,-1,200,OK,Thread Group 1-7,,true,,500,788,14,14,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,370,0,278
+1653512760274,93,-2,200,OK,Thread Group 1-4,,true,,500,788,14,14,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,93,0,0
+1653512759849,517,A,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-4,,true,,1000,1576,14,14,null,517,1,325
+1653512760316,97,-2,200,OK,Thread Group 1-5,,true,,500,788,15,15,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,97,0,0
+1653512759896,516,A,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-5,,true,,1000,1576,15,15,null,516,1,321
+1653512760330,89,-2,200,OK,Thread Group 1-6,,true,,500,788,15,15,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,89,0,0
+1653512759946,473,A,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-6,,true,,1000,1576,15,15,null,473,0,296
+1653512760368,95,-2,200,OK,Thread Group 1-7,,true,,500,788,16,16,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,95,0,0
+1653512759997,465,A,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-7,,true,,1000,1576,16,16,null,465,1,278
+1653512760047,422,-1,200,OK,Thread Group 1-8,,true,,500,788,16,16,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,422,0,324
+1653512760097,407,-1,200,OK,Thread Group 1-9,,true,,500,788,17,17,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,407,0,298
+1653512760147,382,-1,200,OK,Thread Group 1-10,,true,,500,788,17,17,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,382,0,293
+1653512760470,103,-2,200,OK,Thread Group 1-8,,true,,500,788,18,18,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,103,0,0
+1653512760046,525,A,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-8,,true,,1000,1576,18,18,null,525,2,324
+1653512760505,98,-2,200,OK,Thread Group 1-9,,true,,500,788,19,19,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,98,0,0
+1653512760096,505,A,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-9,,true,,1000,1576,19,19,null,505,2,298
+1653512760196,416,-1,200,OK,Thread Group 1-11,,true,,500,788,19,19,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,416,0,316
+1653512760246,400,-1,200,OK,Thread Group 1-12,,true,,500,788,20,20,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,400,0,306
+1653512760530,166,-2,200,OK,Thread Group 1-10,,true,,500,788,20,20,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,166,0,0
+1653512760146,548,A,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-10,,true,,1000,1576,20,20,null,548,2,293
+1653512760612,97,-2,200,OK,Thread Group 1-11,,true,,500,788,20,20,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,97,0,0
+1653512760195,513,A,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-11,,true,,1000,1576,20,20,null,513,1,316
+1653512760296,415,-1,200,OK,Thread Group 1-13,,true,,500,788,20,20,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,415,0,317
+1653512760646,95,-2,200,OK,Thread Group 1-12,,true,,500,788,20,20,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,95,0,0
+1653512760245,495,A,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-12,,true,,1000,1576,20,20,null,495,1,306
+1653512760346,410,-1,200,OK,Thread Group 1-14,,true,,500,788,20,20,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,410,0,313
+1653512760395,396,-1,200,OK,Thread Group 1-15,,true,,500,788,20,20,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,396,0,308
+1653512760711,92,-2,200,OK,Thread Group 1-13,,true,,500,788,20,20,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,92,0,0
+1653512760295,507,A,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-13,,true,,1000,1576,20,20,null,507,1,317
+1653512760445,378,-1,200,OK,Thread Group 1-16,,true,,500,788,20,20,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,378,0,288
+1653512760792,99,-2,200,OK,Thread Group 1-15,,true,,500,788,20,20,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,99,0,0
+1653512760395,495,A,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-15,,true,,1000,1576,20,20,null,495,2,308
+1653512760496,408,-1,200,OK,Thread Group 1-17,,true,,500,788,20,20,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,408,0,304
+1653512760276,637,-3,200,OK,Thread Group 1-2,text,true,,1406,905,20,20,https://www.blazedemo.com/reserve.php,637,0,343
+1653512760824,92,-2,200,OK,Thread Group 1-16,,true,,500,788,20,20,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,92,0,0
+1653512760445,470,A,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-16,,true,,1000,1576,20,20,null,470,1,288
+1653512760279,648,-3,200,OK,Thread Group 1-1,text,true,,1619,905,20,20,https://www.blazedemo.com/reserve.php,648,0,354
+1653512760756,176,-2,200,OK,Thread Group 1-14,,true,,500,788,20,20,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,176,0,0
+1653512760345,586,A,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-14,,true,,1000,1576,20,20,null,586,1,313
+1653512760301,635,-3,200,OK,Thread Group 1-3,text,true,,1420,905,20,20,https://www.blazedemo.com/reserve.php,634,0,323
+1653512760546,395,-1,200,OK,Thread Group 1-18,,true,,500,788,20,20,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,395,0,300
+1653512760574,441,-3,200,OK,Thread Group 1-8,text,true,,1409,905,20,20,https://www.blazedemo.com/reserve.php,441,0,183
+1653512760604,446,-3,200,OK,Thread Group 1-9,text,true,,1633,905,20,20,https://www.blazedemo.com/reserve.php,446,0,175
+1653512760368,698,-3,200,OK,Thread Group 1-4,text,true,,1440,905,20,20,https://www.blazedemo.com/reserve.php,698,0,268
+1653512760420,646,-3,200,OK,Thread Group 1-6,text,true,,1581,905,20,20,https://www.blazedemo.com/reserve.php,646,0,217
+1653512760941,139,-2,200,OK,Thread Group 1-18,,true,,500,788,20,20,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,139,0,0
+1653512760904,176,-2,200,OK,Thread Group 1-17,,true,,500,788,20,20,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,176,0,0
+1653512760645,435,-1,200,OK,Thread Group 1-20,,true,,500,788,20,20,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,435,0,292
+1653512760595,485,-1,200,OK,Thread Group 1-19,,true,,500,788,20,20,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,485,0,315
+1653512760545,534,A,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-18,,true,,1000,1576,20,20,null,534,1,300
+1653512760495,584,A,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-17,,true,,1000,1576,20,20,null,584,1,304
+1653512760710,427,-3,200,OK,Thread Group 1-11,text,true,,1611,905,20,20,https://www.blazedemo.com/reserve.php,426,0,182
+1653512760463,674,-3,200,OK,Thread Group 1-7,text,true,,1535,905,20,20,https://www.blazedemo.com/reserve.php,673,0,201
+1653512760414,723,-3,200,OK,Thread Group 1-5,text,true,,1570,905,20,20,https://www.blazedemo.com/reserve.php,722,0,224
+1653512760697,458,-3,200,OK,Thread Group 1-10,text,true,,1646,905,20,20,https://www.blazedemo.com/reserve.php,458,0,195
+1653512761080,101,-2,200,OK,Thread Group 1-19,,true,,500,788,20,20,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,101,0,0
+1653512761080,101,-2,200,OK,Thread Group 1-20,,true,,500,788,20,20,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,101,0,0
+1653512760644,536,A,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-20,,true,,1000,1576,20,20,null,536,1,292
+1653512760595,586,A,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-19,,true,,1000,1576,20,20,null,586,0,315
+1653512760936,252,-5,200,OK,Thread Group 1-3,text,true,,1742,954,20,20,https://www.blazedemo.com/purchase.php,251,0,0
+1653512760301,887,,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-3,,true,,3162,1859,20,20,null,885,0,323
+1653512760914,322,-5,200,OK,Thread Group 1-2,text,true,,1622,954,20,20,https://www.blazedemo.com/purchase.php,322,0,0
+1653512760276,959,,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-2,,true,,3028,1859,20,20,null,959,2,343
+1653512761188,106,-7,200,OK,Thread Group 1-3,,true,,500,788,20,20,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,106,0,0
+1653512761015,291,-5,200,OK,Thread Group 1-8,text,true,,1706,954,20,20,https://www.blazedemo.com/purchase.php,291,0,0
+1653512760574,732,,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-8,,true,,3115,1859,20,20,null,732,1,183
+1653512761238,96,-7,200,OK,Thread Group 1-2,,true,,500,788,20,20,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,96,0,0
+1653512761137,227,-5,200,OK,Thread Group 1-5,text,true,,1863,954,20,20,https://www.blazedemo.com/purchase.php,226,0,0
+1653512760413,950,,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-5,,true,,3433,1859,20,20,null,948,2,224
+1653512761295,97,-9,200,OK,Thread Group 1-3,,true,,500,788,20,20,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,97,0,0
+1653512761308,88,-7,200,OK,Thread Group 1-8,,true,,500,788,20,20,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,88,0,0
+1653512761050,346,-5,200,OK,Thread Group 1-9,text,true,,1701,954,20,20,https://www.blazedemo.com/purchase.php,346,0,0
+1653512760603,792,,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-9,,true,,3334,1859,20,20,null,792,1,175
+1653512761066,354,-5,200,OK,Thread Group 1-6,text,true,,1820,954,20,20,https://www.blazedemo.com/purchase.php,353,0,0
+1653512760419,1000,,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-6,,true,,3401,1859,20,20,null,999,1,217
+1653512761335,101,-9,200,OK,Thread Group 1-2,,true,,500,788,20,20,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,101,0,0
+1653512760741,706,-3,200,OK,Thread Group 1-12,text,true,,1633,905,20,20,https://www.blazedemo.com/reserve.php,706,0,162
+1653512760928,522,-5,200,OK,Thread Group 1-1,text,true,,1714,954,20,20,https://www.blazedemo.com/purchase.php,521,0,0
+1653512760278,1170,,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,3333,1859,20,20,null,1169,2,354
+1653512761365,107,-7,200,OK,Thread Group 1-5,,true,,500,788,20,20,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,107,0,0
+1653512761396,92,-9,200,OK,Thread Group 1-8,,true,,500,788,20,20,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,92,0,0
+1653512761396,101,-7,200,OK,Thread Group 1-9,,true,,500,788,20,20,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,100,0,0
+1653512760804,693,-3,200,OK,Thread Group 1-13,text,true,,1449,905,20,20,https://www.blazedemo.com/reserve.php,693,0,246
+1653512761393,110,-4,404,Not Found,Thread Group 1-3,text,false,,820,1926,20,20,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,109,0,0
+1653512761421,95,-7,200,OK,Thread Group 1-6,,true,,500,788,20,20,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,95,0,0
+1653512761081,460,-3,200,OK,Thread Group 1-18,text,true,,1480,905,20,20,https://www.blazedemo.com/reserve.php,457,0,213
+1653512761081,460,-3,200,OK,Thread Group 1-17,text,true,,1589,905,20,20,https://www.blazedemo.com/reserve.php,460,0,213
+1653512761437,106,-4,404,Not Found,Thread Group 1-2,text,false,,820,1926,20,20,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,104,0,0
+1653512761451,98,-7,200,OK,Thread Group 1-1,,true,,500,788,20,20,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,98,0,0
+1653512761066,498,-5,200,OK,Thread Group 1-4,text,true,,1676,954,20,20,https://www.blazedemo.com/purchase.php,497,0,0
+1653512760367,1196,,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-4,,true,,3116,1859,20,20,null,1195,1,268
+1653512761473,98,-9,200,OK,Thread Group 1-5,,true,,500,788,20,20,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,98,0,0
+1653512761503,93,-10,200,OK,Thread Group 1-3,,true,,500,788,20,20,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,93,0,0
+1653512761497,99,-9,200,OK,Thread Group 1-9,,true,,500,788,20,20,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,99,0,0
+1653512761488,128,-4,404,Not Found,Thread Group 1-8,text,false,,820,1926,20,20,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,128,0,0
+1653512761516,102,-9,200,OK,Thread Group 1-6,,true,,500,788,20,20,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,102,0,0
+1653512761544,88,-10,200,OK,Thread Group 1-2,,true,,500,788,20,20,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,88,0,0
+1653512761549,94,-9,200,OK,Thread Group 1-1,,true,,500,788,20,20,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,94,0,0
+1653512761182,463,-3,200,OK,Thread Group 1-19,text,true,,1404,905,20,20,https://www.blazedemo.com/reserve.php,463,0,204
+1653512761182,470,-3,200,OK,Thread Group 1-20,text,true,,1631,905,20,20,https://www.blazedemo.com/reserve.php,468,0,204
+1653512761564,92,-7,200,OK,Thread Group 1-4,,true,,500,788,20,20,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,92,0,0
+1653512760892,783,-3,200,OK,Thread Group 1-15,text,true,,1618,905,20,20,https://www.blazedemo.com/reserve.php,780,0,234
+1653512761572,129,-4,404,Not Found,Thread Group 1-5,text,false,,820,1926,20,20,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,129,0,0
+1653512761596,105,-6,404,Not Found,Thread Group 1-3,text,false,,820,1926,20,20,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,105,0,0
+1653512761188,511,,,"Number of samples in transaction : 5, number of failing samples : 2",Thread Group 1-3,,false,,3140,6216,20,20,null,510,2,0
+1653512761596,111,-4,404,Not Found,Thread Group 1-9,text,false,,820,1926,20,20,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,111,0,0
+1653512761497,213,-5,200,OK,Thread Group 1-13,text,true,,1786,954,20,20,https://www.blazedemo.com/purchase.php,212,0,0
+1653512760803,906,,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-13,,true,,3235,1859,20,20,null,905,1,246
+1653512761617,103,-10,200,OK,Thread Group 1-8,,true,,500,788,20,20,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,103,0,0
+1653512761633,98,-6,404,Not Found,Thread Group 1-2,text,false,,820,1926,20,20,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,98,0,0
+1653512761237,489,,,"Number of samples in transaction : 5, number of failing samples : 2",Thread Group 1-2,,false,,3140,6216,20,20,null,487,6,0
+1653512761619,118,-4,404,Not Found,Thread Group 1-6,text,false,,820,1926,20,20,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,118,0,0
+1653512761541,199,-5,200,OK,Thread Group 1-18,text,true,,1636,954,20,20,https://www.blazedemo.com/purchase.php,198,0,0
+1653512761080,659,,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-18,,true,,3116,1859,20,20,null,655,1,213
+1653512761644,102,-4,404,Not Found,Thread Group 1-1,text,false,,820,1926,20,20,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,102,0,0
+1653512761657,93,-9,200,OK,Thread Group 1-4,,true,,500,788,20,20,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,93,0,0
+1653512761702,100,-8,404,Not Found,Thread Group 1-3,text,false,,820,1926,20,20,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,100,0,0
+1653512761708,95,-10,200,OK,Thread Group 1-9,,true,,500,788,20,20,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,95,0,0
+1653512761702,101,-10,200,OK,Thread Group 1-5,,true,,500,788,20,20,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,101,0,0
+1653512761710,95,-7,200,OK,Thread Group 1-13,,true,,500,788,20,20,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,95,0,0
+1653512761720,111,-6,404,Not Found,Thread Group 1-8,text,false,,820,1926,20,20,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,111,0,0
+1653512761308,522,,,"Number of samples in transaction : 5, number of failing samples : 2",Thread Group 1-8,,false,,3140,6216,20,20,null,522,1,0
+1653512761737,97,-10,200,OK,Thread Group 1-6,,true,,500,788,20,20,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,97,0,0
+1653512761652,188,-5,200,OK,Thread Group 1-20,text,true,,1745,954,20,20,https://www.blazedemo.com/purchase.php,188,0,0
+1653512761181,658,,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-20,,true,,3376,1859,20,20,null,656,2,204
+1653512760932,910,-3,200,OK,Thread Group 1-14,text,true,,1553,905,20,20,https://www.blazedemo.com/reserve.php,910,0,232
+1653512761746,99,-10,200,OK,Thread Group 1-1,,true,,500,788,20,20,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,99,0,0
+1653512760916,929,-3,200,OK,Thread Group 1-16,text,true,,1645,905,20,20,https://www.blazedemo.com/reserve.php,929,0,247
+1653512761740,106,-7,200,OK,Thread Group 1-18,,true,,500,788,20,20,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,106,0,0
+1653512761732,117,-8,404,Not Found,Thread Group 1-2,text,false,,820,1926,20,20,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,117,0,0
+1653512761137,716,-5,200,OK,Thread Group 1-7,text,true,,1617,954,20,20,https://www.blazedemo.com/purchase.php,716,0,0
+1653512760463,1390,,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-7,,true,,3152,1859,20,20,null,1389,1,201
+1653512761750,110,-4,404,Not Found,Thread Group 1-4,text,false,,820,1926,20,20,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,110,0,0
+1653512761155,724,-5,200,OK,Thread Group 1-10,text,true,,1676,954,20,20,https://www.blazedemo.com/purchase.php,724,0,0
+1653512760696,1182,,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-10,,true,,3322,1859,20,20,null,1182,1,195
+1653512761805,101,-9,200,OK,Thread Group 1-13,,true,,500,788,20,20,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,101,0,0
+1653512761803,105,-6,404,Not Found,Thread Group 1-9,text,false,,820,1926,20,20,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,104,0,0
+1653512761396,511,,,"Number of samples in transaction : 5, number of failing samples : 2",Thread Group 1-9,,false,,3140,6216,20,20,null,509,1,0
+1653512761803,108,-6,404,Not Found,Thread Group 1-5,text,false,,820,1926,20,20,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,108,0,0
+1653512761365,543,,,"Number of samples in transaction : 5, number of failing samples : 2",Thread Group 1-5,,false,,3140,6216,20,20,null,543,3,0
+1653512761675,246,-5,200,OK,Thread Group 1-15,text,true,,1797,954,20,20,https://www.blazedemo.com/purchase.php,244,0,0
+1653512760892,1029,,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-15,,true,,3415,1859,20,20,null,1024,0,234
+1653512761832,104,-8,404,Not Found,Thread Group 1-8,text,false,,820,1926,20,20,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,104,0,0
+1653512761834,105,-6,404,Not Found,Thread Group 1-6,text,false,,820,1926,20,20,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,105,0,0
+1653512761841,98,-7,200,OK,Thread Group 1-20,,true,,500,788,20,20,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,98,0,0
+1653512761420,517,,,"Number of samples in transaction : 5, number of failing samples : 2",Thread Group 1-6,,false,,3140,6216,20,20,null,517,2,0
+1653512761854,101,-7,200,OK,Thread Group 1-7,,true,,500,788,20,20,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,101,0,0
+1653512761846,109,-9,200,OK,Thread Group 1-18,,true,,500,788,20,20,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,109,0,0
+1653512761845,110,-6,404,Not Found,Thread Group 1-1,text,false,,820,1926,20,20,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,110,0,0
+1653512761451,503,,,"Number of samples in transaction : 5, number of failing samples : 2",Thread Group 1-1,,false,,3140,6216,20,20,null,503,1,0
+1653512761861,95,-10,200,OK,Thread Group 1-4,,true,,500,788,20,20,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,95,0,0
+1653512761137,819,-5,200,OK,Thread Group 1-11,text,true,,1639,954,20,20,https://www.blazedemo.com/purchase.php,819,0,0
+1653512760710,1246,,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-11,,true,,3250,1859,20,20,null,1245,0,182
+1653512761880,95,-7,200,OK,Thread Group 1-10,,true,,500,788,20,20,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,95,0,0
+1653512761802,194,-14,200,OK,Thread Group 1-3,text,true,,1518,1066,20,20,https://www.blazedemo.com/confirmation.php,194,0,0
+1653512761702,294,,,"Number of samples in transaction : 2, number of failing samples : 1",Thread Group 1-3,,false,,2338,2992,20,20,null,294,1,0
+1653512761908,106,-8,404,Not Found,Thread Group 1-9,text,false,,820,1926,19,19,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,106,0,0
+1653512761921,93,-7,200,OK,Thread Group 1-15,,true,,500,788,19,19,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,93,0,0
+1653512761906,110,-4,404,Not Found,Thread Group 1-13,text,false,,768,1926,19,19,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,110,0,0
+1653512761939,96,-9,200,OK,Thread Group 1-20,,true,,500,788,19,19,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,96,0,0
+1653512761939,100,-8,404,Not Found,Thread Group 1-6,text,false,,820,1926,19,19,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,96,0,0
+1653512761447,608,-5,200,OK,Thread Group 1-12,text,true,,1684,954,19,19,https://www.blazedemo.com/purchase.php,608,0,0
+1653512760741,1314,,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-12,,true,,3317,1859,19,19,null,1314,0,162
+1653512761955,105,-9,200,OK,Thread Group 1-7,,true,,500,788,19,19,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,105,0,0
+1653512761955,107,-8,404,Not Found,Thread Group 1-1,text,false,,820,1926,19,19,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,107,0,0
+1653512761956,110,-6,404,Not Found,Thread Group 1-4,text,false,,820,1926,19,19,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,110,0,0
+1653512761564,500,,,"Number of samples in transaction : 5, number of failing samples : 2",Thread Group 1-4,,false,,3140,6216,19,19,null,500,2,0
+1653512761975,94,-9,200,OK,Thread Group 1-10,,true,,500,788,19,19,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,94,0,0
+1653512761957,112,-7,200,OK,Thread Group 1-11,,true,,500,788,19,19,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,112,0,0
+1653512761845,224,-5,200,OK,Thread Group 1-16,text,true,,1667,954,19,19,https://www.blazedemo.com/purchase.php,224,0,0
+1653512760916,1153,,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-16,,true,,3312,1859,19,19,null,1153,0,247
+1653512761843,226,-5,200,OK,Thread Group 1-14,text,true,,1668,954,19,19,https://www.blazedemo.com/purchase.php,226,0,0
+1653512760932,1136,,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-14,,true,,3221,1859,19,19,null,1136,1,232
+1653512761541,531,-5,200,OK,Thread Group 1-17,text,true,,1714,954,19,19,https://www.blazedemo.com/purchase.php,531,0,0
+1653512761080,991,,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-17,,true,,3303,1859,19,19,null,991,1,213
+1653512761911,162,-8,404,Not Found,Thread Group 1-5,text,false,,820,1926,19,19,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,162,0,0
+1653512761955,128,-4,404,Not Found,Thread Group 1-18,text,false,,820,1926,19,19,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,128,0,0
+1653512761850,233,-14,200,OK,Thread Group 1-2,text,true,,1539,1066,19,19,https://www.blazedemo.com/confirmation.php,233,0,0
+1653512761732,350,,,"Number of samples in transaction : 2, number of failing samples : 1",Thread Group 1-2,,false,,2359,2992,19,19,null,350,2,0
+1653512762015,100,-9,200,OK,Thread Group 1-15,,true,,500,788,18,18,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,100,0,0
+1653512762017,107,-10,200,OK,Thread Group 1-13,,true,,500,788,18,18,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,107,0,0
+1653512761937,202,-14,200,OK,Thread Group 1-8,text,true,,1442,1066,18,18,https://www.blazedemo.com/confirmation.php,202,0,0
+1653512761832,306,,,"Number of samples in transaction : 2, number of failing samples : 1",Thread Group 1-8,,false,,2262,2992,18,18,null,306,1,0
+1653512762035,109,-4,404,Not Found,Thread Group 1-20,text,false,,820,1926,17,17,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,109,0,0
+1653512762055,101,-7,200,OK,Thread Group 1-12,,true,,500,788,17,17,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,101,0,0
+1653512762069,98,-7,200,OK,Thread Group 1-16,,true,,500,788,17,17,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,98,0,0
+1653512762072,373,-7,200,OK,Thread Group 1-17,,true,,500,788,17,17,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,373,0,0
+1653512762067,378,-8,404,Not Found,Thread Group 1-4,text,false,,820,1926,17,17,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,378,0,0
+1653512762069,376,-4,404,Not Found,Thread Group 1-10,text,false,,820,1926,17,17,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,376,0,0
+1653512762084,361,-10,200,OK,Thread Group 1-18,,true,,500,788,17,17,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,361,0,0
+1653512761645,800,-5,200,OK,Thread Group 1-19,text,true,,1684,954,17,17,https://www.blazedemo.com/purchase.php,800,0,0
+1653512761181,1263,,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-19,,true,,3088,1859,17,17,null,1263,1,204
+1653512762124,321,-6,404,Not Found,Thread Group 1-13,text,false,,820,1926,17,17,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,321,0,0
+1653512761710,734,,,"Number of samples in transaction : 5, number of failing samples : 2",Thread Group 1-13,,false,,3088,6216,17,17,null,734,1,0
+1653512762157,289,-9,200,OK,Thread Group 1-12,,true,,500,788,17,17,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,289,0,0
+1653512762145,301,-10,200,OK,Thread Group 1-20,,true,,500,788,17,17,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,301,0,0
+1653512762115,331,-4,404,Not Found,Thread Group 1-15,text,false,,820,1926,17,17,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,331,0,0
+1653512762062,384,-14,200,OK,Thread Group 1-1,text,true,,1449,1066,17,17,https://www.blazedemo.com/confirmation.php,384,0,0
+1653512761955,491,,,"Number of samples in transaction : 2, number of failing samples : 1",Thread Group 1-1,,false,,2269,2992,17,17,null,491,0,0
+1653512762167,279,-9,200,OK,Thread Group 1-16,,true,,500,788,17,17,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,279,0,0
+1653512762060,418,-4,404,Not Found,Thread Group 1-7,text,false,,820,1926,16,16,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,418,0,0
+1653512762069,412,-9,200,OK,Thread Group 1-11,,true,,500,788,16,16,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,412,0,0
+1653512762069,414,-7,200,OK,Thread Group 1-14,,true,,500,788,16,16,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,414,0,0
+1653512762445,92,-10,200,OK,Thread Group 1-10,,true,,500,788,16,16,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,92,0,0
+1653512762446,92,-10,200,OK,Thread Group 1-15,,true,,500,788,16,16,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,92,0,0
+1653512762445,101,-8,404,Not Found,Thread Group 1-13,text,false,,820,1926,16,16,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,101,0,0
+1653512762445,102,-7,200,OK,Thread Group 1-19,,true,,500,788,16,16,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,102,0,0
+1653512762445,102,-9,200,OK,Thread Group 1-17,,true,,500,788,16,16,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,102,0,0
+1653512762445,102,-6,404,Not Found,Thread Group 1-18,text,false,,820,1926,16,16,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,102,0,0
+1653512761740,806,,,"Number of samples in transaction : 5, number of failing samples : 2",Thread Group 1-18,,false,,3140,6216,16,16,null,806,1,0
+1653512762446,104,-6,404,Not Found,Thread Group 1-20,text,false,,820,1926,16,16,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,104,0,0
+1653512761841,708,,,"Number of samples in transaction : 5, number of failing samples : 2",Thread Group 1-20,,false,,3140,6216,16,16,null,708,1,0
+1653512762446,105,-4,404,Not Found,Thread Group 1-16,text,false,,820,1926,16,16,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,105,0,0
+1653512762446,112,-4,404,Not Found,Thread Group 1-12,text,false,,820,1926,16,16,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,112,0,0
+1653512762478,98,-10,200,OK,Thread Group 1-7,,true,,500,788,16,16,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,98,0,0
+1653512762483,103,-9,200,OK,Thread Group 1-14,,true,,500,788,16,16,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,103,0,0
+1653512762481,107,-4,404,Not Found,Thread Group 1-11,text,false,,820,1926,16,16,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,106,0,0
+1653512762537,97,-6,404,Not Found,Thread Group 1-10,text,false,,820,1926,16,16,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,97,0,0
+1653512761879,754,,,"Number of samples in transaction : 5, number of failing samples : 2",Thread Group 1-10,,false,,3140,6216,16,16,null,754,2,0
+1653512762551,98,-10,200,OK,Thread Group 1-16,,true,,500,788,16,16,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,98,0,0
+1653512762547,102,-9,200,OK,Thread Group 1-19,,true,,500,788,16,16,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,102,0,0
+1653512762539,111,-6,404,Not Found,Thread Group 1-15,text,false,,820,1926,16,16,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,111,0,0
+1653512761921,727,,,"Number of samples in transaction : 5, number of failing samples : 2",Thread Group 1-15,,false,,3140,6216,16,16,null,727,2,0
+1653512762547,105,-8,404,Not Found,Thread Group 1-18,text,false,,820,1926,16,16,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,105,0,0
+1653512762445,208,-14,200,OK,Thread Group 1-4,text,true,,1565,1066,16,16,https://www.blazedemo.com/confirmation.php,207,0,0
+1653512762066,586,,,"Number of samples in transaction : 2, number of failing samples : 1",Thread Group 1-4,,false,,2385,2992,16,16,null,585,1,0
+1653512762073,582,-14,200,OK,Thread Group 1-5,text,true,,1437,1066,15,15,https://www.blazedemo.com/confirmation.php,580,0,0
+1653512762550,105,-8,404,Not Found,Thread Group 1-20,text,false,,820,1926,15,15,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,105,0,0
+1653512761911,744,,,"Number of samples in transaction : 2, number of failing samples : 1",Thread Group 1-5,,false,,2257,2992,15,15,null,742,0,0
+1653512762547,118,-4,404,Not Found,Thread Group 1-17,text,false,,820,1926,14,14,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,118,0,0
+1653512762559,114,-10,200,OK,Thread Group 1-12,,true,,500,788,14,14,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,114,0,0
+1653512762015,658,-14,200,OK,Thread Group 1-9,text,true,,1572,1066,14,14,https://www.blazedemo.com/confirmation.php,658,0,0
+1653512761908,764,,,"Number of samples in transaction : 2, number of failing samples : 1",Thread Group 1-9,,false,,2392,2992,14,14,null,764,1,0
+1653512762576,100,-6,404,Not Found,Thread Group 1-7,text,false,,820,1926,13,13,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,99,0,0
+1653512761854,822,,,"Number of samples in transaction : 5, number of failing samples : 2",Thread Group 1-7,,false,,3140,6216,13,13,null,821,0,0
+1653512762588,97,-10,200,OK,Thread Group 1-11,,true,,500,788,13,13,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,97,0,0
+1653512762586,107,-4,404,Not Found,Thread Group 1-14,text,false,,820,1926,13,13,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,107,0,0
+1653512762039,683,-14,200,OK,Thread Group 1-6,text,true,,1636,1066,13,13,https://www.blazedemo.com/confirmation.php,683,0,0
+1653512761939,783,,,"Number of samples in transaction : 2, number of failing samples : 1",Thread Group 1-6,,false,,2456,2992,13,13,null,779,0,0
+1653512762635,99,-8,404,Not Found,Thread Group 1-10,text,false,,820,1926,12,12,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,99,0,0
+1653512762650,101,-6,404,Not Found,Thread Group 1-16,text,false,,820,1926,12,12,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,101,0,0
+1653512762069,681,,,"Number of samples in transaction : 5, number of failing samples : 2",Thread Group 1-16,,false,,3140,6216,12,12,null,681,1,0
+1653512762650,102,-8,404,Not Found,Thread Group 1-15,text,false,,820,1926,12,12,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,102,0,0
+1653512762546,206,-14,200,OK,Thread Group 1-13,text,true,,1627,1066,12,12,https://www.blazedemo.com/confirmation.php,206,0,0
+1653512762445,307,,,"Number of samples in transaction : 2, number of failing samples : 1",Thread Group 1-13,,false,,2447,2992,12,12,null,307,0,0
+1653512762666,99,-10,200,OK,Thread Group 1-17,,true,,500,788,11,11,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,99,0,0
+1653512762650,120,-4,404,Not Found,Thread Group 1-19,text,false,,820,1926,11,11,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,120,0,0
+1653512762676,94,-8,404,Not Found,Thread Group 1-7,text,false,,820,1926,11,11,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,94,0,0
+1653512762673,113,-6,404,Not Found,Thread Group 1-12,text,false,,820,1926,11,11,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,113,0,0
+1653512762685,101,-6,404,Not Found,Thread Group 1-11,text,false,,820,1926,11,11,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,101,0,0
+1653512762055,729,,,"Number of samples in transaction : 5, number of failing samples : 2",Thread Group 1-12,,false,,3140,6216,11,11,null,729,3,0
+1653512761957,829,,,"Number of samples in transaction : 5, number of failing samples : 2",Thread Group 1-11,,false,,3140,6216,11,11,null,828,1,0
+1653512762693,106,-10,200,OK,Thread Group 1-14,,true,,500,788,11,11,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,106,0,0
+1653512762751,104,-8,404,Not Found,Thread Group 1-16,text,false,,820,1926,11,11,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,104,0,0
+1653512762652,203,-14,200,OK,Thread Group 1-18,text,true,,1481,1066,11,11,https://www.blazedemo.com/confirmation.php,203,0,0
+1653512762547,308,,,"Number of samples in transaction : 2, number of failing samples : 1",Thread Group 1-18,,false,,2301,2992,11,11,null,308,0,0
+1653512762765,103,-6,404,Not Found,Thread Group 1-17,text,false,,820,1926,10,10,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,102,0,0
+1653512762072,795,,,"Number of samples in transaction : 5, number of failing samples : 2",Thread Group 1-17,,false,,3140,6216,10,10,null,794,1,0
+1653512762770,137,-10,200,OK,Thread Group 1-19,,true,,500,788,10,10,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,137,0,0
+1653512762787,122,-8,404,Not Found,Thread Group 1-11,text,false,,820,1926,10,10,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,122,0,0
+1653512762787,126,-8,404,Not Found,Thread Group 1-12,text,false,,820,1926,10,10,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,125,0,0
+1653512762799,116,-6,404,Not Found,Thread Group 1-14,text,false,,820,1926,10,10,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,116,0,0
+1653512762069,846,,,"Number of samples in transaction : 5, number of failing samples : 2",Thread Group 1-14,,false,,3140,6216,10,10,null,846,0,0
+1653512762734,193,-14,200,OK,Thread Group 1-10,text,true,,1582,1066,10,10,https://www.blazedemo.com/confirmation.php,193,0,0
+1653512762635,292,,,"Number of samples in transaction : 2, number of failing samples : 1",Thread Group 1-10,,false,,2402,2992,10,10,null,292,0,0
+1653512762752,197,-14,200,OK,Thread Group 1-15,text,true,,1500,1066,9,9,https://www.blazedemo.com/confirmation.php,195,0,0
+1653512762650,299,,,"Number of samples in transaction : 2, number of failing samples : 1",Thread Group 1-15,,false,,2320,2992,9,9,null,297,0,0
+1653512762868,103,-8,404,Not Found,Thread Group 1-17,text,false,,820,1926,8,8,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,103,0,0
+1653512762907,98,-6,404,Not Found,Thread Group 1-19,text,false,,820,1926,8,8,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,97,0,0
+1653512762445,559,,,"Number of samples in transaction : 5, number of failing samples : 2",Thread Group 1-19,,false,,3140,6216,8,8,null,558,1,0
+1653512762915,105,-8,404,Not Found,Thread Group 1-14,text,false,,820,1926,8,8,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,105,0,0
+1653512762855,194,-14,200,OK,Thread Group 1-16,text,true,,1424,1066,8,8,https://www.blazedemo.com/confirmation.php,193,0,0
+1653512762751,298,,,"Number of samples in transaction : 2, number of failing samples : 1",Thread Group 1-16,,false,,2244,2992,8,8,null,297,0,0
+1653512763005,101,-8,404,Not Found,Thread Group 1-19,text,false,,820,1926,7,7,https://api.flightproxy.teams.microsoft.com/api/v2/ep/broker-usea-06.broker.skype.com/api/v1/subscribe/6eea2090-9e32-4047-92bf-9b03f34fa2eb/0?i=3,101,0,0
+1653512762909,208,-14,200,OK,Thread Group 1-11,text,true,,1533,1066,7,7,https://www.blazedemo.com/confirmation.php,208,0,0
+1653512762787,330,,,"Number of samples in transaction : 2, number of failing samples : 1",Thread Group 1-11,,false,,2353,2992,7,7,null,330,0,0
+1653512762972,200,-14,200,OK,Thread Group 1-17,text,true,,1414,1066,6,6,https://www.blazedemo.com/confirmation.php,199,0,0
+1653512762868,303,,,"Number of samples in transaction : 2, number of failing samples : 1",Thread Group 1-17,,false,,2234,2992,6,6,null,302,1,0
+1653512763107,216,-14,200,OK,Thread Group 1-19,text,true,,1636,1066,5,5,https://www.blazedemo.com/confirmation.php,215,0,0
+1653512763005,317,,,"Number of samples in transaction : 2, number of failing samples : 1",Thread Group 1-19,,false,,2456,2992,5,5,null,316,1,0
+1653512762913,424,-14,200,OK,Thread Group 1-12,text,true,,1627,1066,4,4,https://www.blazedemo.com/confirmation.php,424,0,0
+1653512762787,550,,,"Number of samples in transaction : 2, number of failing samples : 1",Thread Group 1-12,,false,,2447,2992,4,4,null,549,0,0
+1653512763021,389,-14,200,OK,Thread Group 1-14,text,true,,1590,1066,3,3,https://www.blazedemo.com/confirmation.php,389,0,0
+1653512762915,494,,,"Number of samples in transaction : 2, number of failing samples : 1",Thread Group 1-14,,false,,2410,2992,3,3,null,494,2,0
+1653512762655,803,-14,200,OK,Thread Group 1-20,text,true,,1586,1066,2,2,https://www.blazedemo.com/confirmation.php,803,0,0
+1653512762550,908,,,"Number of samples in transaction : 2, number of failing samples : 1",Thread Group 1-20,,false,,2406,2992,2,2,null,908,1,0
+1653512762770,717,-14,200,OK,Thread Group 1-7,text,true,,1422,1066,1,1,https://www.blazedemo.com/confirmation.php,717,0,0
+1653512762676,811,,,"Number of samples in transaction : 2, number of failing samples : 1",Thread Group 1-7,,false,,2242,2992,1,1,null,811,1,0
