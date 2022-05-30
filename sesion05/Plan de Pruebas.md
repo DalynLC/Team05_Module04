@@ -181,8 +181,11 @@ Se vuelve un tema que causa suspensión cuando:
 
 | # | Riesgo | Probabilidad | Impacto | Plan de mitigación | Responsable |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 1  | Contenido de la celda | | | | |
-| 2  | Contenido de la celda  | | | | |
+| 1  | Indisponibilidad de datos para ejecución de pruebas | L | H | Revisión frecuente de la información en base de datos para pruebas y archivo CSV |-| 
+| 2  | Cambio en la funcionalidad/diseño durante ejecución de prueba| M | H | Trabajar nuevamente los escenarios de prueba de rendimiento | -|
+| 3  | Disponibilidad del hardware | L | H |Mover la fecha de inicio de pruebas y revisar estado del hardware | -|
+| 4  | Cuestiones ambientales | L | M | Priorizar entregables | -|
+
 
 
 
