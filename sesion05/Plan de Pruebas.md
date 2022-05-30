@@ -132,9 +132,6 @@ Los parámetros utilizados como base para la realización del análisis de los r
 ![estres - summary](https://user-images.githubusercontent.com/77414220/170796257-176b26e7-a985-410f-a5af-dfdd113438a2.PNG)
 
 
-### Actividades y entregables de pruebas de rendimiento
-
-
 ## DATOS DE PRUEBA
 Como datos de prueba se utilizaron:
 - 20 usuarios concurrentes con 1 segundo entre peticiones.
@@ -186,18 +183,6 @@ Se vuelve un tema que causa suspensión cuando:
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 1  | Contenido de la celda | | | | |
 | 2  | Contenido de la celda  | | | | |
-
-## ABREVIATURAS
-
-| Abreviatura | Descripción | 
-| ------------- | ------------- |
-| DB  | Base de datos |
-|  Http | Protocolo de transferencia de hipertexto |
-|  JDBC | Conectividad de base de datos java |
-| QA  | Control de calidad |
-| SLA  | Acuerdo de nivel de servicio |
-|  SME | Experto en la materia |
-| UAT  | Pruebas de aceptación del usuario |
 
 
 
