@@ -23,9 +23,16 @@ En esta sesión crearemos un proyecto en JMeter donde consumamos una API y utili
 - Incorporar archivo CSV
 - ![estres_4](https://user-images.githubusercontent.com/23124413/171503323-d8e431f9-eb78-4335-82df-8ff5455b3d71.PNG)
 - Agregar el formato de respuesta JSON
+- ![estres_5](https://user-images.githubusercontent.com/23124413/171504337-4cc47026-6797-4327-8634-cc840f5c0c3d.PNG)
 - Indicar método (GET-POST) para inicio de la prueba
+- POST
+- ![estres_6](https://user-images.githubusercontent.com/23124413/171504409-c1c58619-5f5d-4807-bc4b-598ae747cf84.PNG)
+- GET
+- ![estres_3](https://user-images.githubusercontent.com/23124413/171504500-e018122b-d923-4095-9610-4301dd216ef2.PNG)
 - Agregar JSON Extractor e indicar la expresión que se desea extraer
+- ![estres_5](https://user-images.githubusercontent.com/23124413/171504542-9ebdc0cb-860d-46f9-926a-e40986a7b853.PNG)
 - Preparar la prueba indicando 10 usuarios simulados
+- 
 - Ejecutar el proyecto
 - Presentar resultado Sampler
 - Presentar request
