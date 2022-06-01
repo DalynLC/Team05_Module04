@@ -55,4 +55,10 @@ En esta sesión crearemos un proyecto en JMeter donde consumamos una API y utili
 ![test50_14](https://user-images.githubusercontent.com/23124413/171505572-b6223310-2164-4bca-aa09-786846fcef20.PNG)
 
 * Realizar el mismo proceso con 100 usuarios simulados
-
+![test100_1](https://user-images.githubusercontent.com/23124413/171505779-984206cd-b1c9-44c9-b86b-891486ccfa90.PNG)
+![test100_8](https://user-images.githubusercontent.com/23124413/171505789-2189444c-a2d7-4c26-b0e6-2eac959d065f.PNG)
+![test100_9](https://user-images.githubusercontent.com/23124413/171505800-d858ef27-be35-4cef-93d2-13ffbe5cda4b.PNG)
+![test100_10](https://user-images.githubusercontent.com/23124413/171505815-8c8be506-cd6e-41b1-98c5-97bba99976a8.PNG)
+![test100_11](https://user-images.githubusercontent.com/23124413/171505820-e16c7328-77ec-4957-acb8-9dabd0b3aede.PNG)
+![test100_13](https://user-images.githubusercontent.com/23124413/171505827-bdd44653-ebff-4901-aded-ebb749a42a6d.PNG)
+![test100_14](https://user-images.githubusercontent.com/23124413/171505835-e7fa7872-f8f0-4a39-8dcc-eb2def1963c4.PNG)
