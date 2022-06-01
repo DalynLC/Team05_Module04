@@ -19,8 +19,9 @@ En esta sesión crearemos un proyecto en JMeter donde consumamos una API y utili
 - Crear proyecto en JMeter con los elementos para pruebas de carga y estrés
 - ![plan Test](https://user-images.githubusercontent.com/23124413/171502405-0e055ffb-f405-4a2d-b78d-941f2d4f990e.PNG)
 - Crear la solicitud HTTP para el consumo de la API
-- 
+- ![estres_2](https://user-images.githubusercontent.com/23124413/171503263-4d3eea50-eee5-42cd-aa17-d0f1de6d874f.PNG)
 - Incorporar archivo CSV
+- ![estres_4](https://user-images.githubusercontent.com/23124413/171503323-d8e431f9-eb78-4335-82df-8ff5455b3d71.PNG)
 - Agregar el formato de respuesta JSON
 - Indicar método (GET-POST) para inicio de la prueba
 - Agregar JSON Extractor e indicar la expresión que se desea extraer
