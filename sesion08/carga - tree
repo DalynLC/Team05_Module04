@@ -1,0 +1,41 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1654115691044,353,API_get_c,200,OK,Thread Group Carga 1-2,text,true,,1895,130,5,131,https://reqres.in/api/users?page=2,353,0,283
+1654115690950,456,API_get_c,200,OK,Thread Group Carga 1-1,text,true,,1901,130,5,135,https://reqres.in/api/users?page=2,456,0,390
+1654115691426,75,API_post_JSON_c,200,OK,Thread Group Carga 1-2,text,true,,1866,215,5,143,https://reqres.in/api/users,75,0,0
+1654115691147,358,API_get_c,200,OK,Thread Group Carga 1-3,text,true,,1911,130,5,143,https://reqres.in/api/users?page=2,358,0,271
+1654115691429,137,API_post_JSON_c,200,OK,Thread Group Carga 1-1,text,true,,1862,215,7,185,https://reqres.in/api/users,137,0,0
+1654115691505,67,API_post_JSON_c,200,OK,Thread Group Carga 1-3,text,true,,1876,212,7,187,https://reqres.in/api/users,67,0,0
+1654115691264,402,API_get_c,200,OK,Thread Group Carga 1-4,text,true,,1905,130,8,210,https://reqres.in/api/users?page=2,402,0,315
+1654115691388,345,API_get_c,200,OK,Thread Group Carga 1-5,text,true,,1903,130,8,232,https://reqres.in/api/users?page=2,345,0,256
+1654115691666,109,API_post_JSON_c,200,OK,Thread Group Carga 1-4,text,true,,1868,215,9,246,https://reqres.in/api/users,109,0,0
+1654115691733,69,API_post_JSON_c,200,OK,Thread Group Carga 1-5,text,true,,1864,214,9,256,https://reqres.in/api/users,69,0,0
+1654115691502,334,API_post_c,201,Created,Thread Group Carga 1-2,text,true,,863,216,9,261,https://reqres.in/api/users,334,0,0
+1654115691836,0,Debug Sampler_c,200,OK,Thread Group Carga 1-2,text,true,,1374,0,9,261,null,0,0,0
+1654115691572,331,API_post_c,201,Created,Thread Group Carga 1-3,text,true,,863,213,9,261,https://reqres.in/api/users,331,0,0
+1654115691905,1,Debug Sampler_c,200,OK,Thread Group Carga 1-3,text,true,,1371,0,9,261,null,0,0,0
+1654115691568,360,API_post_c,201,Created,Thread Group Carga 1-1,text,true,,861,216,8,248,https://reqres.in/api/users,360,0,0
+1654115691928,0,Debug Sampler_c,200,OK,Thread Group Carga 1-1,text,true,,1374,0,8,248,null,0,0,0
+1654115691775,354,API_post_c,201,Created,Thread Group Carga 1-4,text,true,,874,216,7,198,https://reqres.in/api/users,354,0,0
+1654115692129,0,Debug Sampler_c,200,OK,Thread Group Carga 1-4,text,true,,1374,0,7,198,null,0,0,0
+1654115691803,343,API_post_c,201,Created,Thread Group Carga 1-5,text,true,,865,215,6,196,https://reqres.in/api/users,343,0,0
+1654115692146,0,Debug Sampler_c,200,OK,Thread Group Carga 1-5,text,true,,1373,0,6,196,null,0,0,0
+1654115691708,439,API_get_c,200,OK,Thread Group Carga 1-8,text,true,,1899,130,6,196,https://reqres.in/api/users?page=2,439,0,342
+1654115691750,432,API_get_c,200,OK,Thread Group Carga 1-9,text,true,,1905,130,5,190,https://reqres.in/api/users?page=2,431,0,346
+1654115691569,662,API_get_c,200,OK,Thread Group Carga 1-6,text,true,,1899,130,5,187,https://reqres.in/api/users?page=2,644,0,558
+1654115692147,89,API_post_JSON_c,200,OK,Thread Group Carga 1-8,text,true,,1866,214,5,187,https://reqres.in/api/users,89,0,0
+1654115692182,93,API_post_JSON_c,200,OK,Thread Group Carga 1-9,text,true,,1868,214,5,186,https://reqres.in/api/users,93,0,0
+1654115692231,79,API_post_JSON_c,200,OK,Thread Group Carga 1-6,text,true,,1868,215,5,182,https://reqres.in/api/users,79,0,0
+1654115691852,458,API_get_c,200,OK,Thread Group Carga 1-10,text,true,,1913,130,5,182,https://reqres.in/api/users?page=2,458,0,380
+1654115692311,81,API_post_JSON_c,200,OK,Thread Group Carga 1-10,text,true,,1866,212,5,175,https://reqres.in/api/users,81,0,0
+1654115691631,877,API_get_c,200,OK,Thread Group Carga 1-7,text,true,,1899,130,5,169,https://reqres.in/api/users?page=2,877,0,810
+1654115692508,81,API_post_JSON_c,200,OK,Thread Group Carga 1-7,text,true,,1868,214,5,166,https://reqres.in/api/users,81,0,0
+1654115692237,353,API_post_c,201,Created,Thread Group Carga 1-8,text,true,,865,215,5,166,https://reqres.in/api/users,353,0,0
+1654115692590,0,Debug Sampler_c,200,OK,Thread Group Carga 1-8,text,true,,1373,0,5,166,null,0,0,0
+1654115692275,349,API_post_c,201,Created,Thread Group Carga 1-9,text,true,,859,215,4,158,https://reqres.in/api/users,349,0,0
+1654115692624,0,Debug Sampler_c,200,OK,Thread Group Carga 1-9,text,true,,1373,0,4,158,null,0,0,0
+1654115692311,353,API_post_c,201,Created,Thread Group Carga 1-6,text,true,,865,216,3,141,https://reqres.in/api/users,353,0,0
+1654115692664,0,Debug Sampler_c,200,OK,Thread Group Carga 1-6,text,true,,1374,0,3,141,null,0,0,0
+1654115692392,337,API_post_c,201,Created,Thread Group Carga 1-10,text,true,,869,213,2,122,https://reqres.in/api/users,337,0,0
+1654115692729,0,Debug Sampler_c,200,OK,Thread Group Carga 1-10,text,true,,1372,0,2,122,null,0,0,0
+1654115692589,379,API_post_c,201,Created,Thread Group Carga 1-7,text,true,,861,215,1,74,https://reqres.in/api/users,379,0,0
+1654115692969,0,Debug Sampler_c,200,OK,Thread Group Carga 1-7,text,true,,1373,0,1,74,null,0,0,0

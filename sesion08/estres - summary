@@ -1,0 +1,601 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1654115690960,431,API_get_e,200,OK,Thread Group Estres 2-2,text,true,,1899,130,63,130,https://reqres.in/api/users?page=2,431,0,360
+1654115691093,308,API_get_e,200,OK,Thread Group Estres 2-21,text,true,,1897,130,63,131,https://reqres.in/api/users?page=2,308,0,237
+1654115690973,423,API_get_e,200,OK,Thread Group Estres 2-4,text,true,,1903,130,63,131,https://reqres.in/api/users?page=2,423,0,350
+1654115691080,326,API_get_e,200,OK,Thread Group Estres 2-19,text,true,,1897,130,65,135,https://reqres.in/api/users?page=2,326,0,259
+1654115691072,346,API_get_e,200,OK,Thread Group Estres 2-18,text,true,,1899,130,67,138,https://reqres.in/api/users?page=2,346,0,267
+1654115691113,312,API_get_e,200,OK,Thread Group Estres 2-24,text,true,,1903,130,67,140,https://reqres.in/api/users?page=2,312,0,248
+1654115691119,307,API_get_e,200,OK,Thread Group Estres 2-25,text,true,,1901,130,68,141,https://reqres.in/api/users?page=2,306,0,242
+1654115691106,320,API_get_e,200,OK,Thread Group Estres 2-23,text,true,,1907,130,68,141,https://reqres.in/api/users?page=2,320,0,240
+1654115691010,427,API_get_e,200,OK,Thread Group Estres 2-9,text,true,,1899,130,68,142,https://reqres.in/api/users?page=2,427,0,350
+1654115690987,450,API_get_e,200,OK,Thread Group Estres 2-6,text,true,,1893,130,68,142,https://reqres.in/api/users?page=2,450,0,369
+1654115691030,417,API_get_e,200,OK,Thread Group Estres 2-12,text,true,,1895,130,68,142,https://reqres.in/api/users?page=2,417,0,330
+1654115690981,474,API_get_e,200,OK,Thread Group Estres 2-5,text,true,,1901,130,68,142,https://reqres.in/api/users?page=2,474,0,397
+1654115691038,417,API_get_e,200,OK,Thread Group Estres 2-13,text,true,,1909,130,68,142,https://reqres.in/api/users?page=2,417,0,343
+1654115691086,370,API_get_e,200,OK,Thread Group Estres 2-20,text,true,,1903,130,68,142,https://reqres.in/api/users?page=2,370,0,294
+1654115691017,442,API_get_e,200,OK,Thread Group Estres 2-10,text,true,,1895,130,68,142,https://reqres.in/api/users?page=2,442,0,361
+1654115691064,408,API_get_e,200,OK,Thread Group Estres 2-17,text,true,,1901,130,68,142,https://reqres.in/api/users?page=2,408,0,332
+1654115691405,71,API_post_e,200,OK,Thread Group Estres 2-2,text,true,,1860,215,68,142,https://reqres.in/api/users,71,0,0
+1654115691043,439,API_get_e,200,OK,Thread Group Estres 2-14,text,true,,1907,130,68,142,https://reqres.in/api/users?page=2,439,0,349
+1654115690965,518,API_get_e,200,OK,Thread Group Estres 2-3,text,true,,1893,130,68,142,https://reqres.in/api/users?page=2,518,0,427
+1654115691127,356,API_get_e,200,OK,Thread Group Estres 2-26,text,true,,1905,130,68,142,https://reqres.in/api/users?page=2,356,0,274
+1654115691100,384,API_get_e,200,OK,Thread Group Estres 2-22,text,true,,1907,130,68,142,https://reqres.in/api/users?page=2,384,0,292
+1654115691051,435,API_get_e,200,OK,Thread Group Estres 2-15,text,true,,1903,130,68,142,https://reqres.in/api/users?page=2,435,0,350
+1654115691412,74,API_post_e,200,OK,Thread Group Estres 2-4,text,true,,1870,212,68,142,https://reqres.in/api/users,74,0,0
+1654115691412,85,API_post_e,200,OK,Thread Group Estres 2-21,text,true,,1866,212,68,143,https://reqres.in/api/users,85,0,0
+1654115691199,300,API_get_e,200,OK,Thread Group Estres 2-36,text,true,,1897,130,68,143,https://reqres.in/api/users?page=2,300,0,219
+1654115691187,312,API_get_e,200,OK,Thread Group Estres 2-34,text,true,,1899,130,68,143,https://reqres.in/api/users?page=2,312,0,231
+1654115691426,73,API_post_e,200,OK,Thread Group Estres 2-24,text,true,,1870,212,68,143,https://reqres.in/api/users,73,0,0
+1654115691162,338,API_get_e,200,OK,Thread Group Estres 2-31,text,true,,1901,130,68,143,https://reqres.in/api/users?page=2,338,0,256
+1654115691419,82,API_post_e,200,OK,Thread Group Estres 2-18,text,true,,1858,212,68,143,https://reqres.in/api/users,82,0,0
+1654115691426,75,API_post_e,200,OK,Thread Group Estres 2-25,text,true,,1864,212,68,143,https://reqres.in/api/users,75,0,0
+1654115691023,479,API_get_e,200,OK,Thread Group Estres 2-11,text,true,,1905,130,68,143,https://reqres.in/api/users?page=2,479,0,395
+1654115691437,66,API_post_e,200,OK,Thread Group Estres 2-9,text,true,,1862,215,68,143,https://reqres.in/api/users,66,0,0
+1654115691058,446,API_get_e,200,OK,Thread Group Estres 2-16,text,true,,1903,130,68,143,https://reqres.in/api/users?page=2,446,0,354
+1654115691176,328,API_get_e,200,OK,Thread Group Estres 2-33,text,true,,1905,130,68,143,https://reqres.in/api/users?page=2,328,0,255
+1654115690953,551,API_get_e,200,OK,Thread Group Estres 2-1,text,true,,1903,130,68,143,https://reqres.in/api/users?page=2,551,0,448
+1654115691419,86,API_post_e,200,OK,Thread Group Estres 2-19,text,true,,1870,212,68,143,https://reqres.in/api/users,86,0,0
+1654115691134,375,API_get_e,200,OK,Thread Group Estres 2-27,text,true,,1899,130,68,143,https://reqres.in/api/users?page=2,375,0,297
+1654115691002,511,API_get_e,200,OK,Thread Group Estres 2-8,text,true,,1905,130,68,143,https://reqres.in/api/users?page=2,511,0,394
+1654115691149,364,API_get_e,200,OK,Thread Group Estres 2-29,text,true,,1901,130,68,143,https://reqres.in/api/users?page=2,364,0,257
+1654115690994,523,API_get_e,200,OK,Thread Group Estres 2-7,text,true,,1901,130,68,143,https://reqres.in/api/users?page=2,523,0,412
+1654115691447,83,API_post_e,200,OK,Thread Group Estres 2-12,text,true,,1868,215,83,174,https://reqres.in/api/users,83,0,0
+1654115691437,93,API_post_e,200,OK,Thread Group Estres 2-6,text,true,,1864,212,83,174,https://reqres.in/api/users,93,0,0
+1654115691456,87,API_post_e,200,OK,Thread Group Estres 2-13,text,true,,1860,215,83,174,https://reqres.in/api/users,87,0,0
+1654115691169,374,API_get_e,200,OK,Thread Group Estres 2-32,text,true,,1903,130,83,174,https://reqres.in/api/users?page=2,374,0,279
+1654115691455,89,API_post_e,200,OK,Thread Group Estres 2-5,text,true,,1862,212,83,174,https://reqres.in/api/users,82,0,0
+1654115691459,85,API_post_e,200,OK,Thread Group Estres 2-10,text,true,,1864,215,83,174,https://reqres.in/api/users,85,0,0
+1654115691456,91,API_post_e,200,OK,Thread Group Estres 2-20,text,true,,1868,212,83,174,https://reqres.in/api/users,91,0,0
+1654115691482,77,API_post_e,200,OK,Thread Group Estres 2-14,text,true,,1870,212,87,183,https://reqres.in/api/users,77,0,0
+1654115691472,87,API_post_e,200,OK,Thread Group Estres 2-17,text,true,,1858,215,87,183,https://reqres.in/api/users,87,0,0
+1654115691483,77,API_post_e,200,OK,Thread Group Estres 2-3,text,true,,1870,212,87,183,https://reqres.in/api/users,77,0,0
+1654115691218,342,API_get_e,200,OK,Thread Group Estres 2-38,text,true,,1903,130,87,183,https://reqres.in/api/users?page=2,342,0,268
+1654115691433,128,API_post_e,200,OK,Thread Group Estres 2-23,text,true,,1868,212,87,183,https://reqres.in/api/users,128,0,0
+1654115691483,78,API_post_e,200,OK,Thread Group Estres 2-26,text,true,,1868,212,87,183,https://reqres.in/api/users,78,0,0
+1654115691234,334,API_get_e,200,OK,Thread Group Estres 2-41,text,true,,1897,130,89,186,https://reqres.in/api/users?page=2,334,0,262
+1654115691504,64,API_post_e,200,OK,Thread Group Estres 2-33,text,true,,1864,212,89,186,https://reqres.in/api/users,64,0,0
+1654115691499,69,API_post_e,200,OK,Thread Group Estres 2-36,text,true,,1864,212,89,186,https://reqres.in/api/users,69,0,0
+1654115691247,322,API_get_e,200,OK,Thread Group Estres 2-43,text,true,,1899,130,89,186,https://reqres.in/api/users?page=2,322,0,249
+1654115691157,412,API_get_e,200,OK,Thread Group Estres 2-30,text,true,,1901,130,89,186,https://reqres.in/api/users?page=2,412,0,261
+1654115691500,69,API_post_e,200,OK,Thread Group Estres 2-34,text,true,,1862,215,89,186,https://reqres.in/api/users,69,0,0
+1654115691191,378,API_get_e,200,OK,Thread Group Estres 2-35,text,true,,1901,130,89,187,https://reqres.in/api/users?page=2,378,0,304
+1654115691484,85,API_post_e,200,OK,Thread Group Estres 2-22,text,true,,1868,212,89,187,https://reqres.in/api/users,85,0,0
+1654115691504,70,API_post_e,200,OK,Thread Group Estres 2-16,text,true,,1864,212,89,187,https://reqres.in/api/users,70,0,0
+1654115691261,313,API_get_e,200,OK,Thread Group Estres 2-45,text,true,,1901,130,89,187,https://reqres.in/api/users?page=2,313,0,248
+1654115691502,72,API_post_e,200,OK,Thread Group Estres 2-11,text,true,,1866,212,89,187,https://reqres.in/api/users,72,0,0
+1654115691142,431,API_get_e,200,OK,Thread Group Estres 2-28,text,true,,1901,130,89,187,https://reqres.in/api/users?page=2,431,0,353
+1654115691505,69,API_post_e,200,OK,Thread Group Estres 2-1,text,true,,1860,212,89,187,https://reqres.in/api/users,69,0,0
+1654115691513,66,API_post_e,200,OK,Thread Group Estres 2-29,text,true,,1874,212,90,189,https://reqres.in/api/users,66,0,0
+1654115691500,80,API_post_e,200,OK,Thread Group Estres 2-31,text,true,,1862,215,90,189,https://reqres.in/api/users,80,0,0
+1654115691509,81,API_post_e,200,OK,Thread Group Estres 2-27,text,true,,1870,212,92,192,https://reqres.in/api/users,81,0,0
+1654115691227,363,API_get_e,200,OK,Thread Group Estres 2-40,text,true,,1905,130,92,192,https://reqres.in/api/users?page=2,363,0,287
+1654115691205,387,API_get_e,200,OK,Thread Group Estres 2-37,text,true,,1905,130,92,192,https://reqres.in/api/users?page=2,387,0,308
+1654115691487,105,API_post_e,200,OK,Thread Group Estres 2-15,text,true,,1866,212,92,192,https://reqres.in/api/users,105,0,0
+1654115691513,86,API_post_e,200,OK,Thread Group Estres 2-8,text,true,,1866,212,92,194,https://reqres.in/api/users,86,0,0
+1654115691277,342,API_get_e,200,OK,Thread Group Estres 2-47,text,true,,1903,130,96,201,https://reqres.in/api/users?page=2,342,0,254
+1654115691517,103,API_post_e,200,OK,Thread Group Estres 2-7,text,true,,1864,212,96,201,https://reqres.in/api/users,103,0,0
+1654115691258,362,API_get_e,200,OK,Thread Group Estres 2-44,text,true,,1897,130,96,201,https://reqres.in/api/users?page=2,362,0,288
+1654115691282,338,API_get_e,200,OK,Thread Group Estres 2-48,text,true,,1899,130,96,201,https://reqres.in/api/users?page=2,338,0,263
+1654115691240,380,API_get_e,200,OK,Thread Group Estres 2-42,text,true,,1903,130,96,201,https://reqres.in/api/users?page=2,380,0,304
+1654115691544,76,API_post_e,200,OK,Thread Group Estres 2-32,text,true,,1864,212,96,201,https://reqres.in/api/users,76,0,0
+1654115691296,343,API_get_e,200,OK,Thread Group Estres 2-50,text,true,,1911,130,97,204,https://reqres.in/api/users?page=2,343,0,253
+1654115691560,91,API_post_e,200,OK,Thread Group Estres 2-38,text,true,,1870,212,99,209,https://reqres.in/api/users,91,0,0
+1654115691569,83,API_post_e,200,OK,Thread Group Estres 2-41,text,true,,1868,212,99,209,https://reqres.in/api/users,83,0,0
+1654115691569,83,API_post_e,200,OK,Thread Group Estres 2-43,text,true,,1864,212,99,209,https://reqres.in/api/users,83,0,0
+1654115691370,282,API_get_e,200,OK,Thread Group Estres 2-56,text,true,,1899,130,99,209,https://reqres.in/api/users?page=2,282,0,196
+1654115691569,83,API_post_e,200,OK,Thread Group Estres 2-30,text,true,,1866,212,99,209,https://reqres.in/api/users,83,0,0
+1654115691294,359,API_get_e,200,OK,Thread Group Estres 2-49,text,true,,1899,130,99,209,https://reqres.in/api/users?page=2,359,0,280
+1654115691220,433,API_get_e,200,OK,Thread Group Estres 2-39,text,true,,1903,130,99,209,https://reqres.in/api/users?page=2,433,0,351
+1654115691570,84,API_post_e,200,OK,Thread Group Estres 2-35,text,true,,1860,214,99,209,https://reqres.in/api/users,84,0,0
+1654115691269,386,API_get_e,200,OK,Thread Group Estres 2-46,text,true,,1903,130,99,209,https://reqres.in/api/users?page=2,386,0,282
+1654115691576,93,API_post_e,200,OK,Thread Group Estres 2-45,text,true,,1868,212,101,213,https://reqres.in/api/users,93,0,0
+1654115691590,80,API_post_e,200,OK,Thread Group Estres 2-40,text,true,,1866,215,101,213,https://reqres.in/api/users,80,0,0
+1654115691592,79,API_post_e,200,OK,Thread Group Estres 2-37,text,true,,1866,212,101,213,https://reqres.in/api/users,79,0,0
+1654115691577,103,API_post_e,200,OK,Thread Group Estres 2-28,text,true,,1864,212,104,219,https://reqres.in/api/users,103,0,0
+1654115691367,314,API_get_e,200,OK,Thread Group Estres 2-57,text,true,,1899,130,104,219,https://reqres.in/api/users?page=2,314,0,233
+1654115691619,76,API_post_e,200,OK,Thread Group Estres 2-47,text,true,,1862,215,104,219,https://reqres.in/api/users,76,0,0
+1654115691332,368,API_get_e,200,OK,Thread Group Estres 2-52,text,true,,1895,130,106,222,https://reqres.in/api/users?page=2,368,0,260
+1654115691620,80,API_post_e,200,OK,Thread Group Estres 2-44,text,true,,1864,212,106,222,https://reqres.in/api/users,80,0,0
+1654115691620,82,API_post_e,200,OK,Thread Group Estres 2-48,text,true,,1870,215,106,222,https://reqres.in/api/users,82,0,0
+1654115691621,111,API_post_e,200,OK,Thread Group Estres 2-42,text,true,,1866,212,110,232,https://reqres.in/api/users,111,0,0
+1654115691394,339,API_get_e,200,OK,Thread Group Estres 2-51,text,true,,1899,130,110,232,https://reqres.in/api/users?page=2,339,0,250
+1654115691639,94,API_post_e,200,OK,Thread Group Estres 2-50,text,true,,1868,212,110,232,https://reqres.in/api/users,93,0,0
+1654115691388,345,API_get_e,200,OK,Thread Group Estres 2-59,text,true,,1897,130,110,232,https://reqres.in/api/users?page=2,345,0,255
+1654115691390,343,API_get_e,200,OK,Thread Group Estres 2-58,text,true,,1895,130,110,232,https://reqres.in/api/users?page=2,343,0,254
+1654115691389,344,API_get_e,200,OK,Thread Group Estres 2-55,text,true,,1903,130,110,232,https://reqres.in/api/users?page=2,344,0,256
+1654115691653,88,API_post_e,200,OK,Thread Group Estres 2-49,text,true,,1868,212,112,235,https://reqres.in/api/users,88,0,0
+1654115691652,90,API_post_e,200,OK,Thread Group Estres 2-56,text,true,,1874,215,112,235,https://reqres.in/api/users,90,0,0
+1654115691390,352,API_get_e,200,OK,Thread Group Estres 2-54,text,true,,1905,130,112,235,https://reqres.in/api/users?page=2,352,0,265
+1654115691394,349,API_get_e,200,OK,Thread Group Estres 2-63,text,true,,1905,130,112,235,https://reqres.in/api/users?page=2,349,0,260
+1654115691389,366,API_get_e,200,OK,Thread Group Estres 2-62,text,true,,1903,130,115,243,https://reqres.in/api/users?page=2,366,0,255
+1654115691656,99,API_post_e,200,OK,Thread Group Estres 2-46,text,true,,1874,212,115,243,https://reqres.in/api/users,99,0,0
+1654115691653,102,API_post_e,200,OK,Thread Group Estres 2-39,text,true,,1866,212,115,243,https://reqres.in/api/users,102,0,0
+1654115691334,439,API_get_e,200,OK,Thread Group Estres 2-53,text,true,,1899,130,117,246,https://reqres.in/api/users?page=2,439,0,336
+1654115691682,96,API_post_e,200,OK,Thread Group Estres 2-57,text,true,,1862,212,117,246,https://reqres.in/api/users,96,0,0
+1654115691700,80,API_post_e,200,OK,Thread Group Estres 2-52,text,true,,1866,215,117,246,https://reqres.in/api/users,80,0,0
+1654115691476,326,API_post_e,201,Created,Thread Group Estres 2-2,text,true,,860,216,122,256,https://reqres.in/api/users,326,0,0
+1654115691802,0,Debug Sampler_e,200,OK,Thread Group Estres 2-2,text,true,,1376,0,122,256,null,0,0,0
+1654115691416,390,API_get_e,200,OK,Thread Group Estres 2-61,text,true,,1897,130,121,256,https://reqres.in/api/users?page=2,386,0,255
+1654115691415,392,API_get_e,200,OK,Thread Group Estres 2-65,text,true,,1905,130,122,257,https://reqres.in/api/users?page=2,392,0,255
+1654115691733,74,API_post_e,200,OK,Thread Group Estres 2-51,text,true,,1860,212,122,257,https://reqres.in/api/users,74,0,0
+1654115691733,75,API_post_e,200,OK,Thread Group Estres 2-55,text,true,,1868,214,122,257,https://reqres.in/api/users,75,0,0
+1654115691733,83,API_post_e,200,OK,Thread Group Estres 2-59,text,true,,1866,215,123,260,https://reqres.in/api/users,83,0,0
+1654115691733,83,API_post_e,200,OK,Thread Group Estres 2-58,text,true,,1864,212,123,260,https://reqres.in/api/users,83,0,0
+1654115691499,326,API_post_e,201,Created,Thread Group Estres 2-21,text,true,,865,213,124,261,https://reqres.in/api/users,326,0,0
+1654115691826,0,Debug Sampler_e,200,OK,Thread Group Estres 2-21,text,true,,1374,0,124,261,null,0,0,0
+1654115691506,323,API_post_e,201,Created,Thread Group Estres 2-19,text,true,,865,213,124,261,https://reqres.in/api/users,323,0,0
+1654115691500,329,API_post_e,201,Created,Thread Group Estres 2-24,text,true,,857,213,124,261,https://reqres.in/api/users,329,0,0
+1654115691829,0,Debug Sampler_e,200,OK,Thread Group Estres 2-19,text,true,,1374,0,124,261,null,0,0,0
+1654115691829,0,Debug Sampler_e,200,OK,Thread Group Estres 2-24,text,true,,1373,0,124,261,null,0,0,0
+1654115691743,86,API_post_e,200,OK,Thread Group Estres 2-63,text,true,,1868,215,124,261,https://reqres.in/api/users,86,0,0
+1654115691501,335,API_post_e,201,Created,Thread Group Estres 2-25,text,true,,869,213,124,261,https://reqres.in/api/users,335,0,0
+1654115691837,0,Debug Sampler_e,200,OK,Thread Group Estres 2-25,text,true,,1373,0,124,261,null,0,0,0
+1654115691742,94,API_post_e,200,OK,Thread Group Estres 2-54,text,true,,1870,214,124,261,https://reqres.in/api/users,94,0,0
+1654115691501,335,API_post_e,201,Created,Thread Group Estres 2-18,text,true,,867,213,124,261,https://reqres.in/api/users,335,0,0
+1654115691838,0,Debug Sampler_e,200,OK,Thread Group Estres 2-18,text,true,,1374,0,124,261,null,0,0,0
+1654115691530,316,API_post_e,201,Created,Thread Group Estres 2-6,text,true,,869,213,122,261,https://reqres.in/api/users,316,0,0
+1654115691846,0,Debug Sampler_e,200,OK,Thread Group Estres 2-6,text,true,,1373,0,122,261,null,0,0,0
+1654115691755,92,API_post_e,200,OK,Thread Group Estres 2-62,text,true,,1860,215,121,260,https://reqres.in/api/users,92,0,0
+1654115691458,392,API_get_e,200,OK,Thread Group Estres 2-60,text,true,,1901,130,121,260,https://reqres.in/api/users?page=2,392,0,283
+1654115691503,359,API_post_e,201,Created,Thread Group Estres 2-9,text,true,,859,216,122,264,https://reqres.in/api/users,359,0,0
+1654115691773,89,API_post_e,200,OK,Thread Group Estres 2-53,text,true,,1862,215,122,264,https://reqres.in/api/users,89,0,0
+1654115691862,0,Debug Sampler_e,200,OK,Thread Group Estres 2-9,text,true,,1376,0,122,264,null,0,0,0
+1654115691543,334,API_post_e,201,Created,Thread Group Estres 2-13,text,true,,861,216,123,265,https://reqres.in/api/users,334,0,0
+1654115691877,0,Debug Sampler_e,200,OK,Thread Group Estres 2-13,text,true,,1377,0,123,265,null,0,0,0
+1654115691545,341,API_post_e,201,Created,Thread Group Estres 2-10,text,true,,865,216,122,263,https://reqres.in/api/users,341,0,0
+1654115691886,0,Debug Sampler_e,200,OK,Thread Group Estres 2-10,text,true,,1377,0,122,263,null,0,0,0
+1654115691495,393,API_post_e,201,Created,Thread Group Estres 2-4,text,true,,863,213,121,262,https://reqres.in/api/users,393,0,0
+1654115691889,0,Debug Sampler_e,200,OK,Thread Group Estres 2-4,text,true,,1373,0,121,262,null,0,0,0
+1654115691530,364,API_post_e,201,Created,Thread Group Estres 2-12,text,true,,869,216,124,266,https://reqres.in/api/users,364,0,0
+1654115691894,0,Debug Sampler_e,200,OK,Thread Group Estres 2-12,text,true,,1377,0,124,265,null,0,0,0
+1654115691569,326,API_post_e,201,Created,Thread Group Estres 2-33,text,true,,861,213,123,266,https://reqres.in/api/users,326,0,0
+1654115691895,0,Debug Sampler_e,200,OK,Thread Group Estres 2-33,text,true,,1374,0,123,266,null,0,0,0
+1654115691561,337,API_post_e,201,Created,Thread Group Estres 2-23,text,true,,869,213,123,266,https://reqres.in/api/users,337,0,0
+1654115691561,340,API_post_e,201,Created,Thread Group Estres 2-26,text,true,,865,213,123,266,https://reqres.in/api/users,340,0,0
+1654115691901,0,Debug Sampler_e,200,OK,Thread Group Estres 2-26,text,true,,1374,0,123,266,null,0,0,0
+1654115691520,382,API_get_e,200,OK,Thread Group Estres 2-67,text,true,,1901,130,122,263,https://reqres.in/api/users?page=2,382,0,283
+1654115691808,94,API_post_e,200,OK,Thread Group Estres 2-65,text,true,,1864,215,122,262,https://reqres.in/api/users,94,0,0
+1654115691544,359,API_post_e,201,Created,Thread Group Estres 2-5,text,true,,873,213,122,261,https://reqres.in/api/users,359,0,0
+1654115691807,99,API_post_e,200,OK,Thread Group Estres 2-61,text,true,,1864,214,122,261,https://reqres.in/api/users,98,0,0
+1654115691559,350,API_post_e,201,Created,Thread Group Estres 2-17,text,true,,865,216,122,261,https://reqres.in/api/users,350,0,0
+1654115691909,0,Debug Sampler_e,200,OK,Thread Group Estres 2-17,text,true,,1377,0,122,261,null,0,0,0
+1654115691910,0,Debug Sampler_e,200,OK,Thread Group Estres 2-23,text,true,,1374,0,121,256,null,0,0,0
+1654115691577,346,API_post_e,201,Created,Thread Group Estres 2-1,text,true,,863,213,121,258,https://reqres.in/api/users,346,0,0
+1654115691923,0,Debug Sampler_e,200,OK,Thread Group Estres 2-1,text,true,,1373,0,121,258,null,0,0,0
+1654115691579,344,API_post_e,201,Created,Thread Group Estres 2-29,text,true,,869,213,120,256,https://reqres.in/api/users,344,0,0
+1654115691923,0,Debug Sampler_e,200,OK,Thread Group Estres 2-29,text,true,,1374,0,120,256,null,0,0,0
+1654115691569,355,API_post_e,201,Created,Thread Group Estres 2-34,text,true,,867,216,119,252,https://reqres.in/api/users,355,0,0
+1654115691924,0,Debug Sampler_e,200,OK,Thread Group Estres 2-34,text,true,,1376,0,119,252,null,0,0,0
+1654115691580,345,API_post_e,201,Created,Thread Group Estres 2-31,text,true,,869,216,119,252,https://reqres.in/api/users,345,0,0
+1654115691925,0,Debug Sampler_e,200,OK,Thread Group Estres 2-31,text,true,,1377,0,119,251,null,0,0,0
+1654115691560,366,API_post_e,201,Created,Thread Group Estres 2-3,text,true,,866,213,118,249,https://reqres.in/api/users,366,0,0
+1654115691926,1,Debug Sampler_e,200,OK,Thread Group Estres 2-3,text,true,,1373,0,118,250,null,0,0,0
+1654115691570,357,API_post_e,201,Created,Thread Group Estres 2-22,text,true,,870,213,118,250,https://reqres.in/api/users,357,0,0
+1654115691927,0,Debug Sampler_e,200,OK,Thread Group Estres 2-22,text,true,,1374,0,118,250,null,0,0,0
+1654115691572,355,API_get_e,200,OK,Thread Group Estres 2-70,text,true,,1897,130,116,248,https://reqres.in/api/users?page=2,355,0,275
+1654115691564,364,API_get_e,200,OK,Thread Group Estres 2-82,text,true,,1907,130,116,247,https://reqres.in/api/users?page=2,364,0,275
+1654115691528,409,API_get_e,200,OK,Thread Group Estres 2-77,text,true,,1901,130,117,248,https://reqres.in/api/users?page=2,409,0,309
+1654115691574,363,API_post_e,201,Created,Thread Group Estres 2-16,text,true,,873,213,117,248,https://reqres.in/api/users,363,0,0
+1654115691559,378,API_post_e,201,Created,Thread Group Estres 2-14,text,true,,860,213,117,248,https://reqres.in/api/users,378,0,0
+1654115691937,0,Debug Sampler_e,200,OK,Thread Group Estres 2-16,text,true,,1374,0,117,248,null,0,0,0
+1654115691937,0,Debug Sampler_e,200,OK,Thread Group Estres 2-14,text,true,,1374,0,117,248,null,0,0,0
+1654115691576,362,API_post_e,201,Created,Thread Group Estres 2-11,text,true,,859,213,116,245,https://reqres.in/api/users,362,0,0
+1654115691938,0,Debug Sampler_e,200,OK,Thread Group Estres 2-11,text,true,,1374,0,116,245,null,0,0,0
+1654115691592,346,API_post_e,201,Created,Thread Group Estres 2-15,text,true,,861,213,115,242,https://reqres.in/api/users,346,0,0
+1654115691938,1,Debug Sampler_e,200,OK,Thread Group Estres 2-15,text,true,,1374,0,115,242,null,0,0,0
+1654115691590,349,API_post_e,201,Created,Thread Group Estres 2-27,text,true,,863,213,113,239,https://reqres.in/api/users,349,0,0
+1654115691939,0,Debug Sampler_e,200,OK,Thread Group Estres 2-27,text,true,,1374,0,113,239,null,0,0,0
+1654115691547,397,API_post_e,201,Created,Thread Group Estres 2-20,text,true,,865,213,112,234,https://reqres.in/api/users,397,0,0
+1654115691944,0,Debug Sampler_e,200,OK,Thread Group Estres 2-20,text,true,,1374,0,112,234,null,0,0,0
+1654115691947,0,Debug Sampler_e,200,OK,Thread Group Estres 2-5,text,true,,1373,0,111,232,null,0,0,0
+1654115691570,382,API_get_e,200,OK,Thread Group Estres 2-72,text,true,,1899,130,113,235,https://reqres.in/api/users?page=2,382,0,280
+1654115691569,383,API_post_e,201,Created,Thread Group Estres 2-36,text,true,,863,213,113,235,https://reqres.in/api/users,383,0,0
+1654115691953,0,Debug Sampler_e,200,OK,Thread Group Estres 2-36,text,true,,1374,0,113,235,null,0,0,0
+1654115691850,103,API_post_e,200,OK,Thread Group Estres 2-60,text,true,,1866,214,112,234,https://reqres.in/api/users,103,0,0
+1654115691600,359,API_post_e,201,Created,Thread Group Estres 2-8,text,true,,859,213,112,234,https://reqres.in/api/users,359,0,0
+1654115691959,0,Debug Sampler_e,200,OK,Thread Group Estres 2-8,text,true,,1372,0,112,234,null,0,0,0
+1654115691620,340,API_post_e,201,Created,Thread Group Estres 2-7,text,true,,861,213,111,233,https://reqres.in/api/users,340,0,0
+1654115691960,0,Debug Sampler_e,200,OK,Thread Group Estres 2-7,text,true,,1373,0,113,235,null,0,0,0
+1654115691652,344,API_post_e,201,Created,Thread Group Estres 2-41,text,true,,869,213,113,235,https://reqres.in/api/users,344,0,0
+1654115691557,441,API_get_e,200,OK,Thread Group Estres 2-79,text,true,,1895,130,113,235,https://reqres.in/api/users?page=2,441,0,304
+1654115691652,347,API_post_e,201,Created,Thread Group Estres 2-43,text,true,,863,213,113,234,https://reqres.in/api/users,347,0,0
+1654115691652,348,API_post_e,201,Created,Thread Group Estres 2-30,text,true,,859,213,116,237,https://reqres.in/api/users,348,0,0
+1654115691651,350,API_post_e,201,Created,Thread Group Estres 2-38,text,true,,865,213,116,237,https://reqres.in/api/users,350,0,0
+1654115691621,380,API_post_e,201,Created,Thread Group Estres 2-32,text,true,,869,213,116,237,https://reqres.in/api/users,380,0,0
+1654115691655,360,API_post_e,201,Created,Thread Group Estres 2-35,text,true,,863,215,116,237,https://reqres.in/api/users,360,0,0
+1654115691928,92,API_post_e,200,OK,Thread Group Estres 2-82,text,true,,1868,215,118,239,https://reqres.in/api/users,92,0,0
+1654115691928,92,API_post_e,200,OK,Thread Group Estres 2-70,text,true,,1866,212,118,239,https://reqres.in/api/users,92,0,0
+1654115691902,94,API_post_e,200,OK,Thread Group Estres 2-67,text,true,,1862,212,113,235,https://reqres.in/api/users,94,0,0
+1654115692022,0,Debug Sampler_e,200,OK,Thread Group Estres 2-41,text,true,,1374,0,118,239,null,0,0,0
+1654115692023,0,Debug Sampler_e,200,OK,Thread Group Estres 2-35,text,true,,1374,0,117,237,null,0,0,0
+1654115692024,0,Debug Sampler_e,200,OK,Thread Group Estres 2-38,text,true,,1374,0,116,236,null,0,0,0
+1654115692024,0,Debug Sampler_e,200,OK,Thread Group Estres 2-32,text,true,,1374,0,116,236,null,0,0,0
+1654115692025,0,Debug Sampler_e,200,OK,Thread Group Estres 2-30,text,true,,1373,0,114,234,null,0,0,0
+1654115691612,414,API_get_e,200,OK,Thread Group Estres 2-92,text,true,,1905,130,114,234,https://reqres.in/api/users?page=2,405,0,311
+1654115692027,0,Debug Sampler_e,200,OK,Thread Group Estres 2-43,text,true,,1374,0,113,233,null,0,0,0
+1654115691670,357,API_post_e,201,Created,Thread Group Estres 2-45,text,true,,869,213,112,231,https://reqres.in/api/users,357,0,0
+1654115692027,0,Debug Sampler_e,200,OK,Thread Group Estres 2-45,text,true,,1373,0,112,231,null,0,0,0
+1654115691672,356,API_post_e,201,Created,Thread Group Estres 2-37,text,true,,867,213,111,230,https://reqres.in/api/users,356,0,0
+1654115692028,0,Debug Sampler_e,200,OK,Thread Group Estres 2-37,text,true,,1374,0,111,230,null,0,0,0
+1654115691681,360,API_post_e,201,Created,Thread Group Estres 2-28,text,true,,867,213,110,226,https://reqres.in/api/users,360,0,0
+1654115691671,370,API_post_e,201,Created,Thread Group Estres 2-40,text,true,,861,216,110,226,https://reqres.in/api/users,370,0,0
+1654115691701,340,API_post_e,201,Created,Thread Group Estres 2-44,text,true,,865,213,110,226,https://reqres.in/api/users,340,0,0
+1654115692041,1,Debug Sampler_e,200,OK,Thread Group Estres 2-44,text,true,,1374,0,110,226,null,0,0,0
+1654115692041,1,Debug Sampler_e,200,OK,Thread Group Estres 2-28,text,true,,1374,0,110,226,null,0,0,0
+1654115692041,1,Debug Sampler_e,200,OK,Thread Group Estres 2-40,text,true,,1377,0,110,226,null,0,0,0
+1654115691937,121,API_post_e,200,OK,Thread Group Estres 2-77,text,true,,1860,212,107,220,https://reqres.in/api/users,121,0,0
+1654115691696,377,API_post_e,201,Created,Thread Group Estres 2-47,text,true,,861,216,107,220,https://reqres.in/api/users,377,0,0
+1654115692073,0,Debug Sampler_e,200,OK,Thread Group Estres 2-47,text,true,,1377,0,107,220,null,0,0,0
+1654115691632,442,API_get_e,200,OK,Thread Group Estres 2-86,text,true,,1897,130,106,218,https://reqres.in/api/users?page=2,442,0,336
+1654115691733,341,API_post_e,201,Created,Thread Group Estres 2-50,text,true,,869,213,106,218,https://reqres.in/api/users,341,0,0
+1654115692074,0,Debug Sampler_e,200,OK,Thread Group Estres 2-50,text,true,,1374,0,106,218,null,0,0,0
+1654115691742,332,API_post_e,201,Created,Thread Group Estres 2-49,text,true,,865,213,106,218,https://reqres.in/api/users,332,0,0
+1654115692074,0,Debug Sampler_e,200,OK,Thread Group Estres 2-49,text,true,,1374,0,106,218,null,0,0,0
+1654115691702,388,API_post_e,201,Created,Thread Group Estres 2-48,text,true,,863,216,104,214,https://reqres.in/api/users,388,0,0
+1654115692090,0,Debug Sampler_e,200,OK,Thread Group Estres 2-48,text,true,,1377,0,104,214,null,0,0,0
+1654115691732,359,API_post_e,201,Created,Thread Group Estres 2-42,text,true,,867,213,103,211,https://reqres.in/api/users,359,0,0
+1654115692091,0,Debug Sampler_e,200,OK,Thread Group Estres 2-42,text,true,,1374,0,103,211,null,0,0,0
+1654115691673,419,API_get_e,200,OK,Thread Group Estres 2-88,text,true,,1901,130,102,209,https://reqres.in/api/users?page=2,419,0,323
+1654115691756,340,API_post_e,201,Created,Thread Group Estres 2-39,text,true,,867,213,102,208,https://reqres.in/api/users,340,0,0
+1654115692096,0,Debug Sampler_e,200,OK,Thread Group Estres 2-39,text,true,,1373,0,102,208,null,0,0,0
+1654115691742,356,API_post_e,201,Created,Thread Group Estres 2-56,text,true,,865,216,101,206,https://reqres.in/api/users,356,0,0
+1654115692098,0,Debug Sampler_e,200,OK,Thread Group Estres 2-56,text,true,,1375,0,101,206,null,0,0,0
+1654115691778,341,API_post_e,201,Created,Thread Group Estres 2-57,text,true,,869,213,100,205,https://reqres.in/api/users,341,0,0
+1654115691669,450,API_get_e,200,OK,Thread Group Estres 2-103,text,true,,1905,130,100,205,https://reqres.in/api/users?page=2,450,0,327
+1654115692119,0,Debug Sampler_e,200,OK,Thread Group Estres 2-57,text,true,,1374,0,100,205,null,0,0,0
+1654115691808,314,API_post_e,201,Created,Thread Group Estres 2-51,text,true,,867,213,99,203,https://reqres.in/api/users,314,0,0
+1654115692122,0,Debug Sampler_e,200,OK,Thread Group Estres 2-51,text,true,,1374,0,99,203,null,0,0,0
+1654115691756,372,API_post_e,201,Created,Thread Group Estres 2-46,text,true,,864,213,98,201,https://reqres.in/api/users,372,0,0
+1654115692128,0,Debug Sampler_e,200,OK,Thread Group Estres 2-46,text,true,,1374,0,98,200,null,0,0,0
+1654115691780,349,API_post_e,201,Created,Thread Group Estres 2-52,text,true,,869,216,98,200,https://reqres.in/api/users,349,0,0
+1654115692129,0,Debug Sampler_e,200,OK,Thread Group Estres 2-52,text,true,,1376,0,97,199,null,0,0,0
+1654115691999,156,API_post_e,200,OK,Thread Group Estres 2-79,text,true,,1866,215,96,195,https://reqres.in/api/users,156,0,0
+1654115691809,349,API_post_e,201,Created,Thread Group Estres 2-55,text,true,,861,215,96,195,https://reqres.in/api/users,349,0,0
+1654115692158,0,Debug Sampler_e,200,OK,Thread Group Estres 2-55,text,true,,1376,0,96,195,null,0,0,0
+1654115691816,347,API_post_e,201,Created,Thread Group Estres 2-59,text,true,,867,216,95,194,https://reqres.in/api/users,347,0,0
+1654115692164,0,Debug Sampler_e,200,OK,Thread Group Estres 2-59,text,true,,1377,0,95,194,null,0,0,0
+1654115691816,362,API_post_e,201,Created,Thread Group Estres 2-58,text,true,,863,213,94,193,https://reqres.in/api/users,362,0,0
+1654115692178,0,Debug Sampler_e,200,OK,Thread Group Estres 2-58,text,true,,1374,0,94,193,null,0,0,0
+1654115691522,656,API_get_e,200,OK,Thread Group Estres 2-69,text,true,,1903,130,94,193,https://reqres.in/api/users?page=2,656,0,555
+1654115691838,341,API_post_e,201,Created,Thread Group Estres 2-54,text,true,,861,215,93,191,https://reqres.in/api/users,341,0,0
+1654115692179,0,Debug Sampler_e,200,OK,Thread Group Estres 2-54,text,true,,1376,0,93,191,null,0,0,0
+1654115692092,89,API_post_e,200,OK,Thread Group Estres 2-88,text,true,,1862,215,92,190,https://reqres.in/api/users,89,0,0
+1654115691751,430,API_get_e,200,OK,Thread Group Estres 2-110,text,true,,1901,130,92,190,https://reqres.in/api/users?page=2,430,0,342
+1654115691708,473,API_get_e,200,OK,Thread Group Estres 2-98,text,true,,1899,130,92,190,https://reqres.in/api/users?page=2,473,0,395
+1654115691837,352,API_post_e,201,Created,Thread Group Estres 2-63,text,true,,865,216,92,190,https://reqres.in/api/users,352,0,0
+1654115692189,0,Debug Sampler_e,200,OK,Thread Group Estres 2-63,text,true,,1377,0,92,190,null,0,0,0
+1654115691847,359,API_post_e,201,Created,Thread Group Estres 2-62,text,true,,857,216,91,189,https://reqres.in/api/users,359,0,0
+1654115692206,0,Debug Sampler_e,200,OK,Thread Group Estres 2-62,text,true,,1377,0,91,189,null,0,0,0
+1654115691564,644,API_get_e,200,OK,Thread Group Estres 2-81,text,true,,1905,130,90,188,https://reqres.in/api/users?page=2,644,0,564
+1654115691510,698,API_get_e,200,OK,Thread Group Estres 2-68,text,true,,1899,130,90,188,https://reqres.in/api/users?page=2,698,0,620
+1654115691862,349,API_post_e,201,Created,Thread Group Estres 2-53,text,true,,881,216,90,188,https://reqres.in/api/users,349,0,0
+1654115692211,0,Debug Sampler_e,200,OK,Thread Group Estres 2-53,text,true,,1377,0,90,188,null,0,0,0
+1654115691563,649,API_get_e,200,OK,Thread Group Estres 2-76,text,true,,1905,130,89,187,https://reqres.in/api/users?page=2,649,0,564
+1654115691698,514,API_get_e,200,OK,Thread Group Estres 2-107,text,true,,1895,130,89,187,https://reqres.in/api/users?page=2,514,0,423
+1654115691587,644,API_get_e,200,OK,Thread Group Estres 2-89,text,true,,1905,130,89,187,https://reqres.in/api/users?page=2,644,0,540
+1654115691822,414,API_get_e,200,OK,Thread Group Estres 2-125,text,true,,1897,130,89,187,https://reqres.in/api/users?page=2,414,0,324
+1654115691630,608,API_get_e,200,OK,Thread Group Estres 2-97,text,true,,1907,130,89,187,https://reqres.in/api/users?page=2,608,0,528
+1654115691890,353,API_get_e,200,OK,Thread Group Estres 2-135,text,true,,1897,130,89,187,https://reqres.in/api/users?page=2,353,0,266
+1654115692178,79,API_post_e,200,OK,Thread Group Estres 2-69,text,true,,1866,212,89,187,https://reqres.in/api/users,79,0,0
+1654115692181,77,API_post_e,200,OK,Thread Group Estres 2-98,text,true,,1862,215,89,187,https://reqres.in/api/users,77,0,0
+1654115691589,670,API_get_e,200,OK,Thread Group Estres 2-73,text,true,,1903,130,89,187,https://reqres.in/api/users?page=2,670,0,589
+1654115691576,697,API_get_e,200,OK,Thread Group Estres 2-90,text,true,,1895,130,89,186,https://reqres.in/api/users?page=2,694,0,603
+1654115691571,703,API_get_e,200,OK,Thread Group Estres 2-83,text,true,,1901,130,89,186,https://reqres.in/api/users?page=2,703,0,608
+1654115691912,362,API_get_e,200,OK,Thread Group Estres 2-134,text,true,,1895,130,89,186,https://reqres.in/api/users?page=2,362,0,266
+1654115691903,373,API_post_e,201,Created,Thread Group Estres 2-65,text,true,,865,216,89,186,https://reqres.in/api/users,373,0,0
+1654115692276,0,Debug Sampler_e,200,OK,Thread Group Estres 2-65,text,true,,1377,0,89,186,null,0,0,0
+1654115691954,330,API_post_e,201,Created,Thread Group Estres 2-60,text,true,,869,215,88,185,https://reqres.in/api/users,330,0,0
+1654115691587,697,API_get_e,200,OK,Thread Group Estres 2-75,text,true,,1901,130,88,185,https://reqres.in/api/users?page=2,696,0,591
+1654115692284,0,Debug Sampler_e,200,OK,Thread Group Estres 2-60,text,true,,1376,0,88,185,null,0,0,0
+1654115692181,103,API_post_e,200,OK,Thread Group Estres 2-110,text,true,,1866,215,88,185,https://reqres.in/api/users,103,0,0
+1654115691952,332,API_post_e,200,OK,Thread Group Estres 2-72,text,true,,1868,212,88,185,https://reqres.in/api/users,332,0,0
+1654115691906,378,API_post_e,201,Created,Thread Group Estres 2-61,text,true,,867,215,88,185,https://reqres.in/api/users,378,0,0
+1654115692284,0,Debug Sampler_e,200,OK,Thread Group Estres 2-61,text,true,,1376,0,88,184,null,0,0,0
+1654115691926,361,API_get_e,200,OK,Thread Group Estres 2-140,text,true,,1905,130,86,182,https://reqres.in/api/users?page=2,361,0,279
+1654115692208,82,API_post_e,200,OK,Thread Group Estres 2-68,text,true,,1876,212,86,182,https://reqres.in/api/users,82,0,0
+1654115691916,374,API_get_e,200,OK,Thread Group Estres 2-136,text,true,,1899,130,86,182,https://reqres.in/api/users?page=2,374,0,291
+1654115691524,779,API_get_e,200,OK,Thread Group Estres 2-66,text,true,,1897,130,86,182,https://reqres.in/api/users?page=2,779,0,682
+1654115692212,91,API_post_e,200,OK,Thread Group Estres 2-76,text,true,,1868,215,86,182,https://reqres.in/api/users,91,0,0
+1654115692208,96,API_post_e,200,OK,Thread Group Estres 2-81,text,true,,1866,212,86,182,https://reqres.in/api/users,96,0,0
+1654115692212,98,API_post_e,200,OK,Thread Group Estres 2-107,text,true,,1866,214,86,182,https://reqres.in/api/users,98,0,0
+1654115692231,81,API_post_e,200,OK,Thread Group Estres 2-89,text,true,,1860,215,86,182,https://reqres.in/api/users,81,0,0
+1654115692244,82,API_post_e,200,OK,Thread Group Estres 2-135,text,true,,1870,212,86,181,https://reqres.in/api/users,82,0,0
+1654115692239,88,API_post_e,200,OK,Thread Group Estres 2-97,text,true,,1870,215,86,181,https://reqres.in/api/users,88,0,0
+1654115692236,95,API_post_e,200,OK,Thread Group Estres 2-125,text,true,,1874,212,86,181,https://reqres.in/api/users,95,0,0
+1654115692026,305,API_post_e,200,OK,Thread Group Estres 2-92,text,true,,1868,212,86,181,https://reqres.in/api/users,305,0,0
+1654115692259,86,API_post_e,200,OK,Thread Group Estres 2-73,text,true,,1862,214,86,180,https://reqres.in/api/users,86,0,0
+1654115692275,70,API_post_e,200,OK,Thread Group Estres 2-134,text,true,,1862,215,86,180,https://reqres.in/api/users,70,0,0
+1654115691663,703,API_get_e,200,OK,Thread Group Estres 2-87,text,true,,1901,130,86,180,https://reqres.in/api/users?page=2,703,0,595
+1654115692022,344,API_post_e,201,Created,Thread Group Estres 2-67,text,true,,866,213,86,180,https://reqres.in/api/users,344,0,0
+1654115692020,347,API_post_e,201,Created,Thread Group Estres 2-82,text,true,,869,216,86,180,https://reqres.in/api/users,347,0,0
+1654115692367,0,Debug Sampler_e,200,OK,Thread Group Estres 2-67,text,true,,1374,0,86,180,null,0,0,0
+1654115692367,0,Debug Sampler_e,200,OK,Thread Group Estres 2-82,text,true,,1377,0,86,180,null,0,0,0
+1654115692274,93,API_post_e,200,OK,Thread Group Estres 2-90,text,true,,1870,212,86,180,https://reqres.in/api/users,93,0,0
+1654115692020,347,API_post_e,201,Created,Thread Group Estres 2-70,text,true,,873,213,86,180,https://reqres.in/api/users,347,0,0
+1654115691630,737,API_get_e,200,OK,Thread Group Estres 2-96,text,true,,1901,130,86,180,https://reqres.in/api/users?page=2,737,0,645
+1654115692367,0,Debug Sampler_e,200,OK,Thread Group Estres 2-70,text,true,,1374,0,86,180,null,0,0,0
+1654115692290,78,API_post_e,200,OK,Thread Group Estres 2-136,text,true,,1862,212,84,178,https://reqres.in/api/users,78,0,0
+1654115692274,94,API_post_e,200,OK,Thread Group Estres 2-83,text,true,,1876,212,84,178,https://reqres.in/api/users,94,0,0
+1654115692284,85,API_post_e,200,OK,Thread Group Estres 2-75,text,true,,1870,215,84,178,https://reqres.in/api/users,85,0,0
+1654115692287,87,API_post_e,200,OK,Thread Group Estres 2-140,text,true,,1858,212,83,176,https://reqres.in/api/users,87,0,0
+1654115691969,422,API_get_e,200,OK,Thread Group Estres 2-145,text,true,,1903,130,83,176,https://reqres.in/api/users?page=2,422,0,317
+1654115692303,98,API_post_e,200,OK,Thread Group Estres 2-66,text,true,,1868,214,83,174,https://reqres.in/api/users,98,0,0
+1654115692058,351,API_post_e,201,Created,Thread Group Estres 2-77,text,true,,867,213,83,174,https://reqres.in/api/users,351,0,0
+1654115692037,372,API_get_e,200,OK,Thread Group Estres 2-149,text,true,,1903,130,83,174,https://reqres.in/api/users?page=2,372,0,275
+1654115692409,0,Debug Sampler_e,200,OK,Thread Group Estres 2-77,text,true,,1374,0,83,174,null,0,0,0
+1654115691645,765,API_get_e,200,OK,Thread Group Estres 2-95,text,true,,1903,130,82,172,https://reqres.in/api/users?page=2,765,0,687
+1654115691523,888,API_get_e,200,OK,Thread Group Estres 2-64,text,true,,1899,130,82,172,https://reqres.in/api/users?page=2,888,0,809
+1654115692037,403,API_get_e,200,OK,Thread Group Estres 2-148,text,true,,1897,130,82,170,https://reqres.in/api/users?page=2,403,0,289
+1654115691680,761,API_get_e,200,OK,Thread Group Estres 2-101,text,true,,1899,130,82,170,https://reqres.in/api/users?page=2,761,0,686
+1654115691589,852,API_get_e,200,OK,Thread Group Estres 2-71,text,true,,1903,130,82,170,https://reqres.in/api/users?page=2,852,0,780
+1654115692366,76,API_post_e,200,OK,Thread Group Estres 2-87,text,true,,1864,215,82,170,https://reqres.in/api/users,76,0,0
+1654115691554,891,API_get_e,200,OK,Thread Group Estres 2-78,text,true,,1893,130,82,170,https://reqres.in/api/users?page=2,891,0,814
+1654115692367,78,API_post_e,200,OK,Thread Group Estres 2-96,text,true,,1866,214,82,170,https://reqres.in/api/users,78,0,0
+1654115691800,668,API_get_e,200,OK,Thread Group Estres 2-122,text,true,,1895,130,82,170,https://reqres.in/api/users?page=2,668,0,591
+1654115691789,679,API_get_e,200,OK,Thread Group Estres 2-118,text,true,,1897,130,82,170,https://reqres.in/api/users?page=2,679,0,603
+1654115691562,917,API_get_e,200,OK,Thread Group Estres 2-80,text,true,,1895,130,82,170,https://reqres.in/api/users?page=2,917,0,839
+1654115692391,92,API_post_e,200,OK,Thread Group Estres 2-145,text,true,,1868,215,82,170,https://reqres.in/api/users,92,0,0
+1654115691784,705,API_get_e,200,OK,Thread Group Estres 2-114,text,true,,1901,130,82,170,https://reqres.in/api/users?page=2,705,0,626
+1654115692410,87,API_post_e,200,OK,Thread Group Estres 2-95,text,true,,1864,212,82,170,https://reqres.in/api/users,87,0,0
+1654115692409,88,API_post_e,200,OK,Thread Group Estres 2-149,text,true,,1866,215,82,170,https://reqres.in/api/users,88,0,0
+1654115692156,342,API_post_e,201,Created,Thread Group Estres 2-79,text,true,,860,216,82,170,https://reqres.in/api/users,342,0,0
+1654115692498,0,Debug Sampler_e,200,OK,Thread Group Estres 2-79,text,true,,1377,0,82,170,null,0,0,0
+1654115691788,710,API_get_e,200,OK,Thread Group Estres 2-119,text,true,,1903,130,82,170,https://reqres.in/api/users?page=2,710,0,613
+1654115691810,689,API_get_e,200,OK,Thread Group Estres 2-123,text,true,,1897,130,81,169,https://reqres.in/api/users?page=2,689,0,600
+1654115692411,96,API_post_e,200,OK,Thread Group Estres 2-64,text,true,,1866,212,81,169,https://reqres.in/api/users,96,0,0
+1654115692441,67,API_post_e,200,OK,Thread Group Estres 2-71,text,true,,1862,215,81,169,https://reqres.in/api/users,67,0,0
+1654115692446,64,API_post_e,200,OK,Thread Group Estres 2-78,text,true,,1868,212,81,168,https://reqres.in/api/users,64,0,0
+1654115691710,802,API_get_e,200,OK,Thread Group Estres 2-105,text,true,,1895,130,81,168,https://reqres.in/api/users?page=2,802,0,730
+1654115692441,71,API_post_e,200,OK,Thread Group Estres 2-101,text,true,,1866,215,81,168,https://reqres.in/api/users,71,0,0
+1654115691662,866,API_get_e,200,OK,Thread Group Estres 2-84,text,true,,1899,130,81,168,https://reqres.in/api/users?page=2,866,0,306
+1654115692440,88,API_post_e,200,OK,Thread Group Estres 2-148,text,true,,1860,214,81,168,https://reqres.in/api/users,88,0,0
+1654115692181,357,API_post_e,201,Created,Thread Group Estres 2-88,text,true,,867,216,81,167,https://reqres.in/api/users,357,0,0
+1654115692538,0,Debug Sampler_e,200,OK,Thread Group Estres 2-88,text,true,,1377,0,81,167,null,0,0,0
+1654115692468,70,API_post_e,200,OK,Thread Group Estres 2-118,text,true,,1864,212,81,167,https://reqres.in/api/users,70,0,0
+1654115692468,75,API_post_e,200,OK,Thread Group Estres 2-122,text,true,,1864,212,80,166,https://reqres.in/api/users,74,0,0
+1654115691676,883,API_get_e,200,OK,Thread Group Estres 2-93,text,true,,1897,130,80,166,https://reqres.in/api/users?page=2,883,0,792
+1654115691558,1001,API_get_e,200,OK,Thread Group Estres 2-85,text,true,,1897,130,80,166,https://reqres.in/api/users?page=2,621,0,518
+1654115691526,1034,API_get_e,200,OK,Thread Group Estres 2-74,text,true,,1903,130,80,166,https://reqres.in/api/users?page=2,655,0,551
+1654115692489,85,API_post_e,200,OK,Thread Group Estres 2-114,text,true,,1868,212,80,166,https://reqres.in/api/users,85,0,0
+1654115692479,95,API_post_e,200,OK,Thread Group Estres 2-80,text,true,,1870,215,80,166,https://reqres.in/api/users,95,0,0
+1654115692498,79,API_post_e,200,OK,Thread Group Estres 2-119,text,true,,1864,215,80,166,https://reqres.in/api/users,79,0,0
+1654115692499,90,API_post_e,200,OK,Thread Group Estres 2-123,text,true,,1868,212,80,166,https://reqres.in/api/users,90,0,0
+1654115692258,332,API_post_e,201,Created,Thread Group Estres 2-98,text,true,,861,216,80,166,https://reqres.in/api/users,332,0,0
+1654115692590,0,Debug Sampler_e,200,OK,Thread Group Estres 2-98,text,true,,1377,0,80,166,null,0,0,0
+1654115692512,78,API_post_e,200,OK,Thread Group Estres 2-105,text,true,,1860,212,80,166,https://reqres.in/api/users,78,0,0
+1654115692257,335,API_post_e,201,Created,Thread Group Estres 2-69,text,true,,865,213,79,162,https://reqres.in/api/users,335,0,0
+1654115692592,0,Debug Sampler_e,200,OK,Thread Group Estres 2-69,text,true,,1374,0,79,162,null,0,0,0
+1654115692528,75,API_post_e,200,OK,Thread Group Estres 2-84,text,true,,1866,215,78,161,https://reqres.in/api/users,75,0,0
+1654115691788,815,API_get_e,200,OK,Thread Group Estres 2-116,text,true,,1895,130,78,161,https://reqres.in/api/users?page=2,815,0,740
+1654115691633,971,API_get_e,200,OK,Thread Group Estres 2-94,text,true,,1905,130,78,161,https://reqres.in/api/users?page=2,971,0,895
+1654115691678,933,API_get_e,200,OK,Thread Group Estres 2-100,text,true,,1897,130,78,161,https://reqres.in/api/users?page=2,933,0,849
+1654115692284,327,API_post_e,201,Created,Thread Group Estres 2-110,text,true,,861,216,78,161,https://reqres.in/api/users,327,0,0
+1654115692611,1,Debug Sampler_e,200,OK,Thread Group Estres 2-110,text,true,,1378,0,78,161,null,0,0,0
+1654115691798,826,API_get_e,200,OK,Thread Group Estres 2-121,text,true,,1901,130,77,158,https://reqres.in/api/users?page=2,826,0,744
+1654115692284,340,API_post_e,201,Created,Thread Group Estres 2-72,text,true,,870,213,77,158,https://reqres.in/api/users,340,0,0
+1654115692624,0,Debug Sampler_e,200,OK,Thread Group Estres 2-72,text,true,,1374,0,77,158,null,0,0,0
+1654115692304,331,API_post_e,201,Created,Thread Group Estres 2-81,text,true,,867,213,76,152,https://reqres.in/api/users,331,0,0
+1654115692635,0,Debug Sampler_e,200,OK,Thread Group Estres 2-81,text,true,,1374,0,76,152,null,0,0,0
+1654115692560,75,API_post_e,200,OK,Thread Group Estres 2-74,text,true,,1870,212,76,152,https://reqres.in/api/users,75,0,0
+1654115692559,76,API_post_e,200,OK,Thread Group Estres 2-85,text,true,,1864,212,76,152,https://reqres.in/api/users,76,0,0
+1654115691841,808,API_get_e,200,OK,Thread Group Estres 2-128,text,true,,1899,130,75,149,https://reqres.in/api/users?page=2,808,0,718
+1654115692074,575,API_post_e,200,OK,Thread Group Estres 2-86,text,true,,1860,214,75,149,https://reqres.in/api/users,575,0,0
+1654115692290,359,API_post_e,201,Created,Thread Group Estres 2-68,text,true,,862,213,75,149,https://reqres.in/api/users,359,0,0
+1654115692650,0,Debug Sampler_e,200,OK,Thread Group Estres 2-68,text,true,,1374,0,75,149,null,0,0,0
+1654115692326,331,API_post_e,201,Created,Thread Group Estres 2-135,text,true,,865,213,74,148,https://reqres.in/api/users,331,0,0
+1654115692657,1,Debug Sampler_e,200,OK,Thread Group Estres 2-135,text,true,,1375,0,74,148,null,0,0,0
+1654115692311,349,API_post_e,201,Created,Thread Group Estres 2-107,text,true,,863,215,73,146,https://reqres.in/api/users,349,0,0
+1654115691752,908,API_get_e,200,OK,Thread Group Estres 2-111,text,true,,1895,130,73,146,https://reqres.in/api/users?page=2,908,0,341
+1654115692660,0,Debug Sampler_e,200,OK,Thread Group Estres 2-107,text,true,,1377,0,73,146,null,0,0,0
+1654115692559,101,API_post_e,200,OK,Thread Group Estres 2-93,text,true,,1874,215,73,146,https://reqres.in/api/users,101,0,0
+1654115692327,337,API_post_e,201,Created,Thread Group Estres 2-97,text,true,,871,216,72,141,https://reqres.in/api/users,337,0,0
+1654115691815,849,API_get_e,200,OK,Thread Group Estres 2-124,text,true,,1901,130,72,141,https://reqres.in/api/users?page=2,849,0,774
+1654115692664,0,Debug Sampler_e,200,OK,Thread Group Estres 2-97,text,true,,1377,0,72,141,null,0,0,0
+1654115692303,369,API_post_e,201,Created,Thread Group Estres 2-76,text,true,,873,216,71,139,https://reqres.in/api/users,369,0,0
+1654115692672,0,Debug Sampler_e,200,OK,Thread Group Estres 2-76,text,true,,1377,0,71,139,null,0,0,0
+1654115692312,362,API_post_e,201,Created,Thread Group Estres 2-89,text,true,,863,216,70,137,https://reqres.in/api/users,362,0,0
+1654115692674,0,Debug Sampler_e,200,OK,Thread Group Estres 2-89,text,true,,1377,0,70,137,null,0,0,0
+1654115692345,337,API_post_e,201,Created,Thread Group Estres 2-73,text,true,,863,215,69,133,https://reqres.in/api/users,337,0,0
+1654115692682,0,Debug Sampler_e,200,OK,Thread Group Estres 2-73,text,true,,1376,0,69,133,null,0,0,0
+1654115692331,356,API_post_e,201,Created,Thread Group Estres 2-125,text,true,,858,213,68,131,https://reqres.in/api/users,356,0,0
+1654115692687,0,Debug Sampler_e,200,OK,Thread Group Estres 2-125,text,true,,1374,0,68,131,null,0,0,0
+1654115691853,850,API_get_e,200,OK,Thread Group Estres 2-129,text,true,,1895,130,67,130,https://reqres.in/api/users?page=2,850,0,759
+1654115692603,100,API_post_e,200,OK,Thread Group Estres 2-116,text,true,,1860,212,67,130,https://reqres.in/api/users,100,0,0
+1654115692604,100,API_post_e,200,OK,Thread Group Estres 2-94,text,true,,1876,212,67,128,https://reqres.in/api/users,100,0,0
+1654115692331,375,API_post_e,201,Created,Thread Group Estres 2-92,text,true,,863,213,67,128,https://reqres.in/api/users,375,0,0
+1654115692706,0,Debug Sampler_e,200,OK,Thread Group Estres 2-92,text,true,,1374,0,67,128,null,0,0,0
+1654115692345,367,API_post_e,201,Created,Thread Group Estres 2-134,text,true,,865,216,66,127,https://reqres.in/api/users,367,0,0
+1654115692624,88,API_post_e,200,OK,Thread Group Estres 2-121,text,true,,1866,215,66,127,https://reqres.in/api/users,87,0,0
+1654115692713,0,Debug Sampler_e,200,OK,Thread Group Estres 2-134,text,true,,1378,0,66,127,null,0,0,0
+1654115692612,102,API_post_e,200,OK,Thread Group Estres 2-100,text,true,,1866,214,66,127,https://reqres.in/api/users,101,0,0
+1654115692367,359,API_post_e,201,Created,Thread Group Estres 2-90,text,true,,861,213,65,125,https://reqres.in/api/users,359,0,0
+1654115691912,814,API_get_e,200,OK,Thread Group Estres 2-131,text,true,,1899,130,65,125,https://reqres.in/api/users?page=2,814,0,724
+1654115692726,0,Debug Sampler_e,200,OK,Thread Group Estres 2-90,text,true,,1374,0,65,125,null,0,0,0
+1654115692375,352,API_post_e,201,Created,Thread Group Estres 2-140,text,true,,867,213,64,123,https://reqres.in/api/users,352,0,0
+1654115692727,0,Debug Sampler_e,200,OK,Thread Group Estres 2-140,text,true,,1374,0,64,123,null,0,0,0
+1654115691911,817,API_get_e,200,OK,Thread Group Estres 2-127,text,true,,1903,130,63,122,https://reqres.in/api/users?page=2,816,0,733
+1654115692368,364,API_post_e,201,Created,Thread Group Estres 2-136,text,true,,865,213,63,119,https://reqres.in/api/users,364,0,0
+1654115692369,363,API_post_e,201,Created,Thread Group Estres 2-75,text,true,,871,216,63,119,https://reqres.in/api/users,363,0,0
+1654115692732,0,Debug Sampler_e,200,OK,Thread Group Estres 2-136,text,true,,1375,0,63,119,null,0,0,0
+1654115692732,0,Debug Sampler_e,200,OK,Thread Group Estres 2-75,text,true,,1377,0,63,119,null,0,0,0
+1654115691851,882,API_get_e,200,OK,Thread Group Estres 2-126,text,true,,1895,130,61,117,https://reqres.in/api/users?page=2,882,0,806
+1654115692649,89,API_post_e,200,OK,Thread Group Estres 2-128,text,true,,1866,212,61,116,https://reqres.in/api/users,89,0,0
+1654115692401,338,API_post_e,201,Created,Thread Group Estres 2-66,text,true,,865,215,61,116,https://reqres.in/api/users,338,0,0
+1654115692739,0,Debug Sampler_e,200,OK,Thread Group Estres 2-66,text,true,,1376,0,61,116,null,0,0,0
+1654115692660,79,API_post_e,200,OK,Thread Group Estres 2-111,text,true,,1866,212,61,116,https://reqres.in/api/users,79,0,0
+1654115692664,76,API_post_e,200,OK,Thread Group Estres 2-124,text,true,,1862,212,60,114,https://reqres.in/api/users,76,0,0
+1654115692119,624,API_post_e,200,OK,Thread Group Estres 2-103,text,true,,1868,215,60,114,https://reqres.in/api/users,624,0,0
+1654115692369,398,API_post_e,201,Created,Thread Group Estres 2-83,text,true,,863,213,60,113,https://reqres.in/api/users,398,0,0
+1654115692768,0,Debug Sampler_e,200,OK,Thread Group Estres 2-83,text,true,,1374,0,60,113,null,0,0,0
+1654115691679,1090,API_get_e,200,OK,Thread Group Estres 2-91,text,true,,1903,130,59,111,https://reqres.in/api/users?page=2,1090,0,1004
+1654115692703,77,API_post_e,200,OK,Thread Group Estres 2-129,text,true,,1858,215,59,110,https://reqres.in/api/users,77,0,0
+1654115691667,1114,API_get_e,200,OK,Thread Group Estres 2-99,text,true,,1901,130,59,110,https://reqres.in/api/users?page=2,1113,0,1046
+1654115692442,366,API_post_e,201,Created,Thread Group Estres 2-87,text,true,,861,216,59,110,https://reqres.in/api/users,366,0,0
+1654115692808,0,Debug Sampler_e,200,OK,Thread Group Estres 2-87,text,true,,1377,0,59,110,null,0,0,0
+1654115692728,93,API_post_e,200,OK,Thread Group Estres 2-127,text,true,,1868,215,58,108,https://reqres.in/api/users,91,0,0
+1654115692446,376,API_post_e,201,Created,Thread Group Estres 2-96,text,true,,863,215,58,108,https://reqres.in/api/users,376,0,0
+1654115692822,0,Debug Sampler_e,200,OK,Thread Group Estres 2-96,text,true,,1376,0,58,108,null,0,0,0
+1654115692726,108,API_post_e,200,OK,Thread Group Estres 2-131,text,true,,1870,215,57,106,https://reqres.in/api/users,107,0,0
+1654115692038,800,API_get_e,200,OK,Thread Group Estres 2-147,text,true,,1901,130,57,106,https://reqres.in/api/users?page=2,800,0,727
+1654115692483,355,API_post_e,201,Created,Thread Group Estres 2-145,text,true,,861,216,57,106,https://reqres.in/api/users,355,0,0
+1654115691870,968,API_get_e,200,OK,Thread Group Estres 2-132,text,true,,1899,130,57,106,https://reqres.in/api/users?page=2,968,0,869
+1654115692838,0,Debug Sampler_e,200,OK,Thread Group Estres 2-145,text,true,,1376,0,57,106,null,0,0,0
+1654115692498,349,API_post_e,201,Created,Thread Group Estres 2-149,text,true,,869,216,56,104,https://reqres.in/api/users,349,0,0
+1654115692847,0,Debug Sampler_e,200,OK,Thread Group Estres 2-149,text,true,,1378,0,56,104,null,0,0,0
+1654115692769,78,API_post_e,200,OK,Thread Group Estres 2-91,text,true,,1868,215,56,104,https://reqres.in/api/users,78,0,0
+1654115692508,341,API_post_e,201,Created,Thread Group Estres 2-71,text,true,,873,216,55,102,https://reqres.in/api/users,341,0,0
+1654115692849,0,Debug Sampler_e,200,OK,Thread Group Estres 2-71,text,true,,1377,0,55,102,null,0,0,0
+1654115692498,352,API_post_e,201,Created,Thread Group Estres 2-95,text,true,,871,213,54,100,https://reqres.in/api/users,352,0,0
+1654115692850,0,Debug Sampler_e,200,OK,Thread Group Estres 2-95,text,true,,1373,0,54,100,null,0,0,0
+1654115692510,340,API_post_e,201,Created,Thread Group Estres 2-78,text,true,,863,213,53,99,https://reqres.in/api/users,340,0,0
+1654115692850,0,Debug Sampler_e,200,OK,Thread Group Estres 2-78,text,true,,1374,0,53,99,null,0,0,0
+1654115691699,1156,API_get_e,200,OK,Thread Group Estres 2-106,text,true,,1905,130,52,98,https://reqres.in/api/users?page=2,1152,0,1070
+1654115692538,317,API_post_e,201,Created,Thread Group Estres 2-118,text,true,,871,213,52,98,https://reqres.in/api/users,317,0,0
+1654115692855,0,Debug Sampler_e,200,OK,Thread Group Estres 2-118,text,true,,1375,0,52,98,null,0,0,0
+1654115692508,347,API_post_e,201,Created,Thread Group Estres 2-64,text,true,,867,213,52,98,https://reqres.in/api/users,347,0,0
+1654115692855,0,Debug Sampler_e,200,OK,Thread Group Estres 2-64,text,true,,1373,0,52,98,null,0,0,0
+1654115692781,75,API_post_e,200,OK,Thread Group Estres 2-99,text,true,,1862,215,52,98,https://reqres.in/api/users,75,0,0
+1654115692513,343,API_post_e,201,Created,Thread Group Estres 2-101,text,true,,863,216,50,96,https://reqres.in/api/users,343,0,0
+1654115692856,0,Debug Sampler_e,200,OK,Thread Group Estres 2-101,text,true,,1378,0,50,96,null,0,0,0
+1654115692543,321,API_post_e,201,Created,Thread Group Estres 2-122,text,true,,865,213,49,94,https://reqres.in/api/users,321,0,0
+1654115692734,130,API_post_e,200,OK,Thread Group Estres 2-126,text,true,,1866,215,49,94,https://reqres.in/api/users,130,0,0
+1654115692864,0,Debug Sampler_e,200,OK,Thread Group Estres 2-122,text,true,,1375,0,49,94,null,0,0,0
+1654115692528,343,API_post_e,201,Created,Thread Group Estres 2-148,text,true,,865,215,48,93,https://reqres.in/api/users,343,0,0
+1654115692871,0,Debug Sampler_e,200,OK,Thread Group Estres 2-148,text,true,,1377,0,48,93,null,0,0,0
+1654115692838,83,API_post_e,200,OK,Thread Group Estres 2-147,text,true,,1862,215,47,87,https://reqres.in/api/users,83,0,0
+1654115692838,86,API_post_e,200,OK,Thread Group Estres 2-132,text,true,,1860,212,47,87,https://reqres.in/api/users,86,0,0
+1654115692577,358,API_post_e,201,Created,Thread Group Estres 2-119,text,true,,865,216,47,85,https://reqres.in/api/users,358,0,0
+1654115692855,80,API_post_e,200,OK,Thread Group Estres 2-106,text,true,,1862,215,47,85,https://reqres.in/api/users,80,0,0
+1654115692937,0,Debug Sampler_e,200,OK,Thread Group Estres 2-119,text,true,,1378,0,47,85,null,0,0,0
+1654115692589,347,API_post_e,201,Created,Thread Group Estres 2-123,text,true,,864,213,47,85,https://reqres.in/api/users,347,0,0
+1654115692590,346,API_post_e,201,Created,Thread Group Estres 2-105,text,true,,861,213,47,85,https://reqres.in/api/users,346,0,0
+1654115692937,0,Debug Sampler_e,200,OK,Thread Group Estres 2-123,text,true,,1375,0,47,85,null,0,0,0
+1654115692937,0,Debug Sampler_e,200,OK,Thread Group Estres 2-105,text,true,,1375,0,47,85,null,0,0,0
+1654115692574,364,API_post_e,201,Created,Thread Group Estres 2-80,text,true,,863,216,44,80,https://reqres.in/api/users,364,0,0
+1654115692939,0,Debug Sampler_e,200,OK,Thread Group Estres 2-80,text,true,,1377,0,44,80,null,0,0,0
+1654115692603,356,API_post_e,201,Created,Thread Group Estres 2-84,text,true,,859,216,43,78,https://reqres.in/api/users,356,0,0
+1654115692960,0,Debug Sampler_e,200,OK,Thread Group Estres 2-84,text,true,,1377,0,43,78,null,0,0,0
+1654115692636,323,API_post_e,201,Created,Thread Group Estres 2-85,text,true,,869,213,43,78,https://reqres.in/api/users,323,0,0
+1654115692636,323,API_post_e,201,Created,Thread Group Estres 2-74,text,true,,867,213,43,78,https://reqres.in/api/users,323,0,0
+1654115692574,385,API_post_e,201,Created,Thread Group Estres 2-114,text,true,,869,213,43,78,https://reqres.in/api/users,385,0,0
+1654115692960,0,Debug Sampler_e,200,OK,Thread Group Estres 2-85,text,true,,1374,0,43,78,null,0,0,0
+1654115692960,0,Debug Sampler_e,200,OK,Thread Group Estres 2-74,text,true,,1374,0,43,78,null,0,0,0
+1654115692960,0,Debug Sampler_e,200,OK,Thread Group Estres 2-114,text,true,,1375,0,43,78,null,0,0,0
+1654115692660,329,API_post_e,201,Created,Thread Group Estres 2-93,text,true,,861,216,39,71,https://reqres.in/api/users,329,0,0
+1654115692990,0,Debug Sampler_e,200,OK,Thread Group Estres 2-93,text,true,,1377,0,39,71,null,0,0,0
+1654115692649,343,API_post_e,201,Created,Thread Group Estres 2-86,text,true,,863,215,38,70,https://reqres.in/api/users,343,0,0
+1654115692993,0,Debug Sampler_e,200,OK,Thread Group Estres 2-86,text,true,,1376,0,38,70,null,0,0,0
+1654115691691,1307,API_get_e,200,OK,Thread Group Estres 2-102,text,true,,1903,130,37,69,https://reqres.in/api/users?page=2,1307,0,1233
+1654115691729,1301,API_get_e,200,OK,Thread Group Estres 2-104,text,true,,1905,130,37,68,https://reqres.in/api/users?page=2,1300,0,1229
+1654115691768,1265,API_get_e,200,OK,Thread Group Estres 2-115,text,true,,1893,130,37,68,https://reqres.in/api/users?page=2,1265,0,1200
+1654115691729,1308,API_get_e,200,OK,Thread Group Estres 2-109,text,true,,1899,130,37,68,https://reqres.in/api/users?page=2,1307,0,1227
+1654115691728,1316,API_get_e,200,OK,Thread Group Estres 2-108,text,true,,1893,130,37,68,https://reqres.in/api/users?page=2,1316,0,1239
+1654115692703,341,API_post_e,201,Created,Thread Group Estres 2-116,text,true,,867,213,37,68,https://reqres.in/api/users,341,0,0
+1654115692713,331,API_post_e,201,Created,Thread Group Estres 2-121,text,true,,859,216,37,68,https://reqres.in/api/users,331,0,0
+1654115693045,0,Debug Sampler_e,200,OK,Thread Group Estres 2-116,text,true,,1375,0,37,68,null,0,0,0
+1654115693045,0,Debug Sampler_e,200,OK,Thread Group Estres 2-121,text,true,,1378,0,37,68,null,0,0,0
+1654115691730,1327,API_get_e,200,OK,Thread Group Estres 2-112,text,true,,1903,130,35,66,https://reqres.in/api/users?page=2,1326,0,1237
+1654115692714,343,API_post_e,201,Created,Thread Group Estres 2-100,text,true,,865,215,35,66,https://reqres.in/api/users,343,0,0
+1654115693058,0,Debug Sampler_e,200,OK,Thread Group Estres 2-100,text,true,,1376,0,35,66,null,0,0,0
+1654115692705,355,API_post_e,201,Created,Thread Group Estres 2-94,text,true,,863,213,34,63,https://reqres.in/api/users,355,0,0
+1654115693061,0,Debug Sampler_e,200,OK,Thread Group Estres 2-94,text,true,,1374,0,34,63,null,0,0,0
+1654115691768,1300,API_get_e,200,OK,Thread Group Estres 2-117,text,true,,1899,130,33,61,https://reqres.in/api/users?page=2,1300,0,1212
+1654115691797,1281,API_get_e,200,OK,Thread Group Estres 2-120,text,true,,1907,130,33,60,https://reqres.in/api/users?page=2,1281,0,1208
+1654115693000,88,API_post_e,200,OK,Thread Group Estres 2-102,text,true,,1864,215,33,59,https://reqres.in/api/users,88,0,0
+1654115692739,349,API_post_e,201,Created,Thread Group Estres 2-111,text,true,,865,213,33,59,https://reqres.in/api/users,349,0,0
+1654115693089,0,Debug Sampler_e,200,OK,Thread Group Estres 2-111,text,true,,1375,0,33,59,null,0,0,0
+1654115691736,1356,API_get_e,200,OK,Thread Group Estres 2-113,text,true,,1907,130,32,58,https://reqres.in/api/users?page=2,1356,0,1296
+1654115692738,354,API_post_e,201,Created,Thread Group Estres 2-128,text,true,,861,213,32,58,https://reqres.in/api/users,354,0,0
+1654115693093,0,Debug Sampler_e,200,OK,Thread Group Estres 2-128,text,true,,1374,0,32,58,null,0,0,0
+1654115693034,59,API_post_e,200,OK,Thread Group Estres 2-115,text,true,,1866,215,32,58,https://reqres.in/api/users,59,0,0
+1654115693045,74,API_post_e,200,OK,Thread Group Estres 2-108,text,true,,1858,214,31,57,https://reqres.in/api/users,74,0,0
+1654115693038,81,API_post_e,200,OK,Thread Group Estres 2-109,text,true,,1864,215,31,57,https://reqres.in/api/users,81,0,0
+1654115693031,97,API_post_e,200,OK,Thread Group Estres 2-104,text,true,,1866,212,31,57,https://reqres.in/api/users,97,0,0
+1654115693058,79,API_post_e,200,OK,Thread Group Estres 2-112,text,true,,1860,214,31,56,https://reqres.in/api/users,70,0,0
+1654115692781,357,API_post_e,201,Created,Thread Group Estres 2-129,text,true,,867,216,31,56,https://reqres.in/api/users,357,0,0
+1654115693139,0,Debug Sampler_e,200,OK,Thread Group Estres 2-129,text,true,,1378,0,31,56,null,0,0,0
+1654115693069,77,API_post_e,200,OK,Thread Group Estres 2-117,text,true,,1862,212,30,53,https://reqres.in/api/users,77,0,0
+1654115693079,70,API_post_e,200,OK,Thread Group Estres 2-120,text,true,,1864,214,30,53,https://reqres.in/api/users,70,0,0
+1654115693093,63,API_post_e,200,OK,Thread Group Estres 2-113,text,true,,1864,212,30,53,https://reqres.in/api/users,63,0,0
+1654115692821,350,API_post_e,201,Created,Thread Group Estres 2-127,text,true,,869,216,30,53,https://reqres.in/api/users,350,0,0
+1654115693172,0,Debug Sampler_e,200,OK,Thread Group Estres 2-127,text,true,,1378,0,30,53,null,0,0,0
+1654115692847,347,API_post_e,201,Created,Thread Group Estres 2-91,text,true,,861,216,29,51,https://reqres.in/api/users,347,0,0
+1654115692834,360,API_post_e,201,Created,Thread Group Estres 2-131,text,true,,869,216,29,51,https://reqres.in/api/users,360,0,0
+1654115693196,0,Debug Sampler_e,200,OK,Thread Group Estres 2-91,text,true,,1377,0,29,51,null,0,0,0
+1654115693196,0,Debug Sampler_e,200,OK,Thread Group Estres 2-131,text,true,,1378,0,29,51,null,0,0,0
+1654115691876,1329,API_get_e,200,OK,Thread Group Estres 2-133,text,true,,1897,130,27,49,https://reqres.in/api/users?page=2,1329,0,1242
+1654115692856,350,API_post_e,201,Created,Thread Group Estres 2-99,text,true,,863,216,27,49,https://reqres.in/api/users,350,0,0
+1654115693207,0,Debug Sampler_e,200,OK,Thread Group Estres 2-99,text,true,,1377,0,27,49,null,0,0,0
+1654115692864,344,API_post_e,201,Created,Thread Group Estres 2-126,text,true,,865,216,26,48,https://reqres.in/api/users,344,0,0
+1654115693209,0,Debug Sampler_e,200,OK,Thread Group Estres 2-126,text,true,,1378,0,26,48,null,0,0,0
+1654115691941,1270,API_get_e,200,OK,Thread Group Estres 2-130,text,true,,1903,130,25,47,https://reqres.in/api/users?page=2,1270,0,1202
+1654115691962,1259,API_get_e,200,OK,Thread Group Estres 2-142,text,true,,1895,130,25,47,https://reqres.in/api/users?page=2,1259,0,1200
+1654115691961,1279,API_get_e,200,OK,Thread Group Estres 2-139,text,true,,1907,130,25,47,https://reqres.in/api/users?page=2,1279,0,1213
+1654115692922,327,API_post_e,201,Created,Thread Group Estres 2-147,text,true,,863,216,25,47,https://reqres.in/api/users,327,0,0
+1654115693249,0,Debug Sampler_e,200,OK,Thread Group Estres 2-147,text,true,,1378,0,25,47,null,0,0,0
+1654115691950,1298,API_get_e,200,OK,Thread Group Estres 2-137,text,true,,1897,130,25,47,https://reqres.in/api/users?page=2,1298,0,1217
+1654115692937,326,API_post_e,201,Created,Thread Group Estres 2-106,text,true,,861,216,24,44,https://reqres.in/api/users,326,0,0
+1654115693263,0,Debug Sampler_e,200,OK,Thread Group Estres 2-106,text,true,,1378,0,24,44,null,0,0,0
+1654115692926,339,API_post_e,201,Created,Thread Group Estres 2-132,text,true,,863,213,23,42,https://reqres.in/api/users,339,0,0
+1654115693265,1,Debug Sampler_e,200,OK,Thread Group Estres 2-132,text,true,,1375,0,23,42,null,0,0,0
+1654115691961,1310,API_get_e,200,OK,Thread Group Estres 2-138,text,true,,1905,130,22,41,https://reqres.in/api/users?page=2,1310,0,1234
+1654115693206,68,API_post_e,200,OK,Thread Group Estres 2-133,text,true,,1870,212,22,41,https://reqres.in/api/users,67,0,0
+1654115693213,63,API_post_e,200,OK,Thread Group Estres 2-130,text,true,,1860,212,22,41,https://reqres.in/api/users,63,0,0
+1654115693222,62,API_post_e,200,OK,Thread Group Estres 2-142,text,true,,1860,215,22,41,https://reqres.in/api/users,59,0,0
+1654115691966,1345,API_get_e,200,OK,Thread Group Estres 2-144,text,true,,1901,130,22,41,https://reqres.in/api/users?page=2,1345,0,1272
+1654115693241,71,API_post_e,200,OK,Thread Group Estres 2-139,text,true,,1866,215,22,41,https://reqres.in/api/users,71,0,0
+1654115693249,67,API_post_e,200,OK,Thread Group Estres 2-137,text,true,,1862,212,22,41,https://reqres.in/api/users,67,0,0
+1654115692038,1280,API_get_e,200,OK,Thread Group Estres 2-141,text,true,,1895,130,22,41,https://reqres.in/api/users?page=2,1279,0,1216
+1654115692037,1285,API_get_e,200,OK,Thread Group Estres 2-146,text,true,,1903,130,22,41,https://reqres.in/api/users?page=2,1284,0,1210
+1654115692038,1303,API_get_e,200,OK,Thread Group Estres 2-143,text,true,,1907,130,22,41,https://reqres.in/api/users?page=2,1303,0,1223
+1654115692038,1313,API_get_e,200,OK,Thread Group Estres 2-150,text,true,,1899,130,22,41,https://reqres.in/api/users?page=2,1313,0,1236
+1654115693272,81,API_post_e,200,OK,Thread Group Estres 2-138,text,true,,1866,212,22,41,https://reqres.in/api/users,80,0,0
+1654115692741,622,API_post_e,201,Created,Thread Group Estres 2-124,text,true,,861,213,22,41,https://reqres.in/api/users,622,0,0
+1654115693364,0,Debug Sampler_e,200,OK,Thread Group Estres 2-124,text,true,,1375,0,22,41,null,0,0,0
+1654115693312,77,API_post_e,200,OK,Thread Group Estres 2-144,text,true,,1864,215,21,39,https://reqres.in/api/users,75,0,0
+1654115693319,71,API_post_e,200,OK,Thread Group Estres 2-141,text,true,,1864,212,21,39,https://reqres.in/api/users,71,0,0
+1654115692743,647,API_post_e,201,Created,Thread Group Estres 2-103,text,true,,863,216,21,39,https://reqres.in/api/users,647,0,0
+1654115693391,0,Debug Sampler_e,200,OK,Thread Group Estres 2-103,text,true,,1378,0,21,39,null,0,0,0
+1654115693323,72,API_post_e,200,OK,Thread Group Estres 2-146,text,true,,1862,212,20,38,https://reqres.in/api/users,71,0,0
+1654115693342,63,API_post_e,200,OK,Thread Group Estres 2-143,text,true,,1860,215,20,38,https://reqres.in/api/users,63,0,0
+1654115693093,332,API_post_e,201,Created,Thread Group Estres 2-115,text,true,,861,216,20,37,https://reqres.in/api/users,332,0,0
+1654115693425,0,Debug Sampler_e,200,OK,Thread Group Estres 2-115,text,true,,1378,0,20,37,null,0,0,0
+1654115693088,340,API_post_e,201,Created,Thread Group Estres 2-102,text,true,,863,216,19,36,https://reqres.in/api/users,340,0,0
+1654115693428,0,Debug Sampler_e,200,OK,Thread Group Estres 2-102,text,true,,1378,0,19,36,null,0,0,0
+1654115693352,79,API_post_e,200,OK,Thread Group Estres 2-150,text,true,,1870,214,18,35,https://reqres.in/api/users,79,0,0
+1654115693119,325,API_post_e,201,Created,Thread Group Estres 2-109,text,true,,871,216,18,33,https://reqres.in/api/users,325,0,0
+1654115693444,0,Debug Sampler_e,200,OK,Thread Group Estres 2-109,text,true,,1377,0,18,33,null,0,0,0
+1654115693119,355,API_post_e,201,Created,Thread Group Estres 2-108,text,true,,865,215,17,29,https://reqres.in/api/users,355,0,0
+1654115693149,325,API_post_e,201,Created,Thread Group Estres 2-120,text,true,,861,215,17,29,https://reqres.in/api/users,325,0,0
+1654115693156,318,API_post_e,201,Created,Thread Group Estres 2-113,text,true,,861,213,17,29,https://reqres.in/api/users,318,0,0
+1654115693474,0,Debug Sampler_e,200,OK,Thread Group Estres 2-108,text,true,,1377,0,17,29,null,0,0,0
+1654115693474,0,Debug Sampler_e,200,OK,Thread Group Estres 2-113,text,true,,1375,0,17,29,null,0,0,0
+1654115693474,0,Debug Sampler_e,200,OK,Thread Group Estres 2-120,text,true,,1377,0,17,29,null,0,0,0
+1654115693146,330,API_post_e,201,Created,Thread Group Estres 2-117,text,true,,857,213,14,25,https://reqres.in/api/users,330,0,0
+1654115693476,0,Debug Sampler_e,200,OK,Thread Group Estres 2-117,text,true,,1374,0,14,25,null,0,0,0
+1654115693128,358,API_post_e,201,Created,Thread Group Estres 2-104,text,true,,859,213,13,24,https://reqres.in/api/users,358,0,0
+1654115693486,0,Debug Sampler_e,200,OK,Thread Group Estres 2-104,text,true,,1375,0,13,24,null,0,0,0
+1654115693137,376,API_post_e,201,Created,Thread Group Estres 2-112,text,true,,861,215,12,20,https://reqres.in/api/users,376,0,0
+1654115693513,0,Debug Sampler_e,200,OK,Thread Group Estres 2-112,text,true,,1377,0,12,20,null,0,0,0
+1654115693277,348,API_post_e,201,Created,Thread Group Estres 2-130,text,true,,857,213,11,18,https://reqres.in/api/users,348,0,0
+1654115693274,351,API_post_e,201,Created,Thread Group Estres 2-133,text,true,,861,213,11,18,https://reqres.in/api/users,351,0,0
+1654115693625,0,Debug Sampler_e,200,OK,Thread Group Estres 2-133,text,true,,1375,0,11,18,null,0,0,0
+1654115693625,0,Debug Sampler_e,200,OK,Thread Group Estres 2-130,text,true,,1375,0,11,18,null,0,0,0
+1654115693284,341,API_post_e,201,Created,Thread Group Estres 2-142,text,true,,865,216,9,15,https://reqres.in/api/users,341,0,0
+1654115693625,1,Debug Sampler_e,200,OK,Thread Group Estres 2-142,text,true,,1378,0,9,15,null,0,0,0
+1654115693317,340,API_post_e,201,Created,Thread Group Estres 2-137,text,true,,867,213,8,14,https://reqres.in/api/users,340,0,0
+1654115693657,0,Debug Sampler_e,200,OK,Thread Group Estres 2-137,text,true,,1375,0,8,14,null,0,0,0
+1654115693312,358,API_post_e,201,Created,Thread Group Estres 2-139,text,true,,867,216,7,11,https://reqres.in/api/users,358,0,0
+1654115693670,0,Debug Sampler_e,200,OK,Thread Group Estres 2-139,text,true,,1378,0,7,11,null,0,0,0
+1654115693353,320,API_post_e,201,Created,Thread Group Estres 2-138,text,true,,865,213,6,8,https://reqres.in/api/users,320,0,0
+1654115693674,0,Debug Sampler_e,200,OK,Thread Group Estres 2-138,text,true,,1375,0,6,8,null,0,0,0
+1654115693390,342,API_post_e,201,Created,Thread Group Estres 2-141,text,true,,867,213,5,5,https://reqres.in/api/users,342,0,0
+1654115693389,343,API_post_e,201,Created,Thread Group Estres 2-144,text,true,,864,216,5,5,https://reqres.in/api/users,343,0,0
+1654115693732,0,Debug Sampler_e,200,OK,Thread Group Estres 2-141,text,true,,1375,0,5,5,null,0,0,0
+1654115693732,0,Debug Sampler_e,200,OK,Thread Group Estres 2-144,text,true,,1376,0,5,5,null,0,0,0
+1654115693395,352,API_post_e,201,Created,Thread Group Estres 2-146,text,true,,865,213,3,3,https://reqres.in/api/users,352,0,0
+1654115693747,0,Debug Sampler_e,200,OK,Thread Group Estres 2-146,text,true,,1374,0,3,3,null,0,0,0
+1654115693406,341,API_post_e,201,Created,Thread Group Estres 2-143,text,true,,867,216,3,3,https://reqres.in/api/users,341,0,0
+1654115693747,0,Debug Sampler_e,200,OK,Thread Group Estres 2-143,text,true,,1378,0,3,3,null,0,0,0
+1654115693432,352,API_post_e,201,Created,Thread Group Estres 2-150,text,true,,867,215,1,1,https://reqres.in/api/users,352,0,0
+1654115693784,0,Debug Sampler_e,200,OK,Thread Group Estres 2-150,text,true,,1377,0,1,1,null,0,0,0
