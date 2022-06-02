@@ -24,6 +24,9 @@ En esta sesión crearemos un proyecto en JMeter donde integraremos con Selenium 
   - Reporte resumen
   - Gráfico de resultados
 
+![thread](https://user-images.githubusercontent.com/77414220/171693467-d814b76d-ff0b-4be4-af73-ed14bd798078.PNG)
+
+
 * Estructura el proyecto en Selenium con POM (Page Object Model).
   - Apertura de Eclipse
   - Creación de módulos / transacciones
@@ -39,11 +42,19 @@ En esta sesión crearemos un proyecto en JMeter donde integraremos con Selenium 
 * Integrar Driver de selenium con JMeter.
   - Incluir el elemento jp@gc - Chrome Driver Config
 
+![5](https://user-images.githubusercontent.com/77414220/171693092-7d649ba3-6b0f-4746-8da9-88fc13870c00.PNG)
+
+
 * Incorporar JUnit al proyecto.
   - Incluir el elemento JUnit Request del Sampler
+
+![1](https://user-images.githubusercontent.com/77414220/171692904-3e682ddf-7bb9-4112-9fad-c1139a2dd1ce.PNG)
 
 * Ejecutar proyecto.
 
 * Verificar los resultados.
   - Revisar y analizar los resultados de los elemento del plan de pruebas (Arbol, resumen y gráficos)
 
+![2](https://user-images.githubusercontent.com/77414220/171693401-a1bfdf2f-2fd4-425a-a15e-9aa38d0d258b.PNG)
+![3](https://user-images.githubusercontent.com/77414220/171693394-aaee66e5-1626-4770-9066-355dedaffd50.PNG)
+![4](https://user-images.githubusercontent.com/77414220/171693398-ac9ee7f8-0761-4555-9176-6b60743a39bf.PNG)
