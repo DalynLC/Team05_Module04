@@ -54,3 +54,6 @@ En esta sesión crearemos un proyecto en JMeter donde integremos con Github y ll
 ![thread1](https://user-images.githubusercontent.com/77414220/171694632-856393d8-5906-4d47-9b15-0c98e73b1701.PNG)
 ![thread2](https://user-images.githubusercontent.com/77414220/171694634-1d760d91-36a8-4a46-bed8-92e67a4c83f4.PNG)
 ![thread3](https://user-images.githubusercontent.com/77414220/171694635-e343ec61-6081-4b1a-9aca-1f02c21cebdd.PNG)
+
+![Captura de pantalla (32)](https://user-images.githubusercontent.com/77414220/171695129-e62d9d14-1966-4d73-bcb1-660dcc8d4aec.png)
+
