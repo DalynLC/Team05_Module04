@@ -57,3 +57,20 @@ En esta sesión crearemos un proyecto en JMeter donde integremos con Github y ll
 
 ![Captura de pantalla (32)](https://user-images.githubusercontent.com/77414220/171695129-e62d9d14-1966-4d73-bcb1-660dcc8d4aec.png)
 
+### KPI en BlazeMeter![kpi5](https://user-images.githubusercontent.com/77414220/171703251-36382b56-20d6-45c1-b2a8-28ed7e5f9329.PNG)
+
+![kpi1](https://user-images.githubusercontent.com/77414220/171703244-79d35b21-1b57-4b60-948b-c9933e271223.PNG)
+
+![kpi2](https://user-images.githubusercontent.com/77414220/171703247-8931a103-0b4d-48e4-80a6-9d462222f05f.PNG)
+
+![kpi3](https://user-images.githubusercontent.com/77414220/171703248-7e0b851f-6a6b-4d90-9bca-a05d0525c363.PNG)
+
+![kpi4](https://user-images.githubusercontent.com/77414220/171703249-4c4becc9-fb5e-4c1f-af65-a8f63dc70b9b.PNG)
+
+![kpi5](https://user-images.githubusercontent.com/77414220/171703335-eb0decfe-95c7-440a-87f9-4ac0c97f904e.PNG)
+
+![kpi6](https://user-images.githubusercontent.com/77414220/171703254-23242033-7a17-40f3-af13-5875947784f2.PNG)
+
+![kpi7](https://user-images.githubusercontent.com/77414220/171703255-c58a20ba-cf56-4d0a-ac87-24c3a32a324b.PNG)
+
+![kpi8](https://user-images.githubusercontent.com/77414220/171703260-a55238c3-ca22-438f-b2c2-0a4c200e93fe.PNG)
