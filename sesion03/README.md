@@ -63,6 +63,17 @@ https://user-images.githubusercontent.com/77414220/170371806-0a5f6b69-e076-4389-
 
 ![estabilidad1_4](https://user-images.githubusercontent.com/23124413/170367928-da8edb74-ac41-43a7-a44a-687dd6ca0d2e.PNG)
 
+### Configurar el Thread Group con usuarios para pruebas de recuperación
+
+![recuperacion1_1](https://user-images.githubusercontent.com/77414220/171701133-3e060bb3-0239-4577-ad42-47a7687b8cdc.PNG)
+
+![recuperacion1_2](https://user-images.githubusercontent.com/77414220/171701136-c9342b6c-2731-4797-826b-e2012130bba5.PNG)
+
+![recuperacion1_3](https://user-images.githubusercontent.com/77414220/171701140-930498a1-d00c-484b-8b03-1fd440d65c3f.PNG)
+
+![recuperacion1_4](https://user-images.githubusercontent.com/77414220/171701142-0b7b609c-278d-49a2-b00d-ebd7e7a15f2a.PNG)
+
+
 ## Segundo caso de prueba
 
 https://user-images.githubusercontent.com/77414220/170372371-56d37278-9f5c-414b-aa12-2f489bee2e2b.mp4
