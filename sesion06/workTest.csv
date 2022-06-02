@@ -1,0 +1,99 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1653928882399,175,createUser/index.php-4,508,Loop Detected,Thread Group - CSV 1-10,text,false,,493,720,13,13,http://automationpractice.com/index.php,175,0,87
+1653928882442,181,createUser/index.php-4,508,Loop Detected,Thread Group - CSV 1-11,text,false,,493,720,14,14,http://automationpractice.com/index.php,181,0,92
+1653928882575,84,createUser/index.php?controller=authentication-27,508,Loop Detected,Thread Group - CSV 1-10,text,false,,492,1124,15,15,http://automationpractice.com/index.php?controller=authentication,84,0,0
+1653928882491,183,createUser/index.php-4,508,Loop Detected,Thread Group - CSV 1-12,text,false,,493,720,15,15,http://automationpractice.com/index.php,183,0,95
+1653928882547,157,createUser/index.php-4,508,Loop Detected,Thread Group - CSV 1-13,text,false,,493,720,16,16,http://automationpractice.com/index.php,157,0,77
+1653928882624,92,createUser/index.php?controller=authentication-27,508,Loop Detected,Thread Group - CSV 1-11,text,false,,492,1124,16,16,http://automationpractice.com/index.php?controller=authentication,92,0,0
+1653928882660,81,createUser/index.php-29,508,Loop Detected,Thread Group - CSV 1-10,text,false,,492,598,16,16,http://automationpractice.com/index.php?controller=my-account,81,0,0
+1653928882398,340,Transaction Controller csv,,"Number of samples in transaction : 3, number of failing samples : 3",Thread Group - CSV 1-10,,false,,1477,2442,16,16,null,340,4,87
+1653928882674,100,createUser/index.php?controller=authentication-27,508,Loop Detected,Thread Group - CSV 1-12,text,false,,492,1124,16,16,http://automationpractice.com/index.php?controller=authentication,100,0,0
+1653928882595,180,createUser/index.php-4,508,Loop Detected,Thread Group - CSV 1-14,text,false,,493,720,16,16,http://automationpractice.com/index.php,180,0,83
+1653928882704,85,createUser/index.php?controller=authentication-27,508,Loop Detected,Thread Group - CSV 1-13,text,false,,492,1124,16,16,http://automationpractice.com/index.php?controller=authentication,85,0,0
+1653928882717,96,createUser/index.php-29,508,Loop Detected,Thread Group - CSV 1-11,text,false,,492,598,17,17,http://automationpractice.com/index.php?controller=my-account,96,0,0
+1653928882441,369,Transaction Controller csv,,"Number of samples in transaction : 3, number of failing samples : 3",Thread Group - CSV 1-11,,false,,1477,2442,17,17,null,369,4,92
+1653928882643,177,createUser/index.php-4,508,Loop Detected,Thread Group - CSV 1-15,text,false,,493,720,16,16,http://automationpractice.com/index.php,177,0,82
+1653928882692,162,createUser/index.php-4,508,Loop Detected,Thread Group - CSV 1-16,text,false,,493,720,17,17,http://automationpractice.com/index.php,162,0,81
+1653928882776,86,createUser/index.php?controller=authentication-27,508,Loop Detected,Thread Group - CSV 1-14,text,false,,492,1124,17,17,http://automationpractice.com/index.php?controller=authentication,86,0,0
+1653928882775,87,createUser/index.php-29,508,Loop Detected,Thread Group - CSV 1-12,text,false,,492,598,17,17,http://automationpractice.com/index.php?controller=my-account,87,0,0
+1653928882491,370,Transaction Controller csv,,"Number of samples in transaction : 3, number of failing samples : 3",Thread Group - CSV 1-12,,false,,1477,2442,17,17,null,370,1,95
+1653928882790,81,createUser/index.php-29,508,Loop Detected,Thread Group - CSV 1-13,text,false,,492,598,16,16,http://automationpractice.com/index.php?controller=my-account,81,0,0
+1653928882546,323,Transaction Controller csv,,"Number of samples in transaction : 3, number of failing samples : 3",Thread Group - CSV 1-13,,false,,1477,2442,16,16,null,323,2,77
+1653928882820,85,createUser/index.php?controller=authentication-27,508,Loop Detected,Thread Group - CSV 1-15,text,false,,492,1124,16,16,http://automationpractice.com/index.php?controller=authentication,85,0,0
+1653928882745,169,createUser/index.php-4,508,Loop Detected,Thread Group - CSV 1-17,text,false,,493,720,16,16,http://automationpractice.com/index.php,169,0,81
+1653928882855,80,createUser/index.php?controller=authentication-27,508,Loop Detected,Thread Group - CSV 1-16,text,false,,492,1124,16,16,http://automationpractice.com/index.php?controller=authentication,80,0,0
+1653928882862,98,createUser/index.php-29,508,Loop Detected,Thread Group - CSV 1-14,text,false,,492,598,16,16,http://automationpractice.com/index.php?controller=my-account,98,0,0
+1653928882594,364,Transaction Controller csv,,"Number of samples in transaction : 3, number of failing samples : 3",Thread Group - CSV 1-14,,false,,1477,2442,16,16,null,364,2,83
+1653928882791,176,createUser/index.php-4,508,Loop Detected,Thread Group - CSV 1-18,text,false,,493,720,15,15,http://automationpractice.com/index.php,176,0,88
+1653928882905,90,createUser/index.php-29,508,Loop Detected,Thread Group - CSV 1-15,text,false,,492,598,15,15,http://automationpractice.com/index.php?controller=my-account,90,0,0
+1653928882642,352,Transaction Controller csv,,"Number of samples in transaction : 3, number of failing samples : 3",Thread Group - CSV 1-15,,false,,1477,2442,15,15,null,352,1,82
+1653928882915,85,createUser/index.php?controller=authentication-27,508,Loop Detected,Thread Group - CSV 1-17,text,false,,492,1124,14,14,http://automationpractice.com/index.php?controller=authentication,85,0,0
+1653928882842,168,createUser/index.php-4,508,Loop Detected,Thread Group - CSV 1-19,text,false,,493,720,14,14,http://automationpractice.com/index.php,168,0,79
+1653928882936,77,createUser/index.php-29,508,Loop Detected,Thread Group - CSV 1-16,text,false,,492,598,14,14,http://automationpractice.com/index.php?controller=my-account,77,0,0
+1653928882692,319,Transaction Controller csv,,"Number of samples in transaction : 3, number of failing samples : 3",Thread Group - CSV 1-16,,false,,1477,2442,14,14,null,319,3,81
+1653928882967,95,createUser/index.php?controller=authentication-27,508,Loop Detected,Thread Group - CSV 1-18,text,false,,492,1124,13,13,http://automationpractice.com/index.php?controller=authentication,95,0,0
+1653928882905,174,createUser/index.php-4,508,Loop Detected,Thread Group - CSV 1-20,text,false,,493,720,13,13,http://automationpractice.com/index.php,174,0,90
+1653928883001,81,createUser/index.php-29,508,Loop Detected,Thread Group - CSV 1-17,text,false,,492,598,13,13,http://automationpractice.com/index.php?controller=my-account,81,0,0
+1653928882744,335,Transaction Controller csv,,"Number of samples in transaction : 3, number of failing samples : 3",Thread Group - CSV 1-17,,false,,1477,2442,13,13,null,335,4,81
+1653928883010,86,createUser/index.php?controller=authentication-27,508,Loop Detected,Thread Group - CSV 1-19,text,false,,492,1124,12,12,http://automationpractice.com/index.php?controller=authentication,86,0,0
+1653928883062,92,createUser/index.php-29,508,Loop Detected,Thread Group - CSV 1-18,text,false,,492,598,12,12,http://automationpractice.com/index.php?controller=my-account,92,0,0
+1653928882791,363,Transaction Controller csv,,"Number of samples in transaction : 3, number of failing samples : 3",Thread Group - CSV 1-18,,false,,1477,2442,12,12,null,363,1,88
+1653928883080,89,createUser/index.php?controller=authentication-27,508,Loop Detected,Thread Group - CSV 1-20,text,false,,492,1124,11,11,http://automationpractice.com/index.php?controller=authentication,89,0,0
+1653928883096,79,createUser/index.php-29,508,Loop Detected,Thread Group - CSV 1-19,text,false,,492,598,11,11,http://automationpractice.com/index.php?controller=my-account,78,0,0
+1653928882841,333,Transaction Controller csv,,"Number of samples in transaction : 3, number of failing samples : 3",Thread Group - CSV 1-19,,false,,1477,2442,11,11,null,332,1,79
+1653928883169,94,createUser/index.php-29,508,Loop Detected,Thread Group - CSV 1-20,text,false,,492,598,10,10,http://automationpractice.com/index.php?controller=my-account,94,0,0
+1653928882904,357,Transaction Controller csv,,"Number of samples in transaction : 3, number of failing samples : 3",Thread Group - CSV 1-20,,false,,1477,2442,10,10,null,357,3,90
+1653928882240,5806,createUser/index.php-4,200,OK,Thread Group - CSV 1-7,text,true,,3629,720,9,9,http://automationpractice.com/index.php,5504,0,76
+1653928882190,5924,createUser/index.php-4,200,OK,Thread Group - CSV 1-6,text,true,,3629,720,9,9,http://automationpractice.com/index.php,5547,0,80
+1653928882040,6083,createUser/index.php-4,200,OK,Thread Group - CSV 1-3,text,true,,3629,720,9,9,http://automationpractice.com/index.php,5780,0,123
+1653928882293,6326,createUser/index.php-4,200,OK,Thread Group - CSV 1-8,text,true,,3629,720,9,9,http://automationpractice.com/index.php,5915,0,84
+1653928881943,6978,createUser/index.php-4,200,OK,Thread Group - CSV 1-1,text,true,,3629,720,9,9,http://automationpractice.com/index.php,6570,0,231
+1653928881990,6934,createUser/index.php-4,200,OK,Thread Group - CSV 1-2,text,true,,3637,720,9,9,http://automationpractice.com/index.php,6517,0,184
+1653928882346,6878,createUser/index.php-4,200,OK,Thread Group - CSV 1-9,text,true,,3629,720,9,9,http://automationpractice.com/index.php,6361,0,87
+1653928882139,7295,createUser/index.php-4,200,OK,Thread Group - CSV 1-5,text,true,,3637,720,9,9,http://automationpractice.com/index.php,6673,0,80
+1653928882089,7825,createUser/index.php-4,200,OK,Thread Group - CSV 1-4,text,true,,3637,720,9,9,http://automationpractice.com/index.php,7138,0,85
+1653928888113,6630,createUser/index.php?controller=authentication-27,200,OK,Thread Group - CSV 1-6,text,true,,51530,1124,9,9,http://automationpractice.com/index.php?controller=authentication,6304,0,0
+1653928888923,5888,createUser/index.php?controller=authentication-27,200,OK,Thread Group - CSV 1-2,text,true,,51510,1124,9,9,http://automationpractice.com/index.php?controller=authentication,5593,0,0
+1653928888046,7255,createUser/index.php?controller=authentication-27,200,OK,Thread Group - CSV 1-7,text,true,,51508,1124,9,9,http://automationpractice.com/index.php?controller=authentication,6662,0,0
+1653928888618,7196,createUser/index.php?controller=authentication-27,200,OK,Thread Group - CSV 1-8,text,true,,51512,1124,9,9,http://automationpractice.com/index.php?controller=authentication,6799,0,0
+1653928888122,7991,createUser/index.php?controller=authentication-27,200,OK,Thread Group - CSV 1-3,text,true,,51506,1124,9,9,http://automationpractice.com/index.php?controller=authentication,7695,0,0
+1653928889223,7200,createUser/index.php?controller=authentication-27,200,OK,Thread Group - CSV 1-9,text,true,,51510,1124,9,9,http://automationpractice.com/index.php?controller=authentication,6882,0,0
+1653928889433,7270,createUser/index.php?controller=authentication-27,200,OK,Thread Group - CSV 1-5,text,true,,51508,1124,9,9,http://automationpractice.com/index.php?controller=authentication,6578,0,0
+1653928889913,6988,createUser/index.php?controller=authentication-27,200,OK,Thread Group - CSV 1-4,text,true,,51518,1124,9,9,http://automationpractice.com/index.php?controller=authentication,6295,0,0
+1653928888920,8009,createUser/index.php?controller=authentication-27,200,OK,Thread Group - CSV 1-1,text,true,,51508,1124,9,9,http://automationpractice.com/index.php?controller=authentication,7190,0,0
+1653928896703,5796,createUser/index.php-29,508,Loop Detected,Thread Group - CSV 1-5,text,false,,1069,1216,9,9,http://automationpractice.com/index.php?controller=authentication&back=my-account,5713,0,0
+1653928896703,5713,createUser/index.php-29-0,302,Moved Temporarily,Thread Group - CSV 1-5,text,true,,577,598,9,9,http://automationpractice.com/index.php?controller=my-account,5713,0,0
+1653928902416,83,createUser/index.php-29-1,508,Loop Detected,Thread Group - CSV 1-5,text,false,,492,618,9,9,http://automationpractice.com/index.php?controller=authentication&back=my-account,83,0,0
+1653928882139,20361,Transaction Controller csv,,"Number of samples in transaction : 3, number of failing samples : 1",Thread Group - CSV 1-5,,false,,56214,3060,9,9,null,18964,0,80
+1653928895301,11111,createUser/index.php-29,200,OK,Thread Group - CSV 1-7,text,true,,36103,1216,8,8,http://automationpractice.com/index.php?controller=authentication&back=my-account,4112,0,0
+1653928895301,4112,createUser/index.php-29-0,302,Moved Temporarily,Thread Group - CSV 1-7,text,true,,581,598,8,8,http://automationpractice.com/index.php?controller=my-account,4112,0,0
+1653928899413,6999,createUser/index.php-29-1,200,OK,Thread Group - CSV 1-7,text,true,,35522,618,8,8,http://automationpractice.com/index.php?controller=authentication&back=my-account,6598,0,0
+1653928882240,24172,Transaction Controller csv,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group - CSV 1-7,,true,,91240,3060,8,8,null,16278,1,76
+1653928894811,12122,createUser/index.php-29,200,OK,Thread Group - CSV 1-2,text,true,,36101,1216,7,7,http://automationpractice.com/index.php?controller=authentication&back=my-account,4395,0,0
+1653928894811,4395,createUser/index.php-29-0,302,Moved Temporarily,Thread Group - CSV 1-2,text,true,,581,598,7,7,http://automationpractice.com/index.php?controller=my-account,4395,0,0
+1653928899206,7727,createUser/index.php-29-1,200,OK,Thread Group - CSV 1-2,text,true,,35520,618,7,7,http://automationpractice.com/index.php?controller=authentication&back=my-account,7502,0,0
+1653928881989,24944,Transaction Controller csv,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group - CSV 1-2,,true,,91248,3060,7,7,null,16505,1,184
+1653928896114,10995,createUser/index.php-29,200,OK,Thread Group - CSV 1-3,text,true,,36081,1216,6,6,http://automationpractice.com/index.php?controller=authentication&back=my-account,4214,0,0
+1653928896114,4214,createUser/index.php-29-0,302,Moved Temporarily,Thread Group - CSV 1-3,text,true,,573,598,6,6,http://automationpractice.com/index.php?controller=my-account,4214,0,0
+1653928900329,6780,createUser/index.php-29-1,200,OK,Thread Group - CSV 1-3,text,true,,35508,618,6,6,http://automationpractice.com/index.php?controller=authentication&back=my-account,6490,0,0
+1653928882039,25069,Transaction Controller csv,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group - CSV 1-3,,true,,91216,3060,6,6,null,17689,2,123
+1653928896423,10886,createUser/index.php-29,200,OK,Thread Group - CSV 1-9,text,true,,36085,1216,5,5,http://automationpractice.com/index.php?controller=authentication&back=my-account,5390,0,0
+1653928896423,5390,createUser/index.php-29-0,302,Moved Temporarily,Thread Group - CSV 1-9,text,true,,573,598,5,5,http://automationpractice.com/index.php?controller=my-account,5390,0,0
+1653928901813,5496,createUser/index.php-29-1,200,OK,Thread Group - CSV 1-9,text,true,,35512,618,5,5,http://automationpractice.com/index.php?controller=authentication&back=my-account,5298,0,0
+1653928882345,24964,Transaction Controller csv,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group - CSV 1-9,,true,,91224,3060,5,5,null,18633,1,87
+1653928894744,12667,createUser/index.php-29,200,OK,Thread Group - CSV 1-6,text,true,,36095,1216,4,4,http://automationpractice.com/index.php?controller=authentication&back=my-account,5169,0,0
+1653928894744,5169,createUser/index.php-29-0,302,Moved Temporarily,Thread Group - CSV 1-6,text,true,,581,598,4,4,http://automationpractice.com/index.php?controller=my-account,5169,0,0
+1653928899913,7498,createUser/index.php-29-1,200,OK,Thread Group - CSV 1-6,text,true,,35514,618,4,4,http://automationpractice.com/index.php?controller=authentication&back=my-account,7304,0,0
+1653928896929,10482,createUser/index.php-29,200,OK,Thread Group - CSV 1-1,text,true,,36091,1216,4,4,http://automationpractice.com/index.php?controller=authentication&back=my-account,4374,0,0
+1653928896929,4374,createUser/index.php-29-0,302,Moved Temporarily,Thread Group - CSV 1-1,text,true,,573,598,4,4,http://automationpractice.com/index.php?controller=my-account,4374,0,0
+1653928901303,6108,createUser/index.php-29-1,200,OK,Thread Group - CSV 1-1,text,true,,35518,618,4,4,http://automationpractice.com/index.php?controller=authentication&back=my-account,5908,0,0
+1653928882189,25221,Transaction Controller csv,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group - CSV 1-6,,true,,91254,3060,4,4,null,17020,2,80
+1653928881941,25469,Transaction Controller csv,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group - CSV 1-1,,true,,91228,3060,4,4,null,18134,2,231
+1653928896901,10852,createUser/index.php-29,200,OK,Thread Group - CSV 1-4,text,true,,36099,1216,2,2,http://automationpractice.com/index.php?controller=authentication&back=my-account,5612,0,0
+1653928896901,5612,createUser/index.php-29-0,302,Moved Temporarily,Thread Group - CSV 1-4,text,true,,577,598,2,2,http://automationpractice.com/index.php?controller=my-account,5612,0,0
+1653928902513,5240,createUser/index.php-29-1,200,OK,Thread Group - CSV 1-4,text,true,,35522,618,2,2,http://automationpractice.com/index.php?controller=authentication&back=my-account,5027,0,0
+1653928882088,25665,Transaction Controller csv,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group - CSV 1-4,,true,,91254,3060,2,2,null,19045,1,85
+1653928895814,11985,createUser/index.php-29,200,OK,Thread Group - CSV 1-8,text,true,,36087,1216,1,1,http://automationpractice.com/index.php?controller=authentication&back=my-account,5300,0,0
+1653928895814,5300,createUser/index.php-29-0,302,Moved Temporarily,Thread Group - CSV 1-8,text,true,,573,598,1,1,http://automationpractice.com/index.php?controller=my-account,5300,0,0
+1653928901114,6685,createUser/index.php-29-1,200,OK,Thread Group - CSV 1-8,text,true,,35514,618,1,1,http://automationpractice.com/index.php?controller=authentication&back=my-account,6519,0,0
+1653928882293,25507,Transaction Controller csv,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group - CSV 1-8,,true,,91228,3060,1,1,null,18014,0,84
