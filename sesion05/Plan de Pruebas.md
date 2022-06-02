@@ -131,6 +131,9 @@ Los parámetros utilizados como base para la realización del análisis de los r
 
 ![estres - summary](https://user-images.githubusercontent.com/77414220/170796257-176b26e7-a985-410f-a5af-dfdd113438a2.PNG)
 
+#### Análisis de los reportes
+- Como puede apreciarse, las pruebas de carga y estabilidad tienen resultados similares, siendo la primera con los valores más altos en comparación con la segunda, pero manteniendo un margen de error del 0% en ambos casos. Durante la prueba de estrés, es posible ver cómo los valores en el promedio, el máximo y el margen de error se disparan a comparación de las pruebas anteriores, siendo estos valores muy superiores a los de la prueba de carga y estabilidad. Tambien se puede apreciar que durante las pruebas de estres, no se completaron la totalidad de las pruebas, quedando truncas un tota del 21.
+
 
 ## DATOS DE PRUEBA
 Como datos de prueba se utilizaron:
